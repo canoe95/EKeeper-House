@@ -25,7 +25,7 @@ layout: about
          ·
          <span>
          	 <img src="assets/logo.svg" width="18px">
-        	 <a href="https://northboat.github.io/Blog/">Study Notes</a>
+        	 <a href="https://northboat-docs.vercel.app">Study Docs</a>
     	 </span>
  	</div>
 </center>
