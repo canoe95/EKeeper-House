@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2022-08-17 17:53:28
-banner_img: /static/reco/ez.jpg
+banner_img: /static/ez.jpg
 layout: about
 ---
 

@@ -115,10 +115,21 @@ navbar:
         key: 'Docs',
         icon: 'iconfont icon-books',
         submenu: [
-            { key: 'EKeeper House', link: 'https://www.neuq.club' },
-	    { key: 'My Study Room', link: 'https://northboat-docs.vercel.app' },
-        ]
+            { key: 'C/C++', link: 'https://northboat-docs.vercel.app/dev/c/' },
+	    { key: 'Java', link: 'https://northboat-docs.vercel.app/dev/java/' },
+            { key: 'Front End', link: 'https://northboat-docs.vercel.app/dev/frontend/' },
+	    { key: 'DevOps', link: 'https://northboat-docs.vercel.app/dev/devops/' },
+            { key: 'DataStruct', link: 'https://northboat-docs.vercel.app/major/datastruct/' },
+	    { key: 'Network', link: 'https://northboat-docs.vercel.app/major/network/' },
+            { key: 'Operating System', link: 'https://northboat-docs.vercel.app/major/operating/' },
+	    { key: 'Organization', link: 'https://northboat-docs.vercel.app/major/organization/' },
+            { key: 'Mathematics', link: 'https://northboat-docs.vercel.app/ai/math/' },
+	    { key: 'Python', link: 'https://northboat-docs.vercel.app/ai/python/' },
+            { key: 'Machine Learning', link: 'https://northboat-docs.vercel.app/ai/ml/' },
+	    #{ key: 'Deep Learning', link: 'https://northboat-docs.vercel.app/ai/dl/' }, 
+       ]
       }
+    - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
     - { key: 'archives', link: '/archives/', icon: 'iconfont icon-codeforces', name: 'Archives' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-addrcard', name: 'About' }
 
@@ -192,6 +203,45 @@ about:
 
 tag:
   banner_img: /static/train.gif
+
+links:
+  enable: true
+  banner_img: /static/mountain.jpg
+  items:
+    - { title: 'NEUQ EKeeper House', intro: '给部门搭的资源站', link: 'https://neuq.club/', avatar: '/static/ekeeper.jpg' }
+    - { title: "My Study Room", intro: '我的自习室', link: 'https://northboat-docs.vercel.app/', avatar: '/static/favicon.ico' }
+
+
+post:
+  banner_img: /static/bear.png
+
+
+archive:
+  banner_img: /static/kelamayi.jpg
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+
+
+
+category:
+  enable: true
+  banner_img: /static/sea.jpg
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

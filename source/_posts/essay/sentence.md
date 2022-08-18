@@ -7,7 +7,7 @@ categories:
   - Essay
 excerpt: 摘抄一些小句子
 banner_img: /static/reco/down.jpg
-index_img: /static/reco/sea.jpg
+index_img: /static/reco/boat.jpg
 ---
 
 ## 2020
