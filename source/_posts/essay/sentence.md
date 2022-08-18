@@ -6,9 +6,9 @@ tags:
 categories:
   - Essay
 excerpt: 摘抄一些小句子
+banner_img: /static/reco/down.jpg
+index_img: /static/reco/sea.jpg
 ---
-
-<img src="/static/reco/down.jpg">
 
 ## 2020
 
@@ -28,8 +28,6 @@ excerpt: 摘抄一些小句子
 
 ---
 
-<img src="/static/reco/sea.jpg">
-
 ## 2021
 
 "愿我早逝，且无来生"
@@ -45,8 +43,6 @@ excerpt: 摘抄一些小句子
 > —— 茨威格
 
 ---
-
-<img src="/static/reco/jiumenkou.jpg">
 
 ## 2022
 
@@ -118,3 +114,8 @@ Or are we ashes and wine
 
 痛苦是无止境的，我们只能去学着习惯，你应该去期待未来的每一天都比现在更痛苦，如此才能算是乐观
 
+---
+
+我从来不提前做梦，无论是美梦，还是噩梦
+
+> —— | zhan

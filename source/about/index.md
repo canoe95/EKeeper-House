@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2022-08-17 17:53:28
-banner_img: /static/reco/gufeng.jpg
+banner_img: /static/reco/ez.jpg
 layout: about
 ---
 
@@ -47,17 +47,15 @@ layout: about
 
 - **在线判题系统**
 
-  曾经：http://39.106.160.174:8087
-
   *SpringBoot、Vue+Element-UI、MyBatis、Redis、Docker* 
 
-  全栈开发
+  全栈开发，曾部署于：http://39.106.160.174:8087
 
 - **NEUQ资源站**
 
-  www.neuq.club
-
   *Hexo*
+
+  部署链接：www.neuq.club
 
 - **秒杀系统后台**
 

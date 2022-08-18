@@ -2,13 +2,14 @@
 title: 随想
 date: 2022-1-1
 tags:
-  - Reading
+  - Writing
 categories:
   - Essay
 excerpt: 瞎想
+banner_img: /static/reco/jiumenkou.jpg
+index_img: /static/reco/slp.jpg
+hide: false
 ---
-
-<img src="/static/reco/slp.jpg">
 
 ## 2022
 
