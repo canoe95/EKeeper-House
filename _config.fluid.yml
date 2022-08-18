@@ -185,7 +185,7 @@ favicon: /static/favicon.ico
 about:
   avatar: /static/logo.jpg
   name: "NorthBoat"
-  intro: "纯几把混子"
+  intro: "984.5混子"
   icons:
     - { class: 'iconfont icon-github-fill', link: 'https://github.com/NorthBoat', tip: 'GitHub' }
     - { class: 'iconfont icon-wechat-fill', qrcode: '/static/wechat.png' }
@@ -193,7 +193,5 @@ about:
 tag:
   banner_img: /static/train.gif
 
-categorie:
-  banner_img: /static/used.jpg
 
 
