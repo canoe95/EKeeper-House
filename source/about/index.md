@@ -24,11 +24,12 @@ layout: about
          </span>
          ·
          <span>
-         	 <img src="assets/logo.svg" width="18px">
+         	 <img src="assets/logo.ico" width="18px">
         	 <a href="https://northboat-docs.vercel.app">Study Docs</a>
     	 </span>
  	</div>
 </center>
+
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
