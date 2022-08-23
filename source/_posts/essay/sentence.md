@@ -5,7 +5,7 @@ tags:
   - Reading
 categories:
   - Essay
-excerpt: 摘抄一些小句子
+excerpt: win~win~win~
 banner_img: /static/reco/down.jpg
 index_img: /static/reco/boat.jpg
 ---

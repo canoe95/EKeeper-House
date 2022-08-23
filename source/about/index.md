@@ -42,7 +42,8 @@ layout: about
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- 纯几把混子
+- NEUQ E管家 20 届负责人，负责部门的日常活动，组织并建立校内资源分享站 [EKeeperHouse](https://www.neuq.club)
+- NEUQ 2084 工作室成员，带队参加中国大学生计算机设计大赛（软件开发组）
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -52,7 +53,7 @@ layout: about
 
   全栈开发，曾部署于：http://39.106.160.174:8087
 
-- **NEUQ资源站**
+- **NEUQ分享站**
 
   *Hexo*
 

@@ -5,7 +5,7 @@ tags:
   - Writing
 categories:
   - Essay
-excerpt: 瞎想
+excerpt: 哈哈哈
 banner_img: /static/reco/jiumenkou.jpg
 index_img: /static/reco/slp.jpg
 hide: false
