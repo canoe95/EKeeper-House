@@ -2,12 +2,12 @@
 title: 摘抄
 date: 2021-5-3
 tags:
-  - Reading
+  - Fun
 categories:
   - Essay
-excerpt: win~win~win~
-banner_img: /static/reco/down.jpg
-index_img: /static/reco/boat.jpg
+excerpt: 记录一下
+banner_img: /img/boat.jpg
+index_img: /img/gufeng.jpg
 ---
 
 ## 2020
