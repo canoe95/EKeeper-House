@@ -2,8 +2,8 @@
 title: Album
 date: 2022-08-23 23:51:33
 type: playlist
-banner_img: /img/cross.jpg
-banner_img_height: 70
+banner_img: /img/loveletter.jpg
+banner_img_height: 77
 ---
 
 ## 我喜欢

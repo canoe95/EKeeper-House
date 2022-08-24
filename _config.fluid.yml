@@ -137,8 +137,10 @@ dark_mode:
 # See: https://www.webdesignrankings.com/resources/lolcolors/
 color:
   # body 背景色
+  #CAD8D8
   # Color of body background
-  body_bg_color: "#CAD8D8"
+  #ffe0e6
+  body_bg_color: "#f8f8ff"
   # 暗色模式下的 body 背景色，下同
   # Color in dark mode, the same below
   body_bg_color_dark: "#181c27"
