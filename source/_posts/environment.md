@@ -8,7 +8,7 @@ excerpt: 重装次数太多，备忘
 
 ## Manjaro
 
-用两块固态完全分隔开 manjaro 和 windows（引导也分开）
+manjaro 和 windows 双系统
 
 使用 rufus 制作 manjaro 启动盘，自动分区安装 manjaro
 

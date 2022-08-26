@@ -354,18 +354,18 @@ navbar:
         key: 'Docs',
         icon: 'iconfont icon-books',
         submenu: [
-            { key: 'C/C++', link: 'https://northboat-docs.vercel.app/dev/c/' },
-	    { key: 'Java', link: 'https://northboat-docs.vercel.app/dev/java/' },
-            { key: 'Front End', link: 'https://northboat-docs.vercel.app/dev/frontend/' },
-	    { key: 'DevOps', link: 'https://northboat-docs.vercel.app/dev/devops/' },
-            { key: 'DataStruct', link: 'https://northboat-docs.vercel.app/major/datastruct/' },
-	    { key: 'Network', link: 'https://northboat-docs.vercel.app/major/network/' },
-            { key: 'Operating System', link: 'https://northboat-docs.vercel.app/major/operating/' },
-	    { key: 'Organization', link: 'https://northboat-docs.vercel.app/major/organization/' },
-            { key: 'Mathematics', link: 'https://northboat-docs.vercel.app/ai/math/' },
-	    { key: 'Python', link: 'https://northboat-docs.vercel.app/ai/python/' },
-            { key: 'Machine Learning', link: 'https://northboat-docs.vercel.app/ai/ml/' },
-	    #{ key: 'Deep Learning', link: 'https://northboat-docs.vercel.app/ai/dl/' }, 
+            { key: 'C/C++', link: 'https://northboat-docs.netlify.app/dev/c/' },
+	    { key: 'Java', link: 'https://northboat-docs.netlify.app/dev/java/' },
+            { key: 'Front End', link: 'https://northboat-docs.netlify.app/dev/frontend/' },
+	    { key: 'DevOps', link: 'https://northboat-docs.netlify.app/dev/devops/' },
+            { key: 'DataStruct', link: 'https://northboat-docs.netlify.app/major/datastruct/' },
+	    { key: 'Network', link: 'https://northboat-docs.netlify.app/major/network/' },
+            { key: 'Operating System', link: 'https://northboat-docs.netlify.app/major/operating/' },
+	    { key: 'Organization', link: 'https://northboat-docs.netlify.app/major/organization/' },
+            { key: 'Mathematics', link: 'https://northboat-docs.netlify.app/ai/math/' },
+	    { key: 'Python', link: 'https://northboat-docs.netlify.app/ai/python/' },
+            { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/ml/' },
+	    #{ key: 'Deep Learning', link: 'https://northboat-docs.netlify.app/ai/dl/' }, 
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
@@ -1015,7 +1015,7 @@ links:
   # Member item of page
   items:
     - { title: 'NEUQ EKeeper House', intro: '给部门搭的资源站', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
-    - { title: "My Study Room", intro: '我的自习室', link: 'https://northboat-docs.vercel.app/', avatar: '/img/leaf.ico' }
+    - { title: "My Study Room", intro: '我的自习室', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
 
 
   # 当成员头像加载失败时，替换为指定图片
