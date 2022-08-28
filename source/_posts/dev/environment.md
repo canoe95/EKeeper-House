@@ -1,14 +1,16 @@
 ---
-title: 我的学习环境搭建
+title: 学习环境搭建
 date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
 excerpt: 重装次数太多，备忘
+tags: Learning
+categories: Developer
 ---
 
 ## Manjaro
 
-manjaro 和 windows 双系统
+manjaro / windows 双系统
 
 使用 rufus 制作 manjaro 启动盘，自动分区安装 manjaro
 
