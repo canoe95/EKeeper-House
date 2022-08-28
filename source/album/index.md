@@ -54,11 +54,11 @@ banner_img_height: 77
 
 ---
 
-### 棒子
+### 英特纳雄耐尔
 
 ---
 
-{% meting "7760440798" "tencent" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+{% meting "5022103740" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
