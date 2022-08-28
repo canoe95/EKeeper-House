@@ -37,7 +37,7 @@ layout: about
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 学士，东北大学秦皇岛分校，计算机科学与技术专业，2020.9~至今
+- 学士，东北大学秦皇岛分校，计算机科学与技术专业，2020.9~至今，绩点 3.48，年级前 50%
 - 通过 CET4/6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
