@@ -6,27 +6,59 @@ banner_img: /img/loveletter.jpg
 banner_img_height: 77
 ---
 
-## 我喜欢
+### 我喜欢
+
+---
 
 {% meting "7604478501" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
-## 白话
+### 粤语
+
+---
 
 {% meting "5123040741" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
-## 纯音
+### 纯音乐
+
+---
 
 {% meting "4888810325" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
-## 洋文
+### 洋文
+
+---
 
 {% meting "3098591561" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+
+---
+
+### Rap
+
+---
+
+{% meting "7763819066" "tencent" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+
+---
+
+### 二刺猿
+
+---
+
+{% meting "8195193839" "tencent" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+
+---
+
+### 棒子
+
+---
+
+{% meting "7760440798" "tencent" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
