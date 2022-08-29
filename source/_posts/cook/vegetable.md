@@ -4,7 +4,7 @@ date: 2022-08-29 01:59:28
 banner_img: /img/ride.jpg
 index_img: /img/dingzhen.jpg
 excerpt: 以免饿死
-tags: Fun
+tags: Eatting
 categories: Cook
 banner_img_height: 79
 ---

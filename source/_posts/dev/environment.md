@@ -4,7 +4,7 @@ date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
 excerpt: 重装次数太多，备忘
-tags: Learning
+tags: Build
 categories: Developer
 ---
 

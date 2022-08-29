@@ -2,7 +2,7 @@
 title: 随想
 date: 2022-1-1
 tags:
-  - Fun
+  - Write
 categories:
   - Essay
 excerpt: 哈哈哈

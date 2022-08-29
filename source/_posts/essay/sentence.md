@@ -2,7 +2,7 @@
 title: 摘抄
 date: 2021-5-3
 tags:
-  - Fun
+  - Read
 categories:
   - Essay
 excerpt: 记录一下
