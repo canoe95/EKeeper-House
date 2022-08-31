@@ -238,6 +238,8 @@ custom_js:
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 # The usage is the same as custom_js
 custom_css:
+  #- /css/Aplayer.min.css
+  #- /css/custom.css
 
 # 网页访问统计
 # Analysis of website visitors
@@ -358,10 +360,10 @@ navbar:
 	    { key: 'Java', link: 'https://northboat-docs.netlify.app/dev/java/' },
             { key: 'Front End', link: 'https://northboat-docs.netlify.app/dev/frontend/' },
 	    { key: 'DevOps', link: 'https://northboat-docs.netlify.app/dev/devops/' },
-            { key: 'DataStruct', link: 'https://northboat-docs.netlify.app/major/datastruct/' },
-	    { key: 'Network', link: 'https://northboat-docs.netlify.app/major/network/' },
-            { key: 'Operating System', link: 'https://northboat-docs.netlify.app/major/operating/' },
-	    { key: 'Organization', link: 'https://northboat-docs.netlify.app/major/organization/' },
+            { key: 'DataStruct', link: 'https://northboat-docs.netlify.app/408/datastruct/' },
+	    { key: 'Network', link: 'https://northboat-docs.netlify.app/408/network/' },
+            { key: 'Operating System', link: 'https://northboat-docs.netlify.app/408/operating/' },
+	    { key: 'Organization', link: 'https://northboat-docs.netlify.app/408/organization/' },
             { key: 'Mathematics', link: 'https://northboat-docs.netlify.app/ai/math/' },
 	    { key: 'Python', link: 'https://northboat-docs.netlify.app/ai/python/' },
             { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/ml/' },
