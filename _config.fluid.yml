@@ -1017,7 +1017,8 @@ links:
   # Member item of page
   items:
     - { title: 'NEUQ EKeeper House', intro: '给部门搭的资源站', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
-    - { title: "My Study Room", intro: '我的自习室', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
+    - { title: "My Study Docs", intro: '我的自习室', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
+    - { title: "My GitHub", intro: '我的github主页', link: 'https://github.com/NorthBoat', avatar: '/img/502.jpg' }
 
 
   # 当成员头像加载失败时，替换为指定图片
