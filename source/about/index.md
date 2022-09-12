@@ -42,16 +42,16 @@ layout: about
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- NEUQ E管家 20 届负责人，负责部门的日常活动，组织建立校内资源分享站 [EKeeperHouse](https://www.neuq.club)
-- NEUQ 2084 工作室成员，带队参加中国大学生计算机设计大赛（软件开发组 - web开发）获河北省二等奖
+- NEUQ EKeeper 20 届负责人，负责组织部门的日常活动和与其他部门交流，组织建立资源分享站 [EKeeperHouse](https://www.neuq.club)
+- NEUQ 2084 team 成员，带队参加中国大学生计算机设计大赛获省二等奖
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **在线判题系统**
 
-  *SpringBoot、Vue+Element-UI、MyBatis、Redis、Docker* 
+  *SpringBoot、Vue+Element-UI、MyBatis、Redis、Docker、Nginx*
 
-  全栈开发，曾部署于：http://39.106.160.174:8087
+  全栈开发
 
 - **NEUQ分享站**
 
