@@ -1,5 +1,5 @@
 ---
-title: 学习环境搭建
+title: 环境搭建
 date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
@@ -226,4 +226,3 @@ $backgroundColor = #ffffff                  // 悬浮块背景色
   //background: #CAD8D8
 //}
 ~~~
-
