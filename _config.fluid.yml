@@ -364,10 +364,10 @@ navbar:
 	    { key: 'Network', link: 'https://northboat-docs.netlify.app/408/network/' },
             { key: 'Operating System', link: 'https://northboat-docs.netlify.app/408/operating/' },
 	    { key: 'Organization', link: 'https://northboat-docs.netlify.app/408/organization/' },
-            { key: 'Mathematics', link: 'https://northboat-docs.netlify.app/ai/math/' },
+            { key: 'Mathematics', link: 'https://northboat-docs.netlify.app/ai/mathematics/' },
 	    { key: 'Python', link: 'https://northboat-docs.netlify.app/ai/python/' },
-            { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/ml/' },
-	    #{ key: 'Deep Learning', link: 'https://northboat-docs.netlify.app/ai/dl/' }, 
+            { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/machinelearning/' },
+	    #{ key: 'Deep Learning', link: 'https://northboat-docs.netlify.app/ai/deeplearning/' }, 
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
