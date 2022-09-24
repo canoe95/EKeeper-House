@@ -1,20 +1,20 @@
 ---
-title: 环境搭建
+title: 重装记录
 date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
-excerpt: 重装次数太多，备忘
+excerpt: 备忘
 tags: Build
 categories: Developer
 ---
 
 ## Manjaro
 
-manjaro / windows 双系统
+manjaro / win 双系统
 
 使用 rufus 制作 manjaro 启动盘，自动分区安装 manjaro
 
-### 日常
+### Start
 
 第一件事，更换 pacman 源
 
@@ -90,7 +90,13 @@ ssh-keygen -t rsa -C "email@qq.com" #生成秘钥
 cat /home/northboat/.ssh/id.rsa.pub
 ~~~
 
-### 开发
+自动生成合适的 grub,cfg 文件，让 manjaro 读到 win 的引导
+
+~~~bash
+sudo update-grub
+~~~
+
+### Dev
 
 解压现成的 idea 和 dataspell
 
@@ -110,7 +116,7 @@ source /opt/anaconda/bin/activate root
 
 安装 java 环境
 
-## Blog
+### Blog
 
 下载 npm / hexo 等
 
@@ -166,7 +172,7 @@ hexo new page album
 {% meting "xxxx" "netease" "playlist" "theme:#181c27" "mutex:true" "listmaxheight:340px" "preload:auto" %}
 ~~~
 
-## Docs
+### Docs
 
 下载 vuepress
 
