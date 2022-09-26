@@ -1,5 +1,5 @@
 ---
-title: 重装记录
+title: Manjaro Basic Use
 date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
@@ -8,15 +8,13 @@ tags: Build
 categories: Developer
 ---
 
-## Manjaro
+> manjaro / win 双系统
+>
+> 使用 rufus 制作 manjaro 启动盘，自动分区安装 manjaro
 
-manjaro / win 双系统
+## Start
 
-使用 rufus 制作 manjaro 启动盘，自动分区安装 manjaro
-
-### Start
-
-第一件事，更换 pacman 源
+更换 pacman 源
 
 ~~~bash
 sudo pacman-mirrors -c China
@@ -96,7 +94,9 @@ cat /home/northboat/.ssh/id.rsa.pub
 sudo update-grub
 ~~~
 
-### Dev
+## Dev
+
+### Environment
 
 解压现成的 idea 和 dataspell
 
