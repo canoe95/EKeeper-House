@@ -1,11 +1,11 @@
 ---
-title: 随笔
+title: My Chinese Is Good
 date: 2022-8-31
 tags:
   - Write
 categories:
   - Essay
-excerpt: demo不要emo～
+excerpt: just bull shit
 banner_img: /img/bus.png
 index_img: /img/lin.jpg
 hide: false

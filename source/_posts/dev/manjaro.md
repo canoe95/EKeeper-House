@@ -3,14 +3,14 @@ title: Manjaro Basic Use
 date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
-excerpt: 备忘
+excerpt: what √8 苦难哲学
 tags: Build
 categories: Developer
 ---
 
-> manjaro / win 双系统
+> manjaro / win
 >
-> 使用 rufus 制作 manjaro 启动盘，自动分区安装 manjaro
+> rufus 做 manjaro 启动盘
 
 ## Start
 
@@ -96,8 +96,6 @@ sudo update-grub
 
 ## Dev
 
-### Environment
-
 解压现成的 idea 和 dataspell
 
 安装 python 环境
@@ -115,6 +113,10 @@ source /opt/anaconda/bin/activate root
 ~~~
 
 安装 java 环境
+
+使用 appimage 形式的 qv2ray
+
+## Roco
 
 ### Blog
 

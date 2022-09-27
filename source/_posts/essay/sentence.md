@@ -1,11 +1,11 @@
 ---
-title: 摘抄
+title: "if stared == learned: print('hahaha')"
 date: 2021-5-3
 tags:
   - Read
 categories:
   - Essay
-excerpt: 记录一下
+excerpt: nmsl
 banner_img: /img/boat.jpg
 index_img: /img/gufeng.jpg
 ---
