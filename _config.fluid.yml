@@ -369,7 +369,7 @@ navbar:
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
-    - { key: 'album', link: '/album/', icon: 'iconfont icon-music', name: 'Album' }
+    - { key: 'music', link: '/music/', icon: 'iconfont icon-music', name: 'Music' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-addrcard', name: 'About' }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件

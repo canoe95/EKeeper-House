@@ -1,5 +1,5 @@
 ---
-title: Album
+title: Bear's Music
 date: 2022-08-23 23:51:33
 type: playlist
 banner_img: /img/loveletter.jpg
@@ -14,7 +14,7 @@ banner_img_height: 77
 
 ---
 
-### 粤语
+### 白话
 
 ---
 
@@ -61,4 +61,3 @@ banner_img_height: 77
 {% meting "5022103740" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
-
