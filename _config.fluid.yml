@@ -356,7 +356,7 @@ navbar:
         submenu: [
             { key: 'C/C++', link: 'https://northboat-docs.netlify.app/dev/c++/' },
 	    { key: 'Ops', link: 'https://northboat-docs.netlify.app/dev/ops/' },
-            { key: 'Front End', link: 'https://northboat-docs.netlify.app/dev/frontend/' },
+            { key: 'Front End', link: 'https://northboat-docs.netlify.app/dev/fe/' },
 	    { key: 'Java', link: 'https://northboat-docs.netlify.app/dev/java/' },
             { key: 'DataStruct', link: 'https://northboat-docs.netlify.app/408/datastruct/' },
 	    { key: 'Network', link: 'https://northboat-docs.netlify.app/408/network/' },
@@ -364,7 +364,7 @@ navbar:
 	    { key: 'Organization', link: 'https://northboat-docs.netlify.app/408/organization/' },
             { key: 'Mathematics', link: 'https://northboat-docs.netlify.app/ai/math/' },
 	    { key: 'Python', link: 'https://northboat-docs.netlify.app/ai/python/' },
-            { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/machinelearning/' },
+            { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/machine/' },
 	    #{ key: 'Deep Learning', link: 'https://northboat-docs.netlify.app/ai/deeplearning/' }, 
        ]
       }
