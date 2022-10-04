@@ -354,7 +354,7 @@ navbar:
         key: 'Docs',
         icon: 'iconfont icon-books',
         submenu: [
-            { key: 'C/C++', link: 'https://northboat-docs.netlify.app/dev/c/' },
+            { key: 'C/C++', link: 'https://northboat-docs.netlify.app/dev/c++/' },
 	    { key: 'Ops', link: 'https://northboat-docs.netlify.app/dev/ops/' },
             { key: 'Front End', link: 'https://northboat-docs.netlify.app/dev/frontend/' },
 	    { key: 'Java', link: 'https://northboat-docs.netlify.app/dev/java/' },
