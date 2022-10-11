@@ -1,5 +1,5 @@
 ---
-title: Manjaro Basic Use
+title: Manjaro Base
 date: 2022-08-24 17:53:28
 banner_img: /img/maoye.jpg
 index_img: /img/mountain.jpg
