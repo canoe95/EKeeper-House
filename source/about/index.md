@@ -5,7 +5,7 @@ banner_img: /img/ez.jpg
 layout: about
 ---
 
- <center>
+<center>
      <h1>My Resume</h1>
      <div>
          <span>
@@ -24,16 +24,15 @@ layout: about
          </span>
          ·
          <span>
-         	 <img src="assets/logo.ico" width="18px">
-        	 <a href="https://northboat-docs.netlify.app">Study Docs</a>
-    	 </span>
- 	</div>
+              <img src="assets/logo.ico" width="18px">
+             <a href="https://northboat-docs.netlify.app">Study Docs</a>
+         </span>
+     </div>
 </center>
 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
-
- - NorthBoat ♂
+- 舟桐 ♂
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -48,21 +47,21 @@ layout: about
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **在线判题系统**
-
+  
   *SpringBoot、Vue+Element-UI、MyBatis、Redis、Docker、Nginx*
-
+  
   全栈开发
 
 - **NEUQ分享站**
-
+  
   *Hexo*
-
-  部署链接：www.neuq.club
+  
+  部署链接：[neuq.club](www.neuq.club)
 
 - **秒杀系统后台**
-
+  
   *SpringBoot、Thymeleaf、Redis、MyBatis-Plus、RabbitMQ、ZooKeeper*
-
+  
   应付工作
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
@@ -77,4 +76,3 @@ layout: about
 - ★☆ ☆ JavaScript
 - ★☆☆  Vue、Element-UI
 - ★☆☆ RabbitMQ、ZooKeeper
-
