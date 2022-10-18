@@ -25,7 +25,7 @@ layout: about
          ·
          <span>
          	 <img src="assets/logo.ico" width="18px">
-        	 <a href="https://northboat-docs.vercel.app">Study Docs</a>
+        	 <a href="https://northboat-docs.netlify.app">Study Docs</a>
     	 </span>
  	</div>
 </center>
