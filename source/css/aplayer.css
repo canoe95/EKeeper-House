@@ -1,4 +1,4 @@
-.aplayer .aplayer-controller{
+.aplayer-list-light {
 	background: black;
 }
 
@@ -13,8 +13,17 @@
 .aplayer {
 	background: black;
 }
-.aplayer .aplayer-lrc:before{
+
+.aplayer .aplayer-list ol li.aplayer-list-light{
 	background: black;
+}
+
+.aplayer .aplayer-list ol li:hover{
+	background: gray;
+}
+
+.aplayer .aplayer-list ol li{
+	border-top: black;
 }
 
 

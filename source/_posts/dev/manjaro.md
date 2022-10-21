@@ -174,6 +174,46 @@ hexo new page album
 {% meting "xxxx" "netease" "playlist" "theme:#181c27" "mutex:true" "listmaxheight:340px" "preload:auto" %}
 ```
 
+修改播放器样式：夜间模式
+
+引入自定义 css，在 _config.fluid.yml 的 custom_html 中引入 css 文件覆盖 Aplayer.min.css，如果在 custom_css 中引入将被后者覆盖
+
+~~~yaml
+custom_html: '<link rel="stylesheet" href="/css/aplayer.css">'
+~~~
+
+css 文件放在 source/css 目录下
+
+~~~css
+.aplayer-list-light {
+	background: black;
+}
+
+.aplayer .aplayer-lrc:before{
+	background: black;
+}
+
+.aplayer .aplayer-lrc:after{
+	background: black;
+}
+
+.aplayer {
+	background: black;
+}
+
+.aplayer .aplayer-list ol li.aplayer-list-light{
+	background: black;
+}
+
+.aplayer .aplayer-list ol li:hover{
+	background: gray;
+}
+
+.aplayer .aplayer-list ol li{
+	border-top: black;
+}
+~~~
+
 ### Docs
 
 下载 vuepress
