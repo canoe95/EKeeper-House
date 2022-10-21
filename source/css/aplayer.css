@@ -26,5 +26,13 @@
 	border-top: black;
 }
 
+.aplayer .aplayer-lrc:before{
+	height: 4%;
+}
+
+.aplayer .aplayer-lrc:after{
+	height: 2%;
+}
+
 
 
