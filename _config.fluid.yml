@@ -1017,9 +1017,10 @@ links:
   # 友链的成员项
   # Member item of page
   items:
-    - { title: 'NEUQ EKeeper House', intro: '给部门搭的资源站', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
-    - { title: "My Study Docs", intro: '我的自习室', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
-    - { title: "My GitHub", intro: '我的github主页', link: 'https://github.com/NorthBoat', avatar: '/img/502.jpg' }
+    - { title: 'NEUQ EKeeper House', intro: 'e管家资源站', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
+    - { title: "Study Docs", intro: '自习室', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
+    - { title: "My GitHub", intro: 'GitHub主页', link: 'https://github.com/NorthBoat', avatar: '/img/502.jpg' }
+    - { title: "自律器", intro: '打个∠先', link: 'https://northboat.github.io/Clock/', avatar: '/img/clock.jpg' }
 
 
   # 当成员头像加载失败时，替换为指定图片
