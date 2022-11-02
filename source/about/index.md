@@ -30,7 +30,6 @@ layout: about
      </div>
 </center>
 
-
 ## 个人信息
 
 - 舟桐 ♂
@@ -47,33 +46,33 @@ layout: about
 
 ##  项目经历
 
-- **在线判题系统**
+- **在线判题系统 - NEUQ OJ**
   
   *SpringBoot、Vue+Element-UI、MyBatis、Redis、Docker、Nginx*
   
-  全栈开发
+  全栈开发，整个开发、部署工作由一人完成，粗略熟悉开发到部署所需技术栈，该项目参加中国大学生计算机设计大赛获省二等奖
 
-- **NEUQ分享站**
+- **资源站 - [NEUQ EKeeper House](www.neuq.club)**
   
-  *Hexo*
+  *Nodejs、Markdown*
   
-  部署链接：[neuq.club](www.neuq.club)
+  技术含量极低，全程和另外两位同学通过 git 进行版本更新管理，简略接触到团队工作问题（如解决版本冲突）以及项目从开发到上线的流程
 
-- **秒杀系统后台**
+- **秒杀系统 - SecondKill System**
   
   *SpringBoot、Thymeleaf、Redis、MyBatis-Plus、RabbitMQ、ZooKeeper*
   
-  应付工作
+  丰富技术栈，为工作做准备
 
 ## 技能清单
 
-- ★★★ Java
-- ★★☆  MySQL
-- ★★☆ SpringBoot
-- ★★☆ Linux
-- ★★☆ Docker
-- ★★☆ C++、Python
-- ★☆ ☆  Redis
-- ★☆ ☆ JavaScript
-- ★☆☆  Vue、Element-UI
-- ★☆☆ RabbitMQ、ZooKeeper
+- ★★★☆ Java
+- ★★☆☆  MySQL
+- ★★☆☆ SpringBoot
+- ★★☆☆ Linux
+- ★★☆☆ Docker
+- ★★☆☆ C++、Python
+- ★☆☆☆  Redis
+- ★☆☆☆ JavaScript
+- ★☆☆☆  Vue、Element-UI
+- ★☆☆☆ RabbitMQ、ZooKeeper
