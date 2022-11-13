@@ -11,18 +11,18 @@ banner_img_height: 79
 
 ## 前缀 & 词根
 
-### 时空
+### 时间 / 空间
 
 #### pre
 
 `pre-` 时间提前，预先
 
-| 英           | 中         |
-| ------------ | ---------- |
-| prewar       | adj.战前的 |
-| predict      | v.预测     |
-| precondition | n.先决条件 |
-| preview      | v.预习     |
+| 英           | 中         | 释义          |
+| ------------ | ---------- | ------------- |
+| prewar       | adj.战前的 | war 战争      |
+| predict      | v.预测     | -dict- 言，词 |
+| precondition | n.先决条件 | conditon 条件 |
+| preview      | v.预习     | view 看       |
 
 `-dict-, -dic-` 言、词、说
 
@@ -62,12 +62,12 @@ banner_img_height: 79
 
 `pro-` 时间提前，预先；方向向前
 
-| 英       | 中             |
-| -------- | -------------- |
-| proceed  | v.向前走，推进 |
-| proclaim | v.宣告         |
-| project  | n.项目；v.发射 |
-| prospect | n.展望，未来   |
+| 英       | 中             | 释义       |
+| -------- | -------------- | ---------- |
+| proceed  | v.向前走，推进 | -ceed- 走  |
+| proclaim | v.宣告         | claim 宣布 |
+| project  | n.项目；v.发射 | ject 投掷  |
+| prospect | n.展望，未来   | -spect- 望 |
 
 `-spec-, -spect-, -spi-, -spic-` 看
 
@@ -93,24 +93,24 @@ banner_img_height: 79
 
 `fore-` 在...之前
 
-| 英       | 中                 |
-| -------- | ------------------ |
-| forearm  | n.前臂；v.预先武装 |
-| forehead | n.前额             |
-| forewarn | v.预警             |
-| forecast | v.预报；n.预言     |
-| foresee  | v.预见             |
+| 英       | 中                 | 释义      |
+| -------- | ------------------ | --------- |
+| forearm  | n.前臂；v.预先武装 | arm 手臂  |
+| forehead | n.前额             | head 头   |
+| forewarn | v.预警             | warn 警告 |
+| forecast | v.预报；n.预言     | cast 投   |
+| foresee  | v.预见             | see 看    |
 
 #### an
 
 `an-, anci-, ant-, ante-` 在...之前
 
-| 英         | 中                         |
-| ---------- | -------------------------- |
-| ancestor   | n.祖先                     |
-| ancient    | adj.古代的                 |
-| antique    | adj.古老的；n.古董         |
-| antecedent | adj.先行的；n.祖先，先行词 |
+| 英         | 中                         | 释义                           |
+| ---------- | -------------------------- | ------------------------------ |
+| ancestor   | n.祖先                     | -cest- 走；-or 人              |
+| ancient    | adj.古代的                 | -ent 形容词后缀                |
+| antique    | adj.古老的；n.古董         | ique = ic 形容词后缀           |
+| antecedent | adj.先行的；n.祖先，先行词 | -ced- 走；-ent 形容词/名词后缀 |
 
 `-ced-, -ceed-, -cess-, -cest-` 走
 
@@ -143,11 +143,11 @@ banner_img_height: 79
 
 `post-` 之后，后面
 
-| 英           | 中           |
-| ------------ | ------------ |
-| postgraduate | n.研究生     |
-| postwar      | adj.战后的   |
-| postpone     | v.延期，推迟 |
+| 英           | 中           | 释义          |
+| ------------ | ------------ | ------------- |
+| postgraduate | n.研究生     | graduate 毕业 |
+| postwar      | adj.战后的   | war 战争      |
+| postpone     | v.延期，推迟 | -pon- 放      |
 
 `-pos-, -posi-, -pon-` 放置
 
@@ -176,33 +176,33 @@ banner_img_height: 79
 
 `ab-, abs-` 相反的，反常的，否定
 
-| 英       | 中                   |
-| -------- | -------------------- |
-| abnormal | adj.不正常的         |
-| abuse    | v.滥用，辱骂；n.恶习 |
-| absent   | adj.缺席的           |
+| 英       | 中                   | 释义             |
+| -------- | -------------------- | ---------------- |
+| abnormal | adj.不正常的         | normal 正常的    |
+| abuse    | v.滥用，辱骂；n.恶习 | use 使用         |
+| absent   | adj.缺席的           | -ent- 形容词后缀 |
 
 #### anti
 
 `anti-` 对抗，相反
 
-| 英           | 中                   |
-| ------------ | -------------------- |
-| antiwar      | adj.反战的           |
-| anti-virus   | adj.杀毒的，防病毒的 |
-| anti-dumping | adj.反倾销的         |
-| antibody     | n.抗体               |
+| 英           | 中                   | 释义             |
+| ------------ | -------------------- | ---------------- |
+| antiwar      | adj.反战的           | war 战争         |
+| anti-virus   | adj.杀毒的，防病毒的 | virus 病毒       |
+| anti-dumping | adj.反倾销的         | dumping 倒，倾销 |
+| antibody     | n.抗体               | body 体          |
 
 #### dis
 
 `dis-` 不，没有
 
-| 英        | 中                     |
-| --------- | ---------------------- |
-| dishonest | adj.不诚实的           |
-| disobey   | v.不服从               |
-| disorder  | n.混乱；v.使混乱       |
-| discredit | v.使被怀疑；n.丧失名誉 |
+| 英        | 中                     | 释义          |
+| --------- | ---------------------- | ------------- |
+| dishonest | adj.不诚实的           | honest 诚实的 |
+| disobey   | v.不服从               | obey 遵从     |
+| disorder  | n.混乱；v.使混乱       | order 顺序    |
+| discredit | v.使被怀疑；n.丧失名誉 | credit 名誉   |
 
 `-ord-, -ordin- = order` 顺序
 
@@ -228,20 +228,140 @@ banner_img_height: 79
 
 `il-, im-, in-, ir` 不，无
 
-| 英         | 中                     |
-| ---------- | ---------------------- |
-| illegal    | adj.非法的；n.非法移民 |
-| illogical  | adj.不符合逻辑的       |
-| immature   | adj.不成熟的           |
-| immobile   | adj.固定的             |
-| impartial  | adj.不偏爱的           |
-| injustice  | n.不公平               |
-| informal   | adj.非正式的           |
-| irrelevant | adj.不相干的           |
-| irregular  | adj.无规律的           |
-| irrational | adj.不合理的           |
+| 英         | 中                     | 释义            |
+| ---------- | ---------------------- | --------------- |
+| illegal    | adj.非法的；n.非法移民 | legal 合法的    |
+| illogical  | adj.不符合逻辑的       | logical 逻辑的  |
+| immature   | adj.不成熟的           | mature 成熟的   |
+| immobile   | adj.固定的             | mobile 移动的   |
+| impartial  | adj.公平的             | partial 偏爱的  |
+| injustice  | n.不公平               | justice 正义    |
+| informal   | adj.非正式的           | formal 正式的   |
+| irrelevant | adj.不相干的           | relevant 相干的 |
+| irregular  | adj.无规律的           | regular 规律的  |
+| irrational | adj.不合理的           | rational 合理的 |
 
 `-mob-, -mot-, -mov-` 动
+
+| 英             | 中                     |
+| -------------- | ---------------------- |
+| mobile         | v.移动                 |
+| automobile     | n.汽车                 |
+| remote         | adj.偏远的             |
+| **motion**     | n.运动                 |
+| **motionless** | adj.一动不动的         |
+| **motive**     | n.动机；adj.导致运动的 |
+| **motivate**   | v.激励                 |
+| promotion      | n,推广                 |
+| emotion        | n,情绪，情感           |
+| movement       | n,运动                 |
+| movie          | n.电影                 |
+| remove         | v.删除                 |
+| **removal**    | n.免职                 |
+
+#### non
+
+`non-` 不，非
+
+| 英          | 中                                 | 释义            |
+| ----------- | ---------------------------------- | --------------- |
+| nonsense    | n.胡说，废话                       | sense 意思      |
+| nonexistent | adj.不存在的                       | existent 存在的 |
+| nonprofit   | adj.非盈利的                       | profit 利益     |
+| nonsmoking  | adj.禁烟的                         | smoking 吸烟    |
+| nonstop     | adj.直达的；adv.不休息地；n.直达车 | stop 停         |
+
+#### ob / op
+
+`ob-, op-` 逆，倒，反对，否定
+
+| 英           | 中                     |
+| ------------ | ---------------------- |
+| object       | v.不赞成；n.物体，对象 |
+| **obstacle** | v.反对，抗争           |
+| **opponent** | n.对手                 |
+
+`-jac-, -ject-` 投掷，扔
+
+| 英            | 中             |
+| ------------- | -------------- |
+| project       | v.发射；n.项目 |
+| inject        | v.注入         |
+| injection     | n.注射         |
+| reject        | v.拒绝         |
+| eject         | v.弹出，同 pop |
+| subject       | n.物体         |
+| subjective    | adj.客观的     |
+| object        | v.反对；n.物体 |
+| objection     | n.异议         |
+| objective     | adj.反对的     |
+| objectiveness | n.客观性       |
+
+`-st-, -sta-` 站立
+
+| 英               | 中           |
+| ---------------- | ------------ |
+| **state**        | n.状态，州   |
+| statement        | n.陈述，语句 |
+| **status**       | n.地位       |
+| station          | n.站         |
+| **stable**       | adj.稳定的   |
+| steady           | adj.稳固的   |
+| **establish**    | adj.建立     |
+| distance         | n.距离       |
+| distant          | adj.遥远的   |
+| constant         | adj.连续的   |
+| **circumstance** | n.情况       |
+| obstacle         | n.障碍       |
+
+#### un
+
+`un-` 不，无，没有
+
+| 英            | 中             | 释义                 |
+| ------------- | -------------- | -------------------- |
+| unavailable   | adj.不能利用的 | available 可利用的   |
+| unavoidable   | adj.不能避免的 | avoidable 可避免的   |
+| unbearable    | adj.不能忍受的 | bearable 可忍受的    |
+| unconscious   | adj.失去知觉的 | conscious 清醒的     |
+| unconditional | adj.无条件的   | conditional 有条件的 |
+
+#### de
+
+`de-` 否定
+
+| 英        | 中     | 释义         |
+| --------- | ------ | ------------ |
+| decompose | v.分解 | compose 组成 |
+| defame    | v.诽谤 | fame 名声    |
+| demerit   | n.缺点 | merit 优点   |
+
+### 使动 / 强调
+
+#### be
+
+`be-, en-. em-` 使动
+
+| 英        | 中                   | 释义         |
+| --------- | -------------------- | ------------ |
+| becalm    | v.使平静             | calm 平静    |
+| befool    | v.愚弄，使愚蠢       | fool 愚蠢    |
+| enlarge   | v.扩大，使大         | large 大的   |
+| encourage | v.鼓励，使有勇气     | courage 勇气 |
+| empower   | v.授权，准许，使能够 | power 力量   |
+
+#### com
+
+`com-, con-, cor-` 强调
+
+| 英          | 中                   | 释义          |
+| ----------- | -------------------- | ------------- |
+| commemorate | v.纪念               | memorate 怀念 |
+| eompel      | v.强迫               | -pel- 推      |
+| conduct     | v.指导               | -duct- 引导   |
+| corrupt     | v.使腐败；adj.堕落的 | -rupt- 破裂   |
+
+
 
 ## 高频词汇
 
