@@ -52,7 +52,7 @@ layout: about
   
   全栈开发，整个开发、部署工作由一人完成，粗略熟悉开发到部署所需技术栈，该项目参加中国大学生计算机设计大赛获省二等奖
 
-- **资源站 - [NEUQ EKeeper House](www.neuq.club)**
+- **资源站 - [NEUQ EKeeper House](https://www.neuq.club)**
   
   *Nodejs、Markdown*
   
