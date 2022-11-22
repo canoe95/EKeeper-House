@@ -5,7 +5,7 @@ banner_img: /img/ride.jpg
 index_img: /img/ride.jpg
 excerpt: what a 1500-rmb-per-mouth man must keep in mind
 tags: Eatting
-categories: Cook
+categories: Life
 banner_img_height: 79
 ---
 

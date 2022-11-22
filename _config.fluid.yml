@@ -1021,7 +1021,7 @@ links:
     - { title: 'EKeeper House', intro: 'e管家博客', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
     - { title: "Study Docs", intro: '学习笔记', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
     - { title: "GitHub Profile", intro: 'GitHub主页', link: 'https://github.com/NorthBoat', avatar: '/img/502.jpg' }
-    - { title: "My Product", intro: '我的产出清单', link: 'https://northboat.github.io/', avatar: '/img/docker.ico' }
+    - { title: "My Product", intro: '我的产出清单', link: 'https://northboat.github.io/', avatar: '/img/index.ico' }
 
 
   # 当成员头像加载失败时，替换为指定图片
