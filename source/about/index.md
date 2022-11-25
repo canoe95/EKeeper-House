@@ -5,33 +5,6 @@ banner_img: /img/ez.jpg
 layout: about
 ---
 
-<center>
-     <h1>Resume</h1>
-     <div>
-         <span>
-             电话号码
-             18630338418
-         </span>
-         &nbsp;&nbsp;&nbsp;&nbsp;
-         <span>
-             邮箱
-             northboat@163.com
-         </span>
-     </div>
-     <div>
-         <span>
-             GitHub
-             <a href="https://github.com/NorthBoat">NorthBoat</a>
-         </span>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         <span>
-             学习博客
-             <a href="https://northboat-docs.netlify.app">Study Docs</a>
-         </span>
-     </div>
-</center>
-
-
 ## 个人信息
 
 - 熊熊
@@ -43,14 +16,14 @@ layout: about
 
 ## 工作经历
 
-- NEUQ EKeeper 20 届负责人，负责组织部门日常活动
+- NEUQ EKeeper 20 届负责人，负责部门日常活动组织
 - NEUQ 2084 team 成员
 
 ##  项目经历
 
 [我的产出清单](https://northboat.github.io)
 
-其中 ***在线判题系统*** 获中国大学生计算机设计大赛河北省二等奖；***e管家资源站*** 通过 git 协作完成
+其中 ***在线判题系统*** 获中国大学生计算机设计大赛河北省二等奖；***e管家资源站*** 通过 git 多人协作完成
 
 ## 技能清单
 
