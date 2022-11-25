@@ -6,23 +6,24 @@ layout: about
 ---
 
 <center>
-     <h1>My Resume</h1>
+     <h1>Resume</h1>
      <div>
          <span>
              电话号码
              18630338418
          </span>
-         &nbsp;&nbsp;·&nbsp;&nbsp;
-         <span>
-             GitHub
-             <a href="https://github.com/NorthBoat">NorthBoat</a>
-         </span>
-         &nbsp;&nbsp;·&nbsp;&nbsp;
+         &nbsp;&nbsp;&nbsp;&nbsp;
          <span>
              邮箱
              northboat@163.com
          </span>
-         &nbsp;&nbsp;·&nbsp;&nbsp;
+     </div>
+     <div>
+         <span>
+             GitHub
+             <a href="https://github.com/NorthBoat">NorthBoat</a>
+         </span>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          <span>
              学习博客
              <a href="https://northboat-docs.netlify.app">Study Docs</a>
@@ -30,9 +31,10 @@ layout: about
      </div>
 </center>
 
+
 ## 个人信息
 
-- 熊熊 ♂
+- 熊熊
 
 ## 教育经历
 
@@ -41,24 +43,24 @@ layout: about
 
 ## 工作经历
 
-- NEUQ EKeeper 20 届负责人，负责部门日常活动组织
+- NEUQ EKeeper 20 届负责人，负责组织部门日常活动
 - NEUQ 2084 team 成员
 
 ##  项目经历
 
 [我的产出清单](https://northboat.github.io)
 
-其中 ***在线判题系统*** 获中国大学生计算机设计大赛省二等奖；***e管家资源站*** 由我和另一名同学通过 git 协作完成
+其中 ***在线判题系统*** 获中国大学生计算机设计大赛河北省二等奖；***e管家资源站*** 通过 git 协作完成
 
 ## 技能清单
 
-- ★★★☆ Java
-- ★★☆☆  MySQL
-- ★★☆☆ SpringBoot
-- ★★☆☆ Linux
-- ★★☆☆ Docker
-- ★★☆☆ C++、Python
-- ★☆☆☆  Redis
-- ★☆☆☆ JavaScript
-- ★☆☆☆  Vue、Element-UI
-- ★☆☆☆ RabbitMQ、ZooKeeper
+- ★★★ Java
+- ★★☆  MySQL
+- ★★☆ SpringBoot
+- ★★☆ Linux
+- ★★☆ Docker
+- ★★☆ C++
+- ★☆☆ Python
+- ★☆☆  Redis
+- ★☆☆ HTML - CSS - JavaScript
+- ★☆☆  Vue - Element-UI
