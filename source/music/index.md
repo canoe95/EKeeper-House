@@ -1,5 +1,5 @@
 ---
-title: Bear's Music
+title: Bears' Music
 date: 2022-08-23 23:51:33
 type: playlist
 banner_img: /img/loveletter.jpg
