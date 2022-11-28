@@ -22,14 +22,6 @@ banner_img_height: 77
 
 ---
 
-### 留住一条小尾巴
-
----
-
-{% meting "7604478501" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
-
----
-
 ### 纯音乐
 
 ---
@@ -38,7 +30,7 @@ banner_img_height: 77
 
 ---
 
-### 洋文
+### 洋文儿
 
 ---
 
@@ -61,3 +53,12 @@ banner_img_height: 77
 {% meting "5022103740" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
+
+### 留住一条小尾巴
+
+---
+
+{% meting "7604478501" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+
+---
+
