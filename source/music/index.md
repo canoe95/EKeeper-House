@@ -22,19 +22,11 @@ banner_img_height: 77
 
 ---
 
-### 纯音乐
+### 轻音乐
 
 ---
 
 {% meting "4888810325" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
-
----
-
-### 洋文儿
-
----
-
-{% meting "3098591561" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
@@ -43,6 +35,14 @@ banner_img_height: 77
 ---
 
 {% meting "7763819066" "tencent" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+
+---
+
+### 一些洋文
+
+---
+
+{% meting "3098591561" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
 ---
 
