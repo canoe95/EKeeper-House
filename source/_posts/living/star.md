@@ -4,7 +4,7 @@ date: 2021-5-3
 tags:
   - Record
 categories:
-  - Life
+  - Living
 excerpt: nmsl
 banner_img: /img/sun.jpg
 index_img: /img/sun.jpg

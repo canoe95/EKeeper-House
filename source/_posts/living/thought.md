@@ -4,7 +4,7 @@ date: 2022-1-1
 tags:
   - Thought
 categories:
-  - Life
+  - Living
 excerpt: 哈哈哈
 banner_img: /img/down.jpg
 index_img: /img/toez.jpg
