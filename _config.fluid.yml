@@ -239,9 +239,7 @@ custom_js:
 # The usage is the same as custom_js
 custom_css:
 
-custom_html:
-    - '<link rel="stylesheet" href="/css/aplayer.css">'
-    - '<link rel="shortcut icon" href="/img/boat.ico">'
+custom_html: '<link rel="stylesheet" href="/css/aplayer.css">'
 
 # 网页访问统计
 # Analysis of website visitors
