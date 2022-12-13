@@ -8,7 +8,7 @@ tags: Developer
 categories: Study
 ---
 
-> rufus 制作 manjaro 启动盘安装 manjaro
+> rufus 制作启动盘安装 manjaro
 > 
 
 ## 半小时搭建工作环境
@@ -87,7 +87,7 @@ export LANG=zh_CN.UTF-8
 
 ### Software
 
-installSoftware：常用软件下载
+installSoftware.sh：常用软件下载
 
 ```bash
 # 下载vscode和gdb
