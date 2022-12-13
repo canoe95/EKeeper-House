@@ -361,7 +361,30 @@ banner_img_height: 79
 | conduct     | v.指导               | -duct- 引导   |
 | corrupt     | v.使腐败；adj.堕落的 | -rupt- 破裂   |
 
+## 后面忘了
 
+separate
 
-## 高频词汇
+serial
 
+series
+
+serious
+
+tolerance
+
+accuracy
+
+cherish
+
+choice - voice
+
+bonus
+
+verbal - noun
+
+verdict
+
+verify
+
+verse
