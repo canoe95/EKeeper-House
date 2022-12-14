@@ -388,3 +388,21 @@ verdict
 verify
 
 verse
+
+in addition
+
+adequate
+
+administration
+
+admission
+
+adapt
+
+adopt
+
+adult
+
+toss
+
+treaty
