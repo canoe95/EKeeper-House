@@ -361,13 +361,13 @@ banner_img_height: 79
 | conduct     | v.指导               | -duct- 引导   |
 | corrupt     | v.使腐败；adj.堕落的 | -rupt- 破裂   |
 
-## 后面忘了
+## 前面忘了中间忘了
+
+### 基础词
 
 separate
 
-serial
-
-series
+serial - series
 
 serious
 
@@ -397,12 +397,54 @@ administration
 
 admission
 
-adapt
-
-adopt
+adapt - adopt
 
 adult
 
 toss
 
 treaty
+
+---
+
+vice - vicious - victim
+
+clicked
+
+cling
+
+closet
+
+personnel
+
+formal - format - formation - former
+
+formidable
+
+formulate - formulation - formulize
+
+fortunate - fortune
+
+guideline
+
+guild - guile
+
+guilt - guilty
+
+recognition
+
+recruit
+
+senior
+
+soak - dry
+
+soar
+
+sociable - social - society - socialism - sociology
+
+soluble - solution - solve
+
+detach
+
+detain
