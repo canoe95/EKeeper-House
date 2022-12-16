@@ -448,3 +448,31 @@ soluble - solution - solve
 detach
 
 detain
+
+---
+
+shade - shadow
+
+sound - 健康的
+
+advisable
+
+advocate
+
+aesthetic
+
+affair
+
+affect - affection
+
+affiliate
+
+affirm
+
+afford
+
+breach - branch
+
+breed - feed - bread - broad
+
+brevity
