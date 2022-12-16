@@ -356,18 +356,18 @@ navbar:
         key: 'Docs',
         icon: 'iconfont icon-books',
         submenu: [
-            { key: 'C/C++', link: 'https://northboat-docs.netlify.app/dev/c++/' },
-            { key: 'Front End', link: 'https://northboat-docs.netlify.app/dev/fe/' },
-	    { key: 'Java', link: 'https://northboat-docs.netlify.app/dev/java/' },
-	    { key: 'Operations', link: 'https://northboat-docs.netlify.app/dev/ops/' },
-            { key: 'DataStruct', link: 'https://northboat-docs.netlify.app/408/datastruct/' },
-	    { key: 'Network', link: 'https://northboat-docs.netlify.app/408/network/' },
-            { key: 'Operating System', link: 'https://northboat-docs.netlify.app/408/operating/' },
-	    { key: 'Organization', link: 'https://northboat-docs.netlify.app/408/organization/' },
-            { key: 'Mathematics', link: 'https://northboat-docs.netlify.app/ai/math/' },
-	    { key: 'Python', link: 'https://northboat-docs.netlify.app/ai/python/' },
-            { key: 'Machine Learning', link: 'https://northboat-docs.netlify.app/ai/machine/' },
-	    #{ key: 'Deep Learning', link: 'https://northboat-docs.netlify.app/ai/deeplearning/' }, 
+            { key: 'C/C++', link: 'https://northboat.netlify.app/dev/c++/' },
+            { key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
+	    { key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
+	    { key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
+            { key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
+	    { key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
+            { key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
+	    { key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
+            { key: 'Mathematics', link: 'https://northboat.netlify.app/ai/math/' },
+	    { key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
+            { key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
+	    #{ key: 'Deep Learning', link: 'https://northboat.netlify.app/ai/deeplearning/' }, 
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
@@ -980,7 +980,7 @@ about:
   icons:
     - { class: 'iconfont icon-github-fill', link: 'https://github.com/Northboat', tip: 'GitHub' }
     - { class: 'iconfont icon-wechat-fill', qrcode: '/img/wechat.png' }
-    - { class: 'iconfont icon-books', link: 'https://northboat-docs.netlify.app/', tip: 'Study-Blog' }
+    - { class: 'iconfont icon-books', link: 'https://northboat.netlify.app/', tip: 'Study-Blog' }
     - { class: 'iconfont icon-whatsapp-fill', link: '#', tip: '18630338418' }
     - { class: 'iconfont icon-mail', link: '#', tip: 'northboat@163.com' }
 
@@ -1024,7 +1024,7 @@ links:
   # Member item of page
   items:
     - { title: 'EKeeper House', intro: 'e管家博客', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
-    - { title: "Study Docs", intro: '学习笔记', link: 'https://northboat-docs.netlify.app/', avatar: '/img/leaf.ico' }
+    - { title: "Study Docs", intro: '学习笔记', link: 'https://northboat.netlify.app/', avatar: '/img/leaf.ico' }
     - { title: "GitHub Profile", intro: 'GitHub主页', link: 'https://github.com/Northboat', avatar: '/img/502.jpg' }
     - { title: "My Product", intro: '我的产出清单', link: 'https://northboat.github.io/', avatar: '/img/index.ico' }
 
