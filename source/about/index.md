@@ -16,7 +16,7 @@ layout: about
 
 ## 工作经历
 
-- NEUQ EKeeper 20 届负责人，负责部门日常活动组织
+- NEUQ EKeeper 20 届负责人
 - NEUQ 2084 team 成员
 
 ##  项目经历
