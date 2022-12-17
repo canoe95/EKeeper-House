@@ -129,3 +129,9 @@ Or are we ashes and wine
 ---
 
 世间好物不坚牢，彩云易散琉璃碎
+
+---
+
+a man provides, and he does it even he is not appreciated, or respected, or even loved. He simply bears up, and he does it because he is a man
+
+> 《绝命毒师》第三季 第五集
