@@ -363,7 +363,7 @@ banner_img_height: 79
 
 ## 前面忘了中间忘了
 
-### 基础词
+### 必考词
 
 separate
 
@@ -453,7 +453,7 @@ detain
 
 shade - shadow
 
-sound - 健康的
+sound 健康的
 
 advisable
 
@@ -476,3 +476,54 @@ breach - branch
 breed - feed - bread - broad
 
 brevity
+
+---
+
+coincide - coincident
+
+collapse
+
+colleague - collage
+
+collect - collection - collective
+
+combat
+
+combine
+
+collide
+
+commend - recommend - command
+
+commercial - commerce
+
+commission - mission - commitee
+
+commodity
+
+communicate - communication - communism - community - socialism
+
+detect
+
+deteriorate
+
+device - devise
+
+ensure - entail
+
+indeed - mere - merely
+
+plausible
+
+plea n.恳请 - plead v.恳请 - please
+
+policy - political - politician
+
+polite - impolite
+
+ponder v.考量
+
+---
+
+### 基础词
+
