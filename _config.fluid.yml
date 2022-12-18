@@ -1023,10 +1023,9 @@ links:
   # 友链的成员项
   # Member item of page
   items:
-    - { title: 'EKeeper House', intro: 'e管家博客', link: 'https://neuq.club/', avatar: '/img/ekeeper.jpg' }
     - { title: "Study Docs", intro: '学习笔记', link: 'https://northboat.netlify.app/', avatar: '/img/leaf.ico' }
     - { title: "GitHub Profile", intro: 'GitHub主页', link: 'https://github.com/Northboat', avatar: '/img/502.jpg' }
-    - { title: "My Product", intro: '我的产出清单', link: 'https://northboat.github.io/', avatar: '/img/index.ico' }
+    - { title: "My Product", intro: '我的产出', link: 'https://northboat.github.io/', avatar: '/img/ekeeper.jpg' }
 
 
   # 当成员头像加载失败时，替换为指定图片
