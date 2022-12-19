@@ -11,7 +11,7 @@ banner_img_height: 79
 
 ## 前缀 & 词根
 
-### 时间 / 空间
+### 时间 | 空间
 
 #### pre
 
@@ -336,7 +336,7 @@ banner_img_height: 79
 | defame    | v.诽谤 | fame 名声    |
 | demerit   | n.缺点 | merit 优点   |
 
-### 使动 / 强调
+### 使动 | 强调
 
 #### be
 
@@ -361,169 +361,102 @@ banner_img_height: 79
 | conduct     | v.指导               | -duct- 引导   |
 | corrupt     | v.使腐败；adj.堕落的 | -rupt- 破裂   |
 
-## 前面忘了中间忘了
+`-duc-, -duct-`引导
+
+| 英                | 中       |
+| ----------------- | -------- |
+| introduce         | v.介绍   |
+| introduction      | n.介绍   |
+| conduct           | v.指挥   |
+| conductor         | n.指挥家 |
+| **semiconductor** | n.半导体 |
+| reduce            | v.减少   |
+| reduction         | n.减少   |
+
+`-rupt-`破
+
+| 英         | 中           |
+| ---------- | ------------ |
+| interrupt  | v.摧毁，破坏 |
+| disrupt    | v.破坏       |
+| bankrupt   | adj.破产的   |
+| bankruptcy | n.破产       |
+| corrupt    | adj.腐败的   |
+| erupt      | v.爆发       |
+
+### 方向 | 动作
+
+#### de
+
+`de-`减少，向下
+
+| 英         | 中           | 释义                        |
+| ---------- | ------------ | --------------------------- |
+| devalue    | v.贬值，贬低 | value 价值                  |
+| depreciate | v.轻视，跌价 | -preci- 价格，-ate 动词后缀 |
+| depress    | v.使沮丧     | press 压，向下压            |
+
+#### contro
+
+`contro-, contra-, counter-`相反的
+
+## 后面忘了
 
 ### 必考词
 
-separate
-
-serial - series
-
-serious
-
-tolerance
-
-accuracy
-
-cherish
-
-choice - voice
-
-bonus
-
-verbal - noun
-
-verdict
-
-verify
-
-verse
-
-in addition
-
-adequate
-
-administration
-
-admission
-
-adapt - adopt
-
-adult
-
-toss
-
-treaty
-
----
-
-vice - vicious - victim
-
-clicked
-
-cling
-
-closet
-
-personnel
-
-formal - format - formation - former
-
-formidable
-
-formulate - formulation - formulize
-
-fortunate - fortune
-
-guideline
-
-guild - guile
-
-guilt - guilty
-
-recognition
-
-recruit
-
-senior
-
-soak - dry
-
-soar
-
-sociable - social - society - socialism - sociology
-
-soluble - solution - solve
-
-detach
-
-detain
-
----
-
-shade - shadow
-
-sound 健康的
-
-advisable
-
-advocate
-
-aesthetic
-
-affair
-
-affect - affection
-
-affiliate
-
-affirm
-
-afford
-
-breach - branch
-
-breed - feed - bread - broad
-
-brevity
-
----
-
-coincide - coincident
-
-collapse
-
-colleague - collage
-
-collect - collection - collective
-
-combat
-
-combine
-
-collide
-
-commend - recommend - command
-
-commercial - commerce
-
-commission - mission - commitee
-
-commodity
-
-communicate - communication - communism - community - socialism
-
-detect
-
-deteriorate
-
-device - devise
-
-ensure - entail
-
-indeed - mere - merely
-
-plausible
-
-plea n.恳请 - plead v.恳请 - please
-
-policy - political - politician
-
-polite - impolite
-
-ponder v.考量
-
----
+| day1           |           |                |
+| -------------- | --------- | -------------- |
+| separate       | serial    | series         |
+| serious        | tolerance | accuracy       |
+| cherish 珍爱   | choice    | voice          |
+| bonus          | verbal    | noun           |
+| verdict        | verify    | verse          |
+| in addition    | adequate  | administration |
+| admission 接纳 | adapt     | adopt          |
+| adult          | toss      | treaty         |
+
+| day2             |             |                   |
+| ---------------- | ----------- | ----------------- |
+| vice             | vicious     | victim            |
+| clicked 合拍的   | cling       | closet            |
+| personnel        | formal      | format            |
+| formation        | former      | formidable 可怕的 |
+| formulate        | formulation | formulize         |
+| fortunate        | fortune     | guideline         |
+| guild 协会       | guile 欺诈  | recognition       |
+| guilt            | guilty      | recruit           |
+| senior           | soak        | dry               |
+| soar             | sociable    | social            |
+| society          | socialism   | sociology         |
+| soluble 可溶解的 | solution    | solve             |
+| detach 拆解      | detain 扣留 |                   |
+
+| day3           |             |              |
+| -------------- | ----------- | ------------ |
+| shade          | shadow      | sound        |
+| advisable      | advocate    | aesthetic    |
+| affair         | affect      | affection    |
+| affiliate 联盟 | affirm 肯定 | afford       |
+| breach 违反    | branch      | feed         |
+| breed 养殖     | bread 面包  | brevity 简洁 |
+
+| day4              |                   |                      |
+| ----------------- | ----------------- | -------------------- |
+| coincide 相一致   | coincident 碰巧的 | collapse 崩溃        |
+| colleague         | college           | collect              |
+| collection        | collective 集体的 | combat               |
+| combine           | collide 碰撞      | comment              |
+| recommend         | command           | detect 检测          |
+| commerce          | commercial        | commodity 商品       |
+| commission 委员会 | mission           | committee            |
+| communicate       | communication     | communism            |
+| community         | socialism         | deteriorate 恶化     |
+| device            | devise 设计       | ponder 考量          |
+| ensure            | entail 需要       | plausible 似是而非的 |
+| indeed            | mere              | merely               |
+| plea 恳请         | plead 恳求        | please               |
+| policy            | political         | politician           |
+| polite            | impolite          |                      |
 
 ### 基础词
 
