@@ -361,7 +361,7 @@ banner_img_height: 79
 | conduct     | v.指导               | -duct- 引导   |
 | corrupt     | v.使腐败；adj.堕落的 | -rupt- 破裂   |
 
-`-duc-, -duct-`引导
+`-duc-, -duct- `引导
 
 | 英                | 中       |
 | ----------------- | -------- |
@@ -373,7 +373,7 @@ banner_img_height: 79
 | reduce            | v.减少   |
 | reduction         | n.减少   |
 
-`-rupt-`破
+`-rupt- `破
 
 | 英         | 中           |
 | ---------- | ------------ |
@@ -388,7 +388,7 @@ banner_img_height: 79
 
 #### de
 
-`de-`减少，向下
+`de-` 减少，向下
 
 | 英         | 中           | 释义                        |
 | ---------- | ------------ | --------------------------- |
@@ -399,6 +399,300 @@ banner_img_height: 79
 #### contro
 
 `contro-, contra-, counter-`相反的
+
+| 英             | 中           | 释义                   |
+| -------------- | ------------ | ---------------------- |
+| controversy    | n.争论       | -vers- 转，-y 名词后缀 |
+| contrary       | adj.相反的   | -ary 形容词后缀        |
+| contradict     | v.反对       | -dict- 说              |
+| counteract     | v.抵消，中和 | act 动作               |
+| counter-attack | n.反击       | attack 进攻            |
+
+`-act-` 做，驱使
+
+| 英          | 中               |
+| ----------- | ---------------- |
+| act         | v.做动作，表演   |
+| action      | n.动作           |
+| react       | v.反应           |
+| active      | adj.活跃的       |
+| activity    | n.活动           |
+| activate    | v.激励           |
+| activist    | n.积极分子       |
+| interact    | v.交互，相互作用 |
+| interaction | n.交互           |
+| transact    | v.办理           |
+| transaction | n.交易，事务     |
+
+#### dis
+
+`dif-, dis-` 分开，分散
+
+| 英      | 中                       | 释义          |
+| ------- | ------------------------ | ------------- |
+| differ  | v.区分，使不同           | -fer- 拿      |
+| diffuse | v.传播，扩散；adj.弥漫的 | -fus- 流出    |
+| dismiss | v.溃散，解散             | -miss- 送，发 |
+
+#### ex
+
+`e-, ex-` 出，外
+
+| 英       | 中           | 释义                        |
+| -------- | ------------ | --------------------------- |
+| evade    | v.逃避，逃离 | -vad- 走，向外走            |
+| evaluate | v.评估       | -valu- 价值，出来价值       |
+| exceed   | v.超过       | -ceed- 走，走到外面去，超过 |
+
+#### em
+
+`en-, em-` 进入...之中
+
+| 英      | 中                 | 释义                       |
+| ------- | ------------------ | -------------------------- |
+| encage  | v.关在笼中         | cage 笼子，进入笼子        |
+| enroll  | v.注册，登记       | roll 名单，进入名单        |
+| enclose | v.围起来，装入信封 | close 关闭，关在里面，围住 |
+
+#### in
+
+`in-, im-` 进入...之中，在里面
+
+| 英        | 中                         | 释义                        |
+| --------- | -------------------------- | --------------------------- |
+| immigrate | v.移入，移居国内           | -migr- 移动，-ate 动词后缀  |
+| import    | n.进口；v.进口             | -port- 拿                   |
+| inherent  | adj.固有的，内在的         | -her- 黏附，-ent 形容词后缀 |
+| innate    | adj.天生的，特有的，直觉的 | -nat- 出生，生来就有的      |
+
+`-nat-` 出生
+
+| 英            | 中         |
+| ------------- | ---------- |
+| innate        | adj.天生的 |
+| native        | adj.本地的 |
+| nation        | n.国家     |
+| national      | adj.国家的 |
+| nationality   | n.国籍     |
+| international | adj.国际的 |
+
+#### inter
+
+`inter-` 在...之间，相互
+
+| 英            | 中              | 释义                        |
+| ------------- | --------------- | --------------------------- |
+| interview     | n./v.采访，面试 | view 看，相互看             |
+| interact      | v.相互作用      | act 行动                    |
+| international | adj.超越国界的  | nation 国家，-al 形容词后缀 |
+| interpersonal | adj.人际的      | person 人，-al 形容词后缀   |
+
+#### re
+
+`re-, retro-` 回，向后，相反
+
+| 英         | 中                 | 释义         |
+| ---------- | ------------------ | ------------ |
+| reflect    | v.反射，折射       | -flect- 弯曲 |
+| reverse    | v.反转；adj.反面的 | -vers- 转    |
+| retrospect | v.回顾，追溯       | -spect- 看   |
+
+`-gress-, -grad-` 步，走，级
+
+| 英          | 中                   |
+| ----------- | -------------------- |
+| progress    | n.进展               |
+| progressive | adj.进步的           |
+| congress    | n.大会               |
+| aggressive  | adj.侵略性的，积极的 |
+| grade       | n.年级，等级         |
+| upgrade     | v.升级               |
+| degrade     | v.降低               |
+| downgrade   | n.降级               |
+| gradual     | adj.逐渐的           |
+| graduate    | v.毕业               |
+
+#### sub
+
+`sub-` 向下，低于，第二
+
+| 英           | 中                           | 释义                  |
+| ------------ | ---------------------------- | --------------------- |
+| subconscious | adj.下意识的                 | conscious 有意识的    |
+| submarine    | adj.水下的；n.潜艇，海底生物 | marine 船舶的，航海的 |
+| submit       | v.呈交，递交，服从           | -mit- 送，从下往上送  |
+| suburb       | n.郊区，边缘，城郊           | -urb- 城市            |
+
+#### sur
+
+`sur-` 上面，超过
+
+| 英      | 中                             | 释义                  |
+| ------- | ------------------------------ | --------------------- |
+| surface | n.表面；v.浮出水面；adj.肤浅的 | face 面               |
+| surpass | v.超过，优于                   | pass 通过，在上面通过 |
+| subplus | adj.过剩的，过多的             | plus 加               |
+| survive | v.幸存，生存，存活             | -viv- 活              |
+
+#### trans
+
+`trans-` 越过，穿过，转移
+
+| 英         | 中                    | 释义                |
+| ---------- | --------------------- | ------------------- |
+| transform  | v.转变，改变          | form 形式，转变形式 |
+| transfer   | v./n.转移，转让，转学 | -fer- 拿            |
+| transfuse  | v.输血                | -fus- 流            |
+| transplant | v.转植，移种          | plant 种植          |
+
+#### under
+
+`under-` 下面
+
+| 英            | 中                         | 释义            |
+| ------------- | -------------------------- | --------------- |
+| underline     | n.下划线                   | line 线         |
+| underground   | adj.底下的；n.地铁         | ground 地面     |
+| undergraduate | n.在读大学生；adj.大学生的 | graduate 毕业生 |
+
+### 倍数关系
+
+#### sym
+
+`sym-` 相同
+
+| 英       | 中           | 释义                     |
+| -------- | ------------ | ------------------------ |
+| sympathy | n.同情，慰问 | -pathy- 感情             |
+| symphony | n.交响乐     | -phon- 声音，-y 名词后缀 |
+
+#### hemi
+
+`hemi-, semi-` 半
+
+| 英            | 中         | 释义           |
+| ------------- | ---------- | -------------- |
+| heimisphere   | n.半球     | sphere 球      |
+| semicircle    | n.半圆形   | circle 圆      |
+| semi-colony   | n.半殖民地 | colony 殖民地  |
+| semiconductor | n.半导体   | conductor 导体 |
+
+#### re
+
+`re-` 再一次，反复
+
+| 英        | 中                   | 释义         |
+| --------- | -------------------- | ------------ |
+| recycle   | v.回收利用           | -cycle- 循环 |
+| respect   | v./n.尊重，恭敬      | -spect- 看   |
+| reproduce | v.再生产，再现，繁衍 | produce 生产 |
+
+#### co
+
+`co-, com-, con-` 共同，全部，一起
+
+| 英         | 中           | 释义                       |
+| ---------- | ------------ | -------------------------- |
+| coexist    | v.和平共处   | exist 存在                 |
+| cooperate  | v.合作，协助 | -oper- 工作，-ate 动词后缀 |
+| compassion | n.怜悯，同情 | passion 激情，热情         |
+| conspire   | v.共同谋划   | -spir- 呼吸                |
+
+#### multi
+
+`multi-` 多
+
+| 英            | 中                     | 释义                          |
+| ------------- | ---------------------- | ----------------------------- |
+| multicultural | adj.多种文化的         | cultural 文化                 |
+| multi-media   | n.多媒体；adj.多媒体的 | media 媒体                    |
+| multilingual  | adj.多种语言的         | -lingu- 语言，-ual 形容词后缀 |
+
+### 程度
+
+#### over
+
+`over-` 过度，过分
+
+| 英            | 中         | 释义             |
+| ------------- | ---------- | ---------------- |
+| overconfident | adj.自负   | confident 自信的 |
+| overestimate  | v.高估     | estimate 估计    |
+| oversize      | adj.超大的 | size 尺寸        |
+
+#### out
+
+`out-` 在外面，超过
+
+| 英          | 中                       | 释义                        |
+| ----------- | ------------------------ | --------------------------- |
+| outdoor     | adj.户外的               | door 门                     |
+| outline     | n.轮廓，大纲；v.概述     | line 线                     |
+| outrage     | n.愤怒，暴怒；v.激起愤怒 | rage 愤怒                   |
+| outstanding | adj.杰出的，显著的       | stand 站立，-ing 形容词后缀 |
+
+### 状态及性质
+
+#### magn
+
+`magn-` 大
+
+| 英        | 中           | 释义         |
+| --------- | ------------ | ------------ |
+| magnify   | v.放大，夸大 | -fy 动词后缀 |
+| magnifier | n.放大镜     | -er 名词后缀 |
+
+#### max
+
+`max-, maj-` 大，主要
+
+| 英       | 中                 | 释义                         |
+| -------- | ------------------ | ---------------------------- |
+| maximum  | n.最大；adj.最大的 | maxim- 最大，-um 名词后缀    |
+| majority | n.大多数，成年     | manjor 主要的，-ity 名词后缀 |
+
+#### micro
+
+`micro-` 小，`macro-` 大
+
+| 英             | 中               | 释义                 |
+| -------------- | ---------------- | -------------------- |
+| microphone     | n.扩音器，麦克风 | -phone- 声音         |
+| microelement   | n.微量元素       | element 元素         |
+| microscope     | n.显微镜         | -scope- 观察         |
+| microwave oven | n.微波炉         | wave 波动，oven 烤箱 |
+
+#### mis
+
+`mis-` 错误，坏
+
+| 英            | 中                 | 释义                |
+| ------------- | ------------------ | ------------------- |
+| misunderstand | v.误会，误解       | understand 理解     |
+| misbehavior   | n.不礼貌，品行不端 | behavior 行为，态度 |
+| miscalculate  | v.计算错误         | calculate 计算      |
+| misfortune    | n.不幸             | fortune 运气        |
+| misguide      | v.误导             | guide 指导          |
+| mislead       | v.误导             | lead 领导           |
+
+#### auto
+
+`auto-` 自动，自己
+
+| 英            | 中         | 释义              |
+| ------------- | ---------- | ----------------- |
+| automate      | v.使自动化 | -mate- 思考，神志 |
+| autocriticism | n.自省     | criticism 批评    |
+| automobile    | n.汽车     | mobile 移动的     |
+
+#### ex
+
+`ex-` 前者
+
+| 英          | 中         | 释义                |
+| ----------- | ---------- | ------------------- |
+| ex-wife     | n.前妻     | wife 妻子           |
+| ex-minister | n.前任部长 | minister 大臣，部长 |
 
 ## 后面忘了
 
@@ -414,6 +708,8 @@ banner_img_height: 79
 | in addition    | adequate  | administration |
 | admission 接纳 | adapt     | adopt          |
 | adult          | toss      | treaty         |
+
+---
 
 | day2             |             |                   |
 | ---------------- | ----------- | ----------------- |
@@ -431,6 +727,8 @@ banner_img_height: 79
 | soluble 可溶解的 | solution    | solve             |
 | detach 拆解      | detain 扣留 |                   |
 
+---
+
 | day3           |             |              |
 | -------------- | ----------- | ------------ |
 | shade          | shadow      | sound        |
@@ -439,6 +737,8 @@ banner_img_height: 79
 | affiliate 联盟 | affirm 肯定 | afford       |
 | breach 违反    | branch      | feed         |
 | breed 养殖     | bread 面包  | brevity 简洁 |
+
+---
 
 | day4              |                   |                      |
 | ----------------- | ----------------- | -------------------- |
