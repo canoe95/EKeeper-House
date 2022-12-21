@@ -350,8 +350,8 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: 'home', link: '/', icon: 'iconfont icon-home-fill', name: 'Home' }
-    - { key: 'categorie', link: '/categories/', icon: 'iconfont icon-book', name: 'Categories' }
-    - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
+    #- { key: 'categorie', link: '/categories/', icon: 'iconfont icon-book', name: 'Categories' }
+    #- { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
     - {
         key: 'Docs',
         icon: 'iconfont icon-books',
@@ -922,8 +922,8 @@ archive:
 # Category Page
 #---------------------------
 category:
-  enable: true
-  banner_img: /img/kelamayi.jpg
+  enable: false
+  banner_img: /img/kalamayi.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -951,8 +951,8 @@ category:
 # Tag Page
 #---------------------------
 tag:
-  enable: true
-  banner_img: /img/train.gif
+  enable: false
+  #banner_img: /img/train.jpg
   banner_img_height: 77
   banner_mask_alpha: 0.3
   tagcloud:
