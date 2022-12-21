@@ -70,6 +70,7 @@ pacman -S fcitx-googlepinyin
 # 创建fcitx配置文件
 vim ~/.xprofile
 
+# 文件填写以下内容
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS="@im=fcitx"
@@ -217,7 +218,7 @@ sudo npm install vuepress -g
 npm install @vuepress-reco/vuepress-plugin-bgm-player --save # 播放器
 ```
 
-pull.sh：拉取博客仓库
+pull.sh：拉取仓库脚本
 
 ```bash
 echo "-------start"
