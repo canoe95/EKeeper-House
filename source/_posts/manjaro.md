@@ -23,7 +23,7 @@ sudo pacman -Syy
 sudo pacman -Sy yay
 ```
 
-自动生成合适的 grub,cfg 文件，让 manjaro 读到 win 的引导
+自动生成合适的 grub.cfg 文件，让 manjaro 读到 win 的引导
 
 ```bash
 sudo update-grub
