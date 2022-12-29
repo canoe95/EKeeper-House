@@ -356,10 +356,10 @@ navbar:
         key: 'Docs',
         icon: 'iconfont icon-books',
         submenu: [
-            { key: 'C/C++', link: 'https://northboat.netlify.app/dev/c++/' },
             { key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
-	    { key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
-	    { key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
+            { key: 'Back End', link: 'https://northboat.netlify.app/dev/be/' },
+            { key: 'Integrated Circuit', link: 'https://northboat.netlify.app/dev/ic/' },
+            { key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
             { key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
 	    { key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
             { key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
