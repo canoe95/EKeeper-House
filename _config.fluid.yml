@@ -357,7 +357,7 @@ navbar:
         icon: 'iconfont icon-books',
         submenu: [
             { key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
-            { key: 'Back End', link: 'https://northboat.netlify.app/dev/be/' },
+            { key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
             { key: 'Integrated Circuit', link: 'https://northboat.netlify.app/dev/ic/' },
             { key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
             { key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
