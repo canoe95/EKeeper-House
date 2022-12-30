@@ -90,13 +90,27 @@ export LANG=zh_CN.UTF-8
 
 installSoftware.sh：常用软件下载
 
+vscode
+
 ```bash
-# 下载vscode和gdb
+# vscode和gdb
 yay -S visual-studio-code-bin
 yay -S gdb
+```
+
+休闲
+
+```bash
 yay -S netease-cloud-music # 网易云
-yay -S deepin-wine-qq # qq
 yay -S microsoft-edge-dev-bin # edge
+```
+
+qq
+
+```bash
+yay -S deepin-wine-qq # wine版
+# electron 新版，腾讯，我真的哭死
+yay -S linuxqq-new
 ```
 
 - Typora 解压使用
