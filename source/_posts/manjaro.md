@@ -54,6 +54,10 @@ EOF
 echo "--------end."
 ```
 
+面板排布
+
+<img src="/img/panel.png">
+
 ### Chinese
 
 changeInput.sh：中文输入法
