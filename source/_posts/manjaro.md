@@ -198,6 +198,20 @@ vim config/redis.config
 
 - 使用 another-redis-desktop-manager 的 AppImage 版本作为 redis 可视化工具
 
+installRabbitMQ.sh：下载 rabbitmq
+
+```bash
+yay -S rabbitmq rabbitmqadmin
+
+# 启动管理模块
+sudo rabbitmq-plugins enable rabbitmq_management
+# 启动
+sudo rabbitmq-server
+```
+
+- 管理界面默认端口：15672
+- 客户端默认端口：5672
+
 magic.sh：科学上网
 
 ```bash
