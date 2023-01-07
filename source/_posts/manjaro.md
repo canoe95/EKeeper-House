@@ -120,6 +120,14 @@ yay -S linuxqq-new
 - Typora 解压使用
 - 使用 AppImage 版本的度盘
 
+官网下载 natapp 用于内网穿透：[natapp](https://natapp.cn/)
+
+- 执行命令为
+
+```bash
+./natapp -authtoken=xxxxx
+```
+
 ### Developer
 
 initGit.sh：初始化 git
