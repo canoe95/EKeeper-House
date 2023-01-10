@@ -11,7 +11,7 @@ categories: Study
 > rufus 制作启动盘安装 manjaro
 > 
 
-## 半小时搭建工作环境
+## 半小时搭建环境
 
 ### System
 

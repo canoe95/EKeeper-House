@@ -135,3 +135,13 @@ Or are we ashes and wine
 a man provides, and he does it even he is not appreciated, or respected, or even loved. He simply bears up, and he does it because he is a man
 
 > 《绝命毒师》第三季 第五集
+
+## 2023
+
+她永远不会沾染烟火气，她永远年轻美丽干净的一身校服站在你的回忆里
+
+> 不失为美好结局
+
+---
+
+青春在跌跌撞撞中戛然而止
