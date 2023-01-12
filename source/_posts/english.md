@@ -758,5 +758,13 @@ banner_img_height: 79
 | policy            | political         | politician           |
 | polite            | impolite          |                      |
 
+| day5             |                    |                                |
+| ---------------- | ------------------ | ------------------------------ |
+| brisk 形容糊糊的 | brief 简明扼要的   | browse 浏览(器)                |
+| aggravate 加重   | aggregate 合计     | aggressive 好斗的，积极有为的  |
+| aim 瞄准，目标   | alarm 警告，使惊恐 | alien alienate 外/国星人，疏远 |
+
+
+
 ### 基础词
 
