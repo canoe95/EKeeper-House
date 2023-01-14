@@ -698,7 +698,7 @@ banner_img_height: 79
 
 ### 必考词
 
-| day1           |           |                |
+| unit1          |           |                |
 | -------------- | --------- | -------------- |
 | separate       | serial    | series         |
 | serious        | tolerance | accuracy       |
@@ -711,7 +711,7 @@ banner_img_height: 79
 
 ---
 
-| day2             |             |                   |
+| unit2            |             |                   |
 | ---------------- | ----------- | ----------------- |
 | vice             | vicious     | victim            |
 | clicked 合拍的   | cling       | closet            |
@@ -725,22 +725,19 @@ banner_img_height: 79
 | soar             | sociable    | social            |
 | society          | socialism   | sociology         |
 | soluble 可溶解的 | solution    | solve             |
-| detach 拆解      | detain 扣留 |                   |
+| detach 拆解      | detain 扣留 | sound             |
+| shade            | shadow      | aesthetic 美学的  |
+| affair 事务      | affect 影响 | affection 感情    |
+| affiliate 联盟   | affirm 肯定 | afford            |
+| breach           | branch      | brevity 简洁      |
+| breed 养殖       | bread       | feed              |
+| advisable        | advocate    |                   |
 
 ---
 
-| day3           |             |              |
-| -------------- | ----------- | ------------ |
-| shade          | shadow      | sound        |
-| advisable      | advocate    | aesthetic    |
-| affair         | affect      | affection    |
-| affiliate 联盟 | affirm 肯定 | afford       |
-| breach 违反    | branch      | feed         |
-| breed 养殖     | bread 面包  | brevity 简洁 |
-
 ---
 
-| day4              |                   |                      |
+| unit3             |                   |                      |
 | ----------------- | ----------------- | -------------------- |
 | coincide 相一致   | coincident 碰巧的 | collapse 崩溃        |
 | colleague         | college           | collect              |
@@ -758,19 +755,27 @@ banner_img_height: 79
 | policy            | political         | politician           |
 | polite            | impolite          |                      |
 
-| day5             |                        |                                |
-| ---------------- | ---------------------- | ------------------------------ |
-| brisk 形容糊糊的 | brief 简明扼要的       | browse 浏览(器)                |
-| aggravate 加重   | aggregate 合计         | aggressive 好斗的，积极有为的  |
-| aim 瞄准，目标   | alarm 警告，使惊恐     | alien alienate 外/国星人，疏远 |
-| alternate 轮换的 | alternative 可供选择的 | alter                          |
-| comparable       | comparative 相比之下的 | comparison 比喻                |
-| compel           | compensate             | compile                        |
-| compete          | competition            | competent                      |
-| complain         | complaint              | complement                     |
-| complete         | complex                | complicate complicated         |
+| unit4              |                                     |                                |
+| ------------------ | ----------------------------------- | ------------------------------ |
+| brisk 形容糊糊的   | brief 简明扼要的                    | browse 浏览(器)                |
+| aggravate 加重     | aggregate 合计                      | aggressive 好斗的，积极有为的  |
+| aim 瞄准，目标     | alarm 警告，使惊恐                  | alien alienate 外/国星人，疏远 |
+| alternate 轮换的   | alternative 可供选择的              | alter                          |
+| comparable         | comparative 相比之下的              | comparison 比喻                |
+| compel             | compensate                          | compile                        |
+| compete            | competition                         | competent                      |
+| complain           | complaint                           | complement                     |
+| complete           | complex                             | complicate complicated         |
+| comply obey refuse | compliment                          | diffuse                        |
+| emphasis emphasize | employ employee employer employment | endorse 公开赞同               |
+| endeavour 尽力     | indicate indication indicative      | outrage 愤怒，违法             |
+| outset begin       | outside outward                     |                                |
 
-
+| spe           |            |            |
+| ------------- | ---------- | ---------- |
+| special       | specialist | specialize |
+| specialty     | species    | specific   |
+| specification | specify    | speculate  |
 
 ### 基础词
 

@@ -56,4 +56,24 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 
 梅西(百货)报告 它 在开张一年以上的店铺 在九月和十二月之间 的销售额暴跌5.2%，这是一个令人失望的季度表现，为面临广泛挑战的连锁商店的艰难一年盖棺定论
 
+### 17-6-2
+
+单词
+
+| 中             | 英        |
+| -------------- | --------- |
+| 新奇的，新颖的 | novel     |
+| 海洋的         | marine    |
+| 捕食者         | predator  |
+| 生物多样性     | varieties |
+| 物种，种类     | species   |
+| 效仿           | imitate   |
+| 引用           | refer     |
+
+短语
+
+| 中              | 英                |
+| --------------- | ----------------- |
+| 被作为...而提及 | be referred to as |
+
 ## Postgraduate
