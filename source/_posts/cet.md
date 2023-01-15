@@ -76,4 +76,29 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 | --------------- | ----------------- |
 | 被作为...而提及 | be referred to as |
 
+### 17-6-3
+
+单词
+
+| 中               | 英         |
+| ---------------- | ---------- |
+| 集中注意力的     | focused    |
+| 明显地           | apparently |
+| 密封             | seale      |
+| 激发             | trigger    |
+| 不清楚地，晦涩地 | obscurely  |
+| 反驳             | refute     |
+
+短语
+
+| 中             | 英                      |
+| -------------- | ----------------------- |
+| 被告知去做某事 | be instructed to do sth |
+
+句子
+
+Common research has long held that talking themselves through a task helps children learn, although doing so when you've apparently matured is not a great sign of brilliance
+
+一般研究很早就表明对自己说话有助于孩子学习，但是当你明显成年时这样做并不是聪明的表现
+
 ## Postgraduate

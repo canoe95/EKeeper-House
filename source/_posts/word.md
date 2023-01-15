@@ -777,5 +777,16 @@ banner_img_height: 79
 | specialty     | species    | specific   |
 | specification | specify    | speculate  |
 
+---
+
+| unit5        |                                |                    |
+| ------------ | ------------------------------ | ------------------ |
+| acclaim 喝彩 | accommodate 帮助，容纳，使适应 | accommodation 住宿 |
+| accompany    | accomplish                     | account            |
+| bias 偏见    | bid 命令，祝愿                 | bill billion 十亿  |
+| charm        | chase                          | demand             |
+
+
+
 ### 基础词
 
