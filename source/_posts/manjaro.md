@@ -29,6 +29,27 @@ sudo pacman -Sy yay
 sudo update-grub
 ```
 
+修改 grub 设置
+
+```bash
+# 查看
+sudo cat /etc/default/grub
+
+GRUB_DEFAULT=saved
+GRUB_TIMEOUT=5
+GRUB_TIMEOUT_STYLE=hidden
+GRUB_DISTRIBUTOR="Manjaro"
+GRUB_CMDLINE_LINUX_DEFAULT="quiet apparmor=1 security=apparmor resume=UUID=75c1c3b5-d413-4ca6-8946-15a0fc7ef18b udev.log_priority=3"
+GRUB_CMDLINE_LINUX=""
+
+# 删除 quiet 加上 loglever=5
+GRUB_CMDLINE_LINUX_DEFAULT="apparmor=1 security=apparmor resume=UUID=75c1c3b5-d413-4ca6-8946-15a0fc7ef18b udev.log_priority=3 loglever=5"
+
+# 使 grub.cfg 文件生效
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+# 这里要找一下 grub.cfg 的位置，可以在 /boot/efi/ 里
+```
+
 校正时间
 
 ```bash
