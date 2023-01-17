@@ -80,25 +80,42 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 
 单词
 
-| 中               | 英         |
-| ---------------- | ---------- |
-| 集中注意力的     | focused    |
-| 明显地           | apparently |
-| 密封             | seale      |
-| 激发             | trigger    |
-| 不清楚地，晦涩地 | obscurely  |
-| 反驳             | refute     |
+| 中               | 英             |
+| ---------------- | -------------- |
+| 集中注意力的     | focused        |
+| 明显地           | apparently     |
+| 密封             | seale          |
+| 激发             | trigger        |
+| 不清楚地，晦涩地 | obscurely      |
+| 反驳             | refute         |
+| 重组             | reorganization |
+| 支持             | bolster        |
+| 主动性           | initiative     |
+| 接触             | exposure       |
+| 纪念品           | souvenir       |
 
 短语
 
-| 中             | 英                      |
-| -------------- | ----------------------- |
-| 被告知去做某事 | be instructed to do sth |
+| 中                     | 英                      |
+| ---------------------- | ----------------------- |
+| 被告知去做某事         | be instructed to do sth |
+| 被...支持；以...为支撑 | be backed by            |
+| 选择参加               | opt in                  |
+| 使分裂，拆分           | split off               |
+| 和                     | as well as              |
 
 句子
 
 Common research has long held that talking themselves through a task helps children learn, although doing so when you've apparently matured is not a great sign of brilliance
 
 一般研究很早就表明对自己说话有助于孩子学习，但是当你明显成年时这样做并不是聪明的表现
+
+Morgan's comments on outsourcing mark the second time this month that he has come out against one of Haslam's plans for higher education in Tennessee. Morgan said last week that he would retire at the end of January because of the governor's proposal to split off six universities of the Board of Regents system and create separate governing boards for each of them. In his resignation letter, Morgan called the reorganization "unworkable".
+
+摩根在外包问题上的评论标志着这个月的第二次，他反对哈斯拉姆的一项田纳西州高等教育方案。摩根上周说他将在一月底退休因为政府拆分"Board of Regents system"中的六所大学并为他们单独设立监管组织的提议。在他的辞职信中，摩根称重组不可行
+
+Most Grand Tourists, however, stayed for briefer periods and set out with less scholarly intentions, accompanied by a teacher or guardian, and expected to return home with souvenirs of their travels as well as an understanding of art and architecture formed by exposure to great masterpieces.
+
+然而，大多数大陆游学者们停留较短一段时间并且启程时抱有很少的学术意图，由一名老师或者监护陪同，并且希望回家时带着旅游纪念品，和通过接触伟大建筑养成的对艺术和建筑的理解
 
 ## Postgraduate

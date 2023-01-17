@@ -779,12 +779,16 @@ banner_img_height: 79
 
 ---
 
-| unit5        |                                |                    |
-| ------------ | ------------------------------ | ------------------ |
-| acclaim 喝彩 | accommodate 帮助，容纳，使适应 | accommodation 住宿 |
-| accompany    | accomplish                     | account            |
-| bias 偏见    | bid 命令，祝愿                 | bill billion 十亿  |
-| charm        | chase                          | demand             |
+| unit5                             |                                     |                    |
+| --------------------------------- | ----------------------------------- | ------------------ |
+| acclaim 喝彩                      | accommodate 帮助，容纳，使适应      | accommodation 住宿 |
+| accompany                         | accomplish                          | account            |
+| bias 偏见                         | bid 命令，祝愿                      | bill billion 十亿  |
+| charm                             | chase                               | demand             |
+| democracy democratic 民主；民主的 | demographic 人口统计的              | demonstrate 示范   |
+| denote 意思是，表示               | donate donation 捐赠                | denial deny 否认   |
+| deposit 使沉淀；存款              | emerge emergency emergence emergent | eminent            |
+| federal federation                |                                     |                    |
 
 
 
