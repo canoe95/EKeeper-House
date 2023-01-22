@@ -12,6 +12,8 @@ banner_img_height: 77
 
 {% meting "5123040741" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
 
+<meting-js server="netease" type="playlist" id="5123040741"> </meting-js>
+
 ---
 
 ### 国语
