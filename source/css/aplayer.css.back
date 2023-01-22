@@ -1,0 +1,39 @@
+.aplayer-list-light {
+	background: black;
+}
+
+.aplayer .aplayer-lrc:before{
+	background: black;
+}
+
+.aplayer .aplayer-lrc:after{
+	background: black;
+}
+
+.aplayer {
+	background: black;
+}
+
+.aplayer .aplayer-list ol li.aplayer-list-light{
+	background: black;
+}
+
+.aplayer .aplayer-list ol li:hover{
+	background: gray;
+}
+
+.aplayer .aplayer-list ol li{
+	border-top: black;
+}
+
+.aplayer .aplayer-lrc:before{
+	height: 4%;
+}
+
+.aplayer .aplayer-lrc:after{
+	height: 2%;
+}
+
+
+
+
