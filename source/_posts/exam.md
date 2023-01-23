@@ -129,8 +129,6 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 | virtually 几乎  | notorious 臭名昭著              | deserted 萧条的，冷清的 |
 | desire 渴望     | characterize 刻画，描述，特征化 |                         |
 
-句子
-
 The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
 
 这种虫子，也闻名于番茄叶虫，通过进食水果和钻入并且在植物的茎中移动来破坏庄稼。他们繁殖的极快，如果条件适宜能在一年中繁育 12 代
