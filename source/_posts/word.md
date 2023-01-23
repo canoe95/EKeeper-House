@@ -698,6 +698,8 @@ banner_img_height: 79
 
 ### 必考词
 
+#### Unit1
+
 | unit1          |           |                |
 | -------------- | --------- | -------------- |
 | separate       | serial    | series         |
@@ -709,7 +711,7 @@ banner_img_height: 79
 | admission 接纳 | adapt     | adopt          |
 | adult          | toss      | treaty         |
 
----
+#### Unit2
 
 | unit2            |             |                   |
 | ---------------- | ----------- | ----------------- |
@@ -733,9 +735,7 @@ banner_img_height: 79
 | breed 养殖       | bread       | feed              |
 | advisable        | advocate    |                   |
 
----
-
----
+#### Unit3
 
 | unit3             |                   |                      |
 | ----------------- | ----------------- | -------------------- |
@@ -754,6 +754,8 @@ banner_img_height: 79
 | plea 恳请         | plead 恳求        | please               |
 | policy            | political         | politician           |
 | polite            | impolite          |                      |
+
+#### Unit4
 
 | unit4              |                                     |                                |
 | ------------------ | ----------------------------------- | ------------------------------ |
@@ -777,18 +779,19 @@ banner_img_height: 79
 | specialty     | species    | specific   |
 | specification | specify    | speculate  |
 
----
+#### Unit5
 
-| unit5                             |                                     |                    |
-| --------------------------------- | ----------------------------------- | ------------------ |
-| acclaim 喝彩                      | accommodate 帮助，容纳，使适应      | accommodation 住宿 |
-| accompany                         | accomplish                          | account            |
-| bias 偏见                         | bid 命令，祝愿                      | bill billion 十亿  |
-| charm                             | chase                               | demand             |
-| democracy democratic 民主；民主的 | demographic 人口统计的              | demonstrate 示范   |
-| denote 意思是，表示               | donate donation 捐赠                | denial deny 否认   |
-| deposit 使沉淀；存款              | emerge emergency emergence emergent | eminent            |
-| federal federation                |                                     |                    |
+| unit5                             |                                     |                            |
+| --------------------------------- | ----------------------------------- | -------------------------- |
+| acclaim 喝彩                      | accommodate 帮助，容纳，使适应      | accommodation 住宿         |
+| accompany                         | accomplish                          | account                    |
+| bias 偏见                         | bid 命令，祝愿                      | bill billion 十亿          |
+| charm                             | chase                               | demand                     |
+| democracy democratic 民主；民主的 | demographic 人口统计的              | demonstrate 示范           |
+| denote 意思是，表示               | donate donation 捐赠                | denial deny 否认           |
+| deposit 使沉淀；存款              | emerge emergency emergence emergent | eminent                    |
+| federal federation                | fertile 肥沃的                      | govern government governor |
+| gradual graduate                  | grant                               | heal health healthy        |
 
 
 

@@ -11,7 +11,9 @@ banner_img_height: 79
 
 ## Cet 6
 
-### 17-6-1
+### 17-6
+
+#### 17-6-1
 
 单词
 
@@ -56,7 +58,7 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 
 梅西(百货)报告 它 在开张一年以上的店铺 在九月和十二月之间 的销售额暴跌5.2%，这是一个令人失望的季度表现，为面临广泛挑战的连锁商店的艰难一年盖棺定论
 
-### 17-6-2
+#### 17-6-2
 
 单词
 
@@ -76,7 +78,7 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 | --------------- | ----------------- |
 | 被作为...而提及 | be referred to as |
 
-### 17-6-3
+#### 17-6-3
 
 单词
 
@@ -117,5 +119,24 @@ Morgan's comments on outsourcing mark the second time this month that he has com
 Most Grand Tourists, however, stayed for briefer periods and set out with less scholarly intentions, accompanied by a teacher or guardian, and expected to return home with souvenirs of their travels as well as an understanding of art and architecture formed by exposure to great masterpieces.
 
 然而，大多数大陆游学者们停留较短一段时间并且启程时抱有很少的学术意图，由一名老师或者监护陪同，并且希望回家时带着旅游纪念品，和通过接触伟大建筑养成的对艺术和建筑的理解
+
+### 17-12
+
+| 单词            |                                 |                         |
+| --------------- | ------------------------------- | ----------------------- |
+| halt 停止       | unchecked 不被抑制的，失控的    | handful 一把            |
+| originated 起源 | import outport 进出口           | flavour 口味            |
+| virtually 几乎  | notorious 臭名昭著              | deserted 萧条的，冷清的 |
+| desire 渴望     | characterize 刻画，描述，特征化 |                         |
+
+句子
+
+The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
+
+这种虫子，也闻名于番茄叶虫，通过进食水果和钻入并且在植物的茎中移动来破坏庄稼。他们繁殖的极快，如果条件适宜能在一年中繁育 12 代
+
+`breed 繁殖` `insect 昆虫` `reproduce 繁殖` `stalk 秸秆，茎` `devastate 摧毁`
+
+
 
 ## Postgraduate
