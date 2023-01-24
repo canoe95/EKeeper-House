@@ -773,7 +773,7 @@ banner_img_height: 79
 | endeavour 尽力     | indicate indication indicative      | outrage 愤怒，违法             |
 | outset begin       | outside outward                     |                                |
 
-| spe           |            |            |
+| spe-          |            |            |
 | ------------- | ---------- | ---------- |
 | special       | specialist | specialize |
 | specialty     | species    | specific   |
@@ -791,9 +791,13 @@ banner_img_height: 79
 | denote 意思是，表示               | donate donation 捐赠                | denial deny 否认           |
 | deposit 使沉淀；存款              | emerge emergency emergence emergent | eminent                    |
 | federal federation                | fertile 肥沃的                      | govern government governor |
-| gradual graduate                  | grant                               | heal health healthy        |
+| gradual graduate                  | grant 授予                          | heal health healthy        |
+| hesitate                          | liklihood                           | likewise                   |
 
-
+| im-            |                        |                          |
+| -------------- | ---------------------- | ------------------------ |
+| immediate      | immense 广大的，巨大的 | immerse 使浸没，使专心于 |
+| immigrant 移民 | imminent 即将发生的    | immune 可防止的，免疫的  |
 
 ### 基础词
 
