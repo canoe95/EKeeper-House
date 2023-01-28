@@ -799,5 +799,15 @@ banner_img_height: 79
 | immediate      | immense 广大的，巨大的 | immerse 使浸没，使专心于 |
 | immigrant 移民 | imminent 即将发生的    | immune 可防止的，免疫的  |
 
+#### Unit6
+
+| Unit6                 |                          |                      |
+| --------------------- | ------------------------ | -------------------- |
+| beam 光束，横梁；微笑 | deprive 剥夺 derive 取得 | designate 表明，指定 |
+| desirable 称心的      | desire 渴望              | flaw 裂缝，缺点      |
+| flexible 可弯曲的     | fling 扔                 | flourish 炫耀；兴旺  |
+
+
+
 ### 基础词
 

@@ -13,7 +13,7 @@ banner_img_height: 79
 
 ### 17-6
 
-#### 17-6-1
+17-6-1
 
 单词
 
@@ -58,7 +58,7 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 
 梅西(百货)报告 它 在开张一年以上的店铺 在九月和十二月之间 的销售额暴跌5.2%，这是一个令人失望的季度表现，为面临广泛挑战的连锁商店的艰难一年盖棺定论
 
-#### 17-6-2
+17-6-2
 
 单词
 
@@ -78,7 +78,7 @@ Macy's reported its sales plunged 5.2% in November and December at stores open m
 | --------------- | ----------------- |
 | 被作为...而提及 | be referred to as |
 
-#### 17-6-3
+17-6-3
 
 单词
 
@@ -122,12 +122,15 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 
 ### 17-12
 
-| 单词            |                                 |                         |
-| --------------- | ------------------------------- | ----------------------- |
-| halt 停止       | unchecked 不被抑制的，失控的    | handful 一把            |
-| originated 起源 | import outport 进出口           | flavour 口味            |
-| virtually 几乎  | notorious 臭名昭著              | deserted 萧条的，冷清的 |
-| desire 渴望     | characterize 刻画，描述，特征化 |                         |
+| 单词                                |                                 |                         |
+| ----------------------------------- | ------------------------------- | ----------------------- |
+| halt 停止                           | unchecked 不被抑制的，失控的    | handful 一把            |
+| originated 起源                     | import outport 进出口           | flavour 口味            |
+| virtually 几乎                      | notorious 臭名昭著              | deserted 萧条的，冷清的 |
+| desire 渴望                         | characterize 刻画，描述，特征化 | territory 领地          |
+| exclusive 专用的，特殊的            | stock 股票，总量，存货          | secure 安全的，安全     |
+| **短语**                            |                                 |                         |
+| recognise as essantial 认为重要至极 |                                 |                         |
 
 The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
 
