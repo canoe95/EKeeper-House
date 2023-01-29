@@ -4,7 +4,13 @@ date: 2022-08-23 23:51:33
 type: playlist
 banner_img: /img/loveletter.jpg
 banner_img_height: 77
+
 ---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"> 
+
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script> 
 
 ### 粤语
 
