@@ -122,15 +122,16 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 
 ### 17-12
 
-| 单词                                |                                 |                         |
-| ----------------------------------- | ------------------------------- | ----------------------- |
-| halt 停止                           | unchecked 不被抑制的，失控的    | handful 一把            |
-| originated 起源                     | import outport 进出口           | flavour 口味            |
-| virtually 几乎                      | notorious 臭名昭著              | deserted 萧条的，冷清的 |
-| desire 渴望                         | characterize 刻画，描述，特征化 | territory 领地          |
-| exclusive 专用的，特殊的            | stock 股票，总量，存货          | secure 安全的，安全     |
-| **短语**                            |                                 |                         |
-| recognise as essantial 认为重要至极 |                                 |                         |
+| 单词                                |                                    |                         |
+| ----------------------------------- | ---------------------------------- | ----------------------- |
+| halt 停止                           | unchecked 不被抑制的，失控的       | handful 一把            |
+| originated 起源                     | import outport 进出口              | flavour 口味            |
+| virtually 几乎                      | notorious 臭名昭著                 | deserted 萧条的，冷清的 |
+| desire 渴望                         | characterize 刻画，描述，特征化    | territory 领地          |
+| exclusive 专用的，特殊的            | stock 股票，总量，存货             | secure 安全的，安全     |
+| invest 投资                         | feasible 可行的                    |                         |
+| **短语**                            |                                    |                         |
+| recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 |                         |
 
 The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
 
@@ -138,6 +139,16 @@ The **insect**, also known as the tomato leaf miner, **devastates** crops by fee
 
 `breed 繁殖` `insect 昆虫` `reproduce 繁殖` `stalk 秸秆，茎` `devastate 摧毁`
 
+The big benefit will not only be in the housing of this enormous and rapidly growing amount of data, but will also be in the ability to run real time data analytics to extract actionable and ongoing knowledge
 
+最大的好处不仅在于容纳这些庞大且快速增长的数据量，而且还在于能够运行实时数据分析以提取可操作和持续的知识
+
+`rapidly 快速地` `not only, but also 不仅而且` `extract 提取` `ongoing 持续性的`
+
+The biggest and most exciting challenge of this technology is how to creatively leverage this ever-growing amount of data to deliver cost savings, improvements and tangible benefits to both businesses and citizens of these smart cities
+
+这项技术最大和最令人兴奋的挑战是如何创造性地利用不断增长的数据量，为这些智慧城市的企业和公民节省成本、改进和切实的好处
+
+`leverage 利用` `deliver 减少` `tangible 有形的，实在的`
 
 ## Postgraduate

@@ -806,6 +806,13 @@ banner_img_height: 79
 | beam 光束，横梁；微笑 | deprive 剥夺 derive 取得 | designate 表明，指定 |
 | desirable 称心的      | desire 渴望              | flaw 裂缝，缺点      |
 | flexible 可弯曲的     | fling 扔                 | flourish 炫耀；兴旺  |
+| hinder 阻碍           | hint 暗示                | hitherto 迄今为止    |
+
+| im-               |                           |                      |
+| ----------------- | ------------------------- | -------------------- |
+| impart 给予，告知 | impact 影响，冲击         | implement 实施，工具 |
+| implication 暗示  | implicit 不言明的，绝对的 | imply 意味着         |
+| import 进口       | importance important      |                      |
 
 
 
