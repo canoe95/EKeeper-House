@@ -107,3 +107,4 @@ theme: fluid
 
 aplayer:
   meting: true
+  asset_inject: false
