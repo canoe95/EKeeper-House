@@ -13,8 +13,6 @@ banner_img_height: 77
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=790 height=120 src="//music.163.com/outchain/player?type=2&id=1833428779&auto=1&height=66"></iframe>
 
-{% meting "5123040741" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
-
 ---
 
 ### 国语
@@ -53,7 +51,7 @@ banner_img_height: 77
 
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=790 height=120 src="//music.163.com/outchain/player?type=0&id=5022103740&auto=1&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=790 height=420 src="//music.163.com/outchain/player?type=0&id=5022103740&auto=1&height=430"></iframe>
 
 ---
 

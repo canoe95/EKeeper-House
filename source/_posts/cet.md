@@ -9,6 +9,8 @@ categories: Study
 banner_img_height: 79
 ---
 
+{% meting "5123040741" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+
 ## Cet 6
 
 ### 17-6
