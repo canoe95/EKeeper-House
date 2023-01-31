@@ -27,7 +27,7 @@ banner_img_height: 77
 
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=94% height=200 src="//music.163.com/outchain/player?type=0&id=8115750493&auto=1&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=94% height=300 src="//music.163.com/outchain/player?type=0&id=8115750493&auto=1&height=430"></iframe>
 
 ---
 
