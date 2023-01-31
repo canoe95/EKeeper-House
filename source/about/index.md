@@ -29,12 +29,14 @@ layout: about
 ## 技能清单
 
 - ★★★ Java
-- ★★☆  MySQL
+- ★★☆ MySQL
 - ★★☆ SpringBoot
 - ★★☆ Linux
 - ★★☆ Docker
 - ★★☆ C++
+- ★★☆ HTML - CSS - JavaScript
 - ★☆☆ Python
-- ★☆☆  Redis
-- ★☆☆ HTML - CSS - JavaScript
-- ★☆☆  Vue - Element-UI
+- ★☆☆ Redis
+- ★☆☆ RabbitMQ
+- ★☆☆ Vue - Element-UI
+
