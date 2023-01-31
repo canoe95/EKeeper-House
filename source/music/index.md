@@ -11,7 +11,7 @@ banner_img_height: 77
 
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=94% height=82 src="//music.163.com/outchain/player?type=2&id=1833428779&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=94% height=86 src="//music.163.com/outchain/player?type=2&id=1833428779&auto=1&height=66"></iframe>
 
 ---
 
@@ -19,7 +19,7 @@ banner_img_height: 77
 
 ---
 
-{% meting "7759380241" "netease" "playlist" "mutex:true" "listmaxheight:295px" "theme:#181c27" "preload:auto" "listfolded" %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=94 height=86 src="//music.163.com/outchain/player?type=2&id=1960403945&auto=1&height=66"></iframe>
 
 ---
 
