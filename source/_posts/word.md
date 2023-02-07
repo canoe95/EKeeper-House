@@ -801,15 +801,18 @@ banner_img_height: 79
 
 #### Unit6
 
-| Unit6                     |                          |                        |
-| ------------------------- | ------------------------ | ---------------------- |
-| beam 光束，横梁；微笑     | deprive 剥夺 derive 取得 | designate 表明，指定   |
-| desirable 称心的          | desire 渴望              | flaw 裂缝，缺点        |
-| flexible 可弯曲的         | fling 扔                 | flourish 炫耀；兴旺    |
-| hinder 阻碍               | hint 暗示                | hitherto 迄今为止      |
-| origin original originate | petition 请愿            | phase 阶段 phrase 短语 |
-| phenomenon 现象           | philosophy philosopher   | physical physician     |
-| pierce 看透，刺穿         |                          |                        |
+| Unit6                                 |                          |                        |
+| ------------------------------------- | ------------------------ | ---------------------- |
+| beam 光束，横梁；微笑                 | deprive 剥夺 derive 取得 | designate 表明，指定   |
+| desirable 称心的                      | desire 渴望              | flaw 裂缝，缺点        |
+| flexible 可弯曲的                     | fling 扔                 | flourish 炫耀；兴旺    |
+| hinder 阻碍                           | hint 暗示                | hitherto 迄今为止      |
+| origin original originate             | petition 请愿            | phase 阶段 phrase 短语 |
+| phenomenon 现象                       | philosophy philosopher   | physical physician     |
+| pierce 看透，刺穿                     | corporate corporation    | serve servant          |
+| set setback setting settle settlement | serveral                 | shelter                |
+| sophisticated                         | sovereign                | sow                    |
+| toll                                  | tone                     | topic                  |
 
 | im-                           |                           |                      |
 | ----------------------------- | ------------------------- | -------------------- |
