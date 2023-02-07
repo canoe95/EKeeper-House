@@ -33,7 +33,7 @@ layout: about
 - ★★☆ SpringBoot
 - ★★☆ Linux
 - ★★☆ Docker
-- ★★☆ C++
+- ★★☆ C/C++
 - ★★☆ HTML - CSS - JavaScript
 - ★☆☆ Python
 - ★☆☆ Redis
