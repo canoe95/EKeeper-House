@@ -240,7 +240,7 @@ custom_js:
 custom_css:
 
 custom_html: 
-  - '<link rel="stylesheet" href="/css/aplayer.css">'
+  # - '<link rel="stylesheet" href="/css/aplayer.css">'
   - '<link rel="stylesheet" href="/css/cloudmusic.css">'
 
 # 网页访问统计
