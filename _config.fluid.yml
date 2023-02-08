@@ -126,7 +126,7 @@ fun_features:
 # 主题暗色模式，开启后菜单中会出现切换按钮，用户浏览器会存储切换选项，并且会遵循 prefers-color-scheme 自动切换
 # Theme dark mode. If enable, a switch button will appear on the menu, each of the visitor's browser will store his switch option
 dark_mode:
-  enable: true
+  enable: false
   # 默认的选项（当用户手动切换后则不再按照默认模式），选择 `auto` 会优先遵循 prefers-color-scheme，其次按用户本地时间 18 点到次日 6 点之间进入暗色模式
   # Default option (when the visitor switches manually, the default mode is no longer followed), choosing `auto` will give priority to prefers-color-scheme, and then enter the dark mode from 18:00 to 6:00 in the visitor’s local time
   # Options: auto | light | dark
@@ -136,58 +136,66 @@ dark_mode:
 # Theme color, please use custom CSS to solve other colors, color schema can be inspired by the links below
 # See: https://www.webdesignrankings.com/resources/lolcolors/
 color:
-  # body 背景色
-  #CAD8D8
+  # body 背景色：CAD8D8 ffe0e6
   # Color of body background
-  #ffe0e6
-  body_bg_color: "#f8f8ff"
+  # body_bg_color: "#f8f8ff"
+  body_bg_color: "#181c27"
   # 暗色模式下的 body 背景色，下同
   # Color in dark mode, the same below
   body_bg_color_dark: "#181c27"
 
   # 顶部菜单背景色
   # Color of navigation bar background
-  navbar_bg_color: "#2f4154"
+  # navbar_bg_color: "#2f4154"
+  navbar_bg_color: "#000"
   navbar_bg_color_dark: "#1f3144"
 
   # 顶部菜单字体色
   # Color of navigation bar text
-  navbar_text_color: "#fff"
+  # navbar_text_color: "#fff"
+  navbar_text_color: "#d0d0d0"
   navbar_text_color_dark: "#d0d0d0"
 
   # 副标题字体色
   # Color of navigation bar text
-  subtitle_color: "#fff"
+  # subtitle_color: "#fff"
+  subtitle_color: "#d0d0d0"
   subtitle_color_dark: "#d0d0d0"
 
   # 全局字体色
   # Color of global text
-  text_color: "#3c4858"
+  # text_color: "#3c4858"
+  text_color: "#c4c6c9"
   text_color_dark: "#c4c6c9"
 
   # 全局次级字体色（摘要、简介等位置）
   # Color of global secondary text (excerpt, introduction, etc.)
-  sec_text_color: "#718096"
+  # sec_text_color: "#718096"
+  sec_text_color: "#a7a9ad"
   sec_text_color_dark: "#a7a9ad"
 
   # 主面板背景色
   # Color of main board
-  board_color: "#fff"
+  # board_color: "#fff"
+  board_color: "#252d38"
   board_color_dark: "#252d38"
 
   # 文章正文字体色
   # Color of post text
-  post_text_color: "#2c3e50"
+  # post_text_color: "#2c3e50"
+  post_text_color: "#c4c6c9"
   post_text_color_dark: "#c4c6c9"
 
   # 文章正文字体色（h1 h2 h3...）
   # Color of Article heading (h1 h2 h3...)
-  post_heading_color: "#1a202c"
+  # post_heading_color: "#1a202c"
+  post_heading_color: "#c4c6c9"
   post_heading_color_dark: "#c4c6c9"
 
   # 文章超链接字体色
   # Color of post link
-  post_link_color: "#0366d6"
+  # post_link_color: "#0366d6"
+  post_link_color: "#1589e9"
   post_link_color_dark: "#1589e9"
 
   # 超链接悬浮时字体色
@@ -197,21 +205,25 @@ color:
 
   # 超链接悬浮背景色
   # Color of link background when hovering
-  link_hover_bg_color: "#f8f9fa"
+  # link_hover_bg_color: "#f8f9fa"
+  link_hover_bg_color: "#364151"
   link_hover_bg_color_dark: "#364151"
 
   # 分隔线和表格边线的颜色
   # Color of horizontal rule and table border
-  line_color: "#eaecef"
+  # line_color: "#eaecef"
+  line_color: "#435266"
   line_color_dark: "#435266"
 
   # 滚动条颜色
   # Color of scrollbar
-  scrollbar_color: "#c4c6c9"
+  # scrollbar_color: "#c4c6c9"
+  scrollbar_color: "#687582"
   scrollbar_color_dark: "#687582"
   # 滚动条悬浮颜色
   # Color of scrollbar when hovering
-  scrollbar_hover_color: "#a6a6a6"
+  # scrollbar_hover_color: "#a6a6a6"
+  scrollbar_hover_color: "#9da8b3"
   scrollbar_hover_color_dark: "#9da8b3"
 
   # 按钮背景色
@@ -220,7 +232,8 @@ color:
   button_bg_color_dark: "transparent"
   # 按钮悬浮背景色
   # Color of button when hovering
-  button_hover_bg_color: "#f2f3f5"
+  # button_hover_bg_color: "#f2f3f5"
+  button_hover_bg_color: "#46647e"
   button_hover_bg_color_dark: "#46647e"
 
 # 主题字体配置
@@ -240,7 +253,6 @@ custom_js:
 custom_css:
 
 custom_html: '<link rel="stylesheet" href="/css/aplayer.css">'
-  # - '<link rel="stylesheet" href="/css/cloudmusic.css">'
 
 # 网页访问统计
 # Analysis of website visitors
