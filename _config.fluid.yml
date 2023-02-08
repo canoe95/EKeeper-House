@@ -139,7 +139,7 @@ color:
   # body 背景色：CAD8D8 ffe0e6
   # Color of body background
   # body_bg_color: "#f8f8ff"
-  body_bg_color: "#181c27"
+  body_bg_color: "#000"
   # 暗色模式下的 body 背景色，下同
   # Color in dark mode, the same below
   body_bg_color_dark: "#181c27"
