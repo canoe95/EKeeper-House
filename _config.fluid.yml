@@ -371,16 +371,14 @@ navbar:
         submenu: [
             { key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
             { key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
-            { key: 'Integrated Circuit', link: 'https://northboat.netlify.app/dev/ic/' },
             { key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
             { key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
-	    { key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
+            { key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
             { key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
-	    { key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
+            { key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
             { key: 'Mathematics', link: 'https://northboat.netlify.app/ai/math/' },
-	    { key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
+            { key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
             { key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
-	    #{ key: 'Deep Learning', link: 'https://northboat.netlify.app/ai/deeplearning/' }, 
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
