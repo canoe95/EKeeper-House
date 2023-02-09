@@ -1,21 +1,21 @@
 .aplayer-list-light {
-	background: black;
+	background: #252d38;
 }
 
 .aplayer .aplayer-lrc:before{
-	background: black;
+	background: #252d38;
 }
 
 .aplayer .aplayer-lrc:after{
-	background: black;
+	background: #252d38;
 }
 
 .aplayer {
-	background: black;
+	background: #252d38;
 }
 
 .aplayer .aplayer-list ol li.aplayer-list-light{
-	background: black;
+	background: #252d38;
 }
 
 .aplayer .aplayer-list ol li:hover{
@@ -23,7 +23,7 @@
 }
 
 .aplayer .aplayer-list ol li{
-	border-top: black;
+	border-top: #252d38;
 }
 
 .aplayer .aplayer-lrc:before{

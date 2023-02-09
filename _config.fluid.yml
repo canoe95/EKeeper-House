@@ -177,7 +177,7 @@ color:
   # 主面板背景色
   # Color of main board
   # board_color: "#fff"
-  board_color: "#252d38"
+  board_color: "#000"
   board_color_dark: "#252d38"
 
   # 文章正文字体色
