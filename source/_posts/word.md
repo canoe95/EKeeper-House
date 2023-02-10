@@ -700,7 +700,7 @@ banner_img_height: 79
 
 #### Unit1
 
-| unit1          |           |                |
+| Words          |           |                |
 | -------------- | --------- | -------------- |
 | separate       | serial    | series         |
 | serious        | tolerance | accuracy       |
@@ -713,7 +713,7 @@ banner_img_height: 79
 
 #### Unit2
 
-| unit2            |             |                   |
+| Words            |             |                   |
 | ---------------- | ----------- | ----------------- |
 | vice             | vicious     | victim            |
 | clicked 合拍的   | cling       | closet            |
@@ -737,7 +737,7 @@ banner_img_height: 79
 
 #### Unit3
 
-| unit3             |                   |                      |
+| Words             |                   |                      |
 | ----------------- | ----------------- | -------------------- |
 | coincide 相一致   | coincident 碰巧的 | collapse 崩溃        |
 | colleague         | college           | collect              |
@@ -757,7 +757,7 @@ banner_img_height: 79
 
 #### Unit4
 
-| unit4              |                                     |                                |
+| Words              |                                     |                                |
 | ------------------ | ----------------------------------- | ------------------------------ |
 | brisk 形容糊糊的   | brief 简明扼要的                    | browse 浏览(器)                |
 | aggravate 加重     | aggregate 合计                      | aggressive 好斗的，积极有为的  |
@@ -781,7 +781,7 @@ banner_img_height: 79
 
 #### Unit5
 
-| unit5                             |                                     |                            |
+| Words                             |                                     |                            |
 | --------------------------------- | ----------------------------------- | -------------------------- |
 | acclaim 喝彩                      | accommodate 帮助，容纳，使适应      | accommodation 住宿         |
 | accompany                         | accomplish                          | account                    |
@@ -801,7 +801,7 @@ banner_img_height: 79
 
 #### Unit6
 
-| Unit6                                 |                          |                        |
+| Words                                 |                          |                        |
 | ------------------------------------- | ------------------------ | ---------------------- |
 | beam 光束，横梁；微笑                 | deprive 剥夺 derive 取得 | designate 表明，指定   |
 | desirable 称心的                      | desire 渴望              | flaw 裂缝，缺点        |
@@ -820,6 +820,16 @@ banner_img_height: 79
 | implication 暗示              | implicit 不言明的，绝对的 | imply 意味着         |
 | import 进口                   | importance important      | impose 强加于        |
 | impress impression impressive | improve                   | impulse pulse        |
+
+#### Unit7
+
+| Words                        |              |                          |
+| ---------------------------- | ------------ | ------------------------ |
+| choke                        | chop         | circumstance             |
+| cite                         | claim        | border                   |
+| bore                         | born bother  | acquire acquisition 获得 |
+| act action activate activity | actual       | acute 敏锐的，严重的     |
+| despise 蔑视，鄙视           | despite 不管 |                          |
 
 
 

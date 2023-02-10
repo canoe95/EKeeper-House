@@ -129,9 +129,11 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 | virtually 几乎                      | notorious 臭名昭著                 | deserted 萧条的，冷清的 |
 | desire 渴望                         | characterize 刻画，描述，特征化    | territory 领地          |
 | exclusive 专用的，特殊的            | stock 股票，总量，存货             | secure 安全的，安全     |
-| invest 投资                         | feasible 可行的                    |                         |
+| invest 投资                         | feasible 可行的                    | spark 推动              |
+| eliminate 消除                      | noticeable 显著的                  | futile 无用的，徒劳的   |
+| remains 遗体，尸体                  | dedication 奉献                    | contempt 蔑视           |
 | **短语**                            |                                    |                         |
-| recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 |                         |
+| recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 | power through 通电      |
 
 The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
 
@@ -150,5 +152,9 @@ The biggest and most exciting challenge of this technology is how to creatively 
 这项技术最大和最令人兴奋的挑战是如何创造性地利用不断增长的数据量，为这些智慧城市的企业和公民节省成本、改进和切实的好处
 
 `leverage 利用` `deliver 减少` `tangible 有形的，实在的`
+
+It is the season for some frantic last-minute math across the country, employees of all stripe are counting backward in an attempt to figure out just how much paid time-off they have left it their reserves. More of them, though, will skip those calculations altogether and just power through the holidays into 2017: More than half of American workers don’t use up all of their allotted vacation days each year
+
+`frantic 疯狂的` `all stripe 各行各业` ` reserves 储量` `power through 通电，意指继续奋斗` `allotted 分配的`
 
 ## Postgraduate
