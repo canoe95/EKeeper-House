@@ -823,13 +823,17 @@ banner_img_height: 79
 
 #### Unit7
 
-| Words                        |              |                          |
-| ---------------------------- | ------------ | ------------------------ |
-| choke                        | chop         | circumstance             |
-| cite                         | claim        | border                   |
-| bore                         | born bother  | acquire acquisition 获得 |
-| act action activate activity | actual       | acute 敏锐的，严重的     |
-| despise 蔑视，鄙视           | despite 不管 |                          |
+| Words                        |                       |                          |
+| ---------------------------- | --------------------- | ------------------------ |
+| choke                        | chop                  | circumstance             |
+| cite                         | claim                 | border                   |
+| bore                         | born bother           | acquire acquisition 获得 |
+| act action activate activity | actual                | acute 敏锐的，严重的     |
+| despise 蔑视，鄙视           | despite 不管          | force enforce            |
+| engage engagement            | fore forecast foresee | forge                    |
+| grim                         | grasp                 | gross                    |
+| remnants                     | precision             | establish                |
+| hypothesis                   | fascinate             | chronicles 编年史，记录  |
 
 
 

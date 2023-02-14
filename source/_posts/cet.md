@@ -135,6 +135,8 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 | **短语**                            |                                    |                         |
 | recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 | power through 通电      |
 
+句子
+
 The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
 
 这种虫子，也闻名于番茄叶虫，通过进食水果和钻入并且在植物的茎中移动来破坏庄稼。他们繁殖的极快，如果条件适宜能在一年中繁育 12 代
@@ -156,5 +158,15 @@ The biggest and most exciting challenge of this technology is how to creatively 
 It is the season for some frantic last-minute math across the country, employees of all stripe are counting backward in an attempt to figure out just how much paid time-off they have left it their reserves. More of them, though, will skip those calculations altogether and just power through the holidays into 2017: More than half of American workers don’t use up all of their allotted vacation days each year
 
 `frantic 疯狂的` `all stripe 各行各业` ` reserves 储量` `power through 通电，意指继续奋斗` `allotted 分配的`
+
+### 18-6
+
+句子
+
+The pyramid’s exact size has puzzled experts for centuries, as the "more than 21 acres of hard, white casing stones" that originally covered it were removed long ago.
+
+`as 接原因状语从句，从句主语是 the...stones 后接定语从句 that orginally covered it 修饰 stones，从句宾语这时出现，为被动语态 were removed，最后接一个时间状语 long age 很久以前` 
+
+数百年来，这座金字塔的实际尺寸一直困扰着学者们，因为“超过 21 英亩的坚硬白色围石”原本覆盖在这座金字塔上，但很久以前就被移走了
 
 ## Postgraduate
