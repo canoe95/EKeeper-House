@@ -376,8 +376,8 @@ navbar:
             { key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
             { key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
             { key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
-            { key: 'Mathematics', link: 'https://northboat.netlify.app/ai/math/' },
             { key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
+            { key: 'Math', link: 'https://northboat.netlify.app/ai/math/' },
             { key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
        ]
       }
