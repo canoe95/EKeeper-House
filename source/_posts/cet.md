@@ -97,6 +97,11 @@ It is the season for some frantic last-minute math across the country, employees
 
 ### 18-6
 
+| 单词      |                         |                 |
+| --------- | ----------------------- | --------------- |
+| precision | establish established   | hypothesis      |
+| fascinate | chronicles 编年史，记录 | remnants 残留物 |
+
 **句子**
 
 The pyramid’s exact size has puzzled experts for centuries, as the "more than 21 acres of hard, white casing stones" that originally covered it were removed long ago.

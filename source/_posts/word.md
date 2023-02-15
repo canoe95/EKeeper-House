@@ -832,8 +832,6 @@ banner_img_height: 79
 | despise 蔑视，鄙视           | despite 不管          | force enforce            |
 | engage engagement            | fore forecast foresee | forge                    |
 | grim                         | grasp                 | gross                    |
-| remnants                     | precision             | establish                |
-| hypothesis                   | fascinate             | chronicles 编年史，记录  |
 
 
 
