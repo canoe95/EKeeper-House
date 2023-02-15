@@ -1,6 +1,6 @@
 ---
 title: 背个单词先
-date: 2023-02-15 14:23:28
+date: 2023-01-1 14:23:28
 banner_img: /img/cloud.jpg
 index_img: /img/abandon.jpg
 excerpt: abandon~abandon~abandon~
@@ -11,7 +11,9 @@ banner_img_height: 79
 
 ## 必考词
 
-### Unit1
+### 2023.2
+
+#### Unit1
 
 | Words          |           |                |
 | -------------- | --------- | -------------- |
@@ -24,7 +26,7 @@ banner_img_height: 79
 | admission 接纳 | adapt     | adopt          |
 | adult          | toss      | treaty         |
 
-### Unit2
+#### Unit2
 
 | Words            |             |                   |
 | ---------------- | ----------- | ----------------- |
@@ -48,7 +50,7 @@ banner_img_height: 79
 | breed 养殖       | bread       | feed              |
 | advisable        | advocate    |                   |
 
-### Unit3
+#### Unit3
 
 | Words             |                   |                      |
 | ----------------- | ----------------- | -------------------- |
@@ -68,7 +70,7 @@ banner_img_height: 79
 | policy            | political         | politician           |
 | polite            | impolite          |                      |
 
-### Unit4
+#### Unit4
 
 | Words              |                                     |                                |
 | ------------------ | ----------------------------------- | ------------------------------ |
@@ -92,7 +94,7 @@ banner_img_height: 79
 | specialty     | species    | specific   |
 | specification | specify    | speculate  |
 
-### Unit5
+#### Unit5
 
 | Words                             |                                     |                            |
 | --------------------------------- | ----------------------------------- | -------------------------- |
@@ -112,7 +114,7 @@ banner_img_height: 79
 | immediate      | immense 广大的，巨大的 | immerse 使浸没，使专心于 |
 | immigrant 移民 | imminent 即将发生的    | immune 可防止的，免疫的  |
 
-### Unit6
+#### Unit6
 
 | Words                                 |                          |                        |
 | ------------------------------------- | ------------------------ | ---------------------- |
@@ -134,16 +136,20 @@ banner_img_height: 79
 | import 进口                   | importance important      | impose 强加于        |
 | impress impression impressive | improve                   | impulse pulse        |
 
-### Unit7
+#### Unit7
 
-| Words                        |                       |                          |
-| ---------------------------- | --------------------- | ------------------------ |
-| choke                        | chop                  | circumstance             |
-| cite                         | claim                 | border                   |
-| bore                         | born bother           | acquire acquisition 获得 |
-| act action activate activity | actual                | acute 敏锐的，严重的     |
-| despise 蔑视，鄙视           | despite 不管          | force enforce            |
-| engage engagement            | fore forecast foresee | forge                    |
-| grim                         | grasp                 | gross                    |
+| Words                        |                                         |                          |
+| ---------------------------- | --------------------------------------- | ------------------------ |
+| choke                        | chop                                    | circumstance             |
+| cite                         | claim                                   | border                   |
+| bore                         | born bother                             | acquire acquisition 获得 |
+| act action activate activity | actual                                  | acute 敏锐的，严重的     |
+| despise 蔑视，鄙视           | despite 不管                            | force enforce            |
+| engage engagement            | fore forecast foresee                   | forge                    |
+| grim                         | grasp                                   | gross                    |
+| guarantee 保证，保证书       | guard 看守                              | include inclusive        |
+| incorporate 吸收             | increase increasingly                   | incredible 难以置信的    |
+| incur 招致，引起，遭受       | literally literary literture 字面意义的 | memo memory 备忘，记忆   |
+| mental 精神的                | mention                                 | mentor 导师              |
 
 ## 基础词
