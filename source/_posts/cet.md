@@ -13,42 +13,28 @@ banner_img_height: 79
 
 ### 17-6
 
-17-6-1
+| 单词                                |                                   |                                         |
+| ----------------------------------- | --------------------------------- | --------------------------------------- |
+| faculty 能力                        | novel 新奇的，新颖的              | initiative 主动性                       |
+| presume 假设                        | marine 海洋的                     | exposure 接触                           |
+| pursue 追求                         | predator 捕食者                   | bolster 支持                            |
+| reputation 声誉                     | varieties 生物多样性              | souvenir 纪念品                         |
+| demanding 要求                      | species 物种，种类                | staff 员工                              |
+| justify 证明合理                    | imitate 效仿                      | refute 反驳                             |
+| demonstrate 证明                    | refer 引用                        | pose 带来                               |
+| reluctant 不情愿的                  | focused 集中注意力的              | cap 用...覆盖顶部（盖棺定论，划上句号） |
+| accelerate 使...加速                | apparently 明显地                 | plunge 暴跌                             |
+| obscurely 不清楚地，晦涩地          | seale 密封                        | trigger 激发                            |
+| reorganization 重组                 |                                   |                                         |
+| **短语**                            |                                   |                                         |
+| remain doubtful 保持怀疑            | learning outcome 学习成功         | significant gains 显著收获              |
+| fall drastically 急剧下滑           | standardized metrics 标准化的指标 | despite 尽管...但是                     |
+| spring up 出现、涌现                | potential threat 潜在威胁         | be attributable to 由于，原因是         |
+| be attributed to 被...导致          | be referred to as 被作为...而提及 | be instructed to do sth 被告知去做某事  |
+| be backed by 被...支持；以...为支撑 | opt in 选择参加                   | split off 使分裂，拆分                  |
+| as well as 和                       |                                   |                                         |
 
-单词
-
-| 中                                  | 英          |
-| ----------------------------------- | ----------- |
-| 能力                                | faculty     |
-| 假设                                | presume     |
-| 追求                                | pursue      |
-| 声誉                                | reputation  |
-| 要求                                | demanding   |
-| 证明合理                            | justify     |
-| 证明                                | demonstrate |
-| 不情愿的                            | reluctant   |
-| 使...加速                           | accelerate  |
-| 暴跌                                | plunge      |
-| 用...覆盖顶部（盖棺定论，划上句号） | cap         |
-| 带来                                | pose        |
-| 员工                                | staff       |
-
-短语
-
-| 中           | 英                   |
-| ------------ | -------------------- |
-| 保持怀疑     | remain doubtful      |
-| 学习成功     | learning outcome     |
-| 显著收获     | significant gains    |
-| 急剧下滑     | fall drastically     |
-| 标准化的指标 | standardized metrics |
-| 尽管...但是  | despite              |
-| 出现、涌现   | spring up            |
-| 潜在威胁     | potential threat     |
-| 由于，原因是 | be attributable to   |
-| 被...导致    | be attributed to     |
-
-句子
+**句子**
 
 American universities, despite their global reputation for excellence in teaching, have only begun to demonstrate what they can produce in real-world learning.
 
@@ -57,56 +43,6 @@ American universities, despite their global reputation for excellence in teachin
 Macy's reported its sales plunged 5.2% in November and December at stores open more than a year, a disappointing holiday season performance that capped a difficult year for a department store chain facing wide-ranging challenges.
 
 梅西(百货)报告 它 在开张一年以上的店铺 在九月和十二月之间 的销售额暴跌5.2%，这是一个令人失望的季度表现，为面临广泛挑战的连锁商店的艰难一年盖棺定论
-
-17-6-2
-
-单词
-
-| 中             | 英        |
-| -------------- | --------- |
-| 新奇的，新颖的 | novel     |
-| 海洋的         | marine    |
-| 捕食者         | predator  |
-| 生物多样性     | varieties |
-| 物种，种类     | species   |
-| 效仿           | imitate   |
-| 引用           | refer     |
-
-短语
-
-| 中              | 英                |
-| --------------- | ----------------- |
-| 被作为...而提及 | be referred to as |
-
-17-6-3
-
-单词
-
-| 中               | 英             |
-| ---------------- | -------------- |
-| 集中注意力的     | focused        |
-| 明显地           | apparently     |
-| 密封             | seale          |
-| 激发             | trigger        |
-| 不清楚地，晦涩地 | obscurely      |
-| 反驳             | refute         |
-| 重组             | reorganization |
-| 支持             | bolster        |
-| 主动性           | initiative     |
-| 接触             | exposure       |
-| 纪念品           | souvenir       |
-
-短语
-
-| 中                     | 英                      |
-| ---------------------- | ----------------------- |
-| 被告知去做某事         | be instructed to do sth |
-| 被...支持；以...为支撑 | be backed by            |
-| 选择参加               | opt in                  |
-| 使分裂，拆分           | split off               |
-| 和                     | as well as              |
-
-句子
 
 Common research has long held that talking themselves through a task helps children learn, although doing so when you've apparently matured is not a great sign of brilliance
 
@@ -135,7 +71,7 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 | **短语**                            |                                    |                         |
 | recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 | power through 通电      |
 
-句子
+**句子**
 
 The **insect**, also known as the tomato leaf miner, **devastates** crops by feeding on fruits and digging into and moving through stalks. It **reproduces** incredibly quickly, **breeding** up to 12 generations per year if conditions are **favorable**.
 
@@ -161,7 +97,7 @@ It is the season for some frantic last-minute math across the country, employees
 
 ### 18-6
 
-句子
+**句子**
 
 The pyramid’s exact size has puzzled experts for centuries, as the "more than 21 acres of hard, white casing stones" that originally covered it were removed long ago.
 
