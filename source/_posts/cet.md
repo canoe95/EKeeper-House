@@ -13,26 +13,28 @@ banner_img_height: 79
 
 ### 17-6
 
-| 单词                                |                                   |                                         |
-| ----------------------------------- | --------------------------------- | --------------------------------------- |
-| faculty 能力                        | novel 新奇的，新颖的              | initiative 主动性                       |
-| presume 假设                        | marine 海洋的                     | exposure 接触                           |
-| pursue 追求                         | predator 捕食者                   | bolster 支持                            |
-| reputation 声誉                     | varieties 生物多样性              | souvenir 纪念品                         |
-| demanding 要求                      | species 物种，种类                | staff 员工                              |
-| justify 证明合理                    | imitate 效仿                      | refute 反驳                             |
-| demonstrate 证明                    | refer 引用                        | pose 带来                               |
-| reluctant 不情愿的                  | focused 集中注意力的              | cap 用...覆盖顶部（盖棺定论，划上句号） |
-| accelerate 使...加速                | apparently 明显地                 | plunge 暴跌                             |
-| obscurely 不清楚地，晦涩地          | seale 密封                        | trigger 激发                            |
-| reorganization 重组                 |                                   |                                         |
-| **短语**                            |                                   |                                         |
-| remain doubtful 保持怀疑            | learning outcome 学习成功         | significant gains 显著收获              |
-| fall drastically 急剧下滑           | standardized metrics 标准化的指标 | despite 尽管...但是                     |
-| spring up 出现、涌现                | potential threat 潜在威胁         | be attributable to 由于，原因是         |
-| be attributed to 被...导致          | be referred to as 被作为...而提及 | be instructed to do sth 被告知去做某事  |
-| be backed by 被...支持；以...为支撑 | opt in 选择参加                   | split off 使分裂，拆分                  |
-| as well as 和                       |                                   |                                         |
+| 单词                       |                      |                                         |
+| -------------------------- | -------------------- | --------------------------------------- |
+| faculty 能力               | novel 新奇的，新颖的 | initiative 主动性                       |
+| presume 假设               | marine 海洋的        | exposure 接触                           |
+| pursue 追求                | predator 捕食者      | bolster 支持                            |
+| reputation 声誉            | varieties 生物多样性 | souvenir 纪念品                         |
+| demanding 要求             | species 物种，种类   | staff 员工                              |
+| justify 证明合理           | imitate 效仿         | refute 反驳                             |
+| demonstrate 证明           | refer 引用           | pose 带来                               |
+| reluctant 不情愿的         | focused 集中注意力的 | cap 用...覆盖顶部（盖棺定论，划上句号） |
+| accelerate 使...加速       | apparently 明显地    | plunge 暴跌                             |
+| obscurely 不清楚地，晦涩地 | seale 密封           | trigger 激发                            |
+| reorganization 重组        |                      |                                         |
+
+| **短语**                            |                                   |                                        |
+| ----------------------------------- | --------------------------------- | -------------------------------------- |
+| remain doubtful 保持怀疑            | learning outcome 学习成功         | significant gains 显著收获             |
+| fall drastically 急剧下滑           | standardized metrics 标准化的指标 | despite 尽管...但是                    |
+| spring up 出现、涌现                | potential threat 潜在威胁         | be attributable to 由于，原因是        |
+| be attributed to 被...导致          | be referred to as 被作为...而提及 | be instructed to do sth 被告知去做某事 |
+| be backed by 被...支持；以...为支撑 | opt in 选择参加                   | split off 使分裂，拆分                 |
+| as well as 和                       |                                   |                                        |
 
 **句子**
 
@@ -58,18 +60,20 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 
 ### 17-12
 
-| 单词                                |                                    |                         |
-| ----------------------------------- | ---------------------------------- | ----------------------- |
-| halt 停止                           | unchecked 不被抑制的，失控的       | handful 一把            |
-| originated 起源                     | import outport 进出口              | flavour 口味            |
-| virtually 几乎                      | notorious 臭名昭著                 | deserted 萧条的，冷清的 |
-| desire 渴望                         | characterize 刻画，描述，特征化    | territory 领地          |
-| exclusive 专用的，特殊的            | stock 股票，总量，存货             | secure 安全的，安全     |
-| invest 投资                         | feasible 可行的                    | spark 推动              |
-| eliminate 消除                      | noticeable 显著的                  | futile 无用的，徒劳的   |
-| remains 遗体，尸体                  | dedication 奉献                    | contempt 蔑视           |
-| **短语**                            |                                    |                         |
-| recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 | power through 通电      |
+| 单词                     |                                 |                         |
+| ------------------------ | ------------------------------- | ----------------------- |
+| halt 停止                | unchecked 不被抑制的，失控的    | handful 一把            |
+| originated 起源          | import outport 进出口           | flavour 口味            |
+| virtually 几乎           | notorious 臭名昭著              | deserted 萧条的，冷清的 |
+| desire 渴望              | characterize 刻画，描述，特征化 | territory 领地          |
+| exclusive 专用的，特殊的 | stock 股票，总量，存货          | secure 安全的，安全     |
+| invest 投资              | feasible 可行的                 | spark 推动              |
+| eliminate 消除           | noticeable 显著的               | futile 无用的，徒劳的   |
+| remains 遗体，尸体       | dedication 奉献                 | contempt 蔑视           |
+
+| **短语**                            |                                    |                    |
+| ----------------------------------- | ---------------------------------- | ------------------ |
+| recognise as essantial 认为重要至极 | ever-growing/going 不断增长/前行的 | power through 通电 |
 
 **句子**
 
