@@ -1,6 +1,6 @@
 ---
 title: 背个单词先
-date: 2022-11-09 15:11:28
+date: 2023-02-15 14:23:28
 banner_img: /img/cloud.jpg
 index_img: /img/abandon.jpg
 excerpt: abandon~abandon~abandon~

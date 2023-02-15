@@ -1,8 +1,8 @@
 ---
 title: 词根根
 date: 2022-11-09 15:11:28
-banner_img: /img/sleep.jpg
-index_img: /img/anheqiao.jpg
+banner_img: /img/anheqiao.jpg
+index_img: /img/sleep.jpg
 excerpt: 喵喵喵
 tags: English
 categories: Study
