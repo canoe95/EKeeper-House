@@ -2,7 +2,7 @@
 title: 背个单词先
 date: 2023-01-1 14:23:28
 banner_img: /img/cloud.jpg
-index_img: /img/liuye.jpg
+index_img: /img/gufeng.jpg
 excerpt: abandon~abandon~abandon~
 tags: English
 categories: Study
@@ -138,18 +138,20 @@ banner_img_height: 79
 
 #### Unit7
 
-| Words                        |                                         |                          |
-| ---------------------------- | --------------------------------------- | ------------------------ |
-| choke                        | chop                                    | circumstance             |
-| cite                         | claim                                   | border                   |
-| bore                         | born bother                             | acquire acquisition 获得 |
-| act action activate activity | actual                                  | acute 敏锐的，严重的     |
-| despise 蔑视，鄙视           | despite 不管                            | force enforce            |
-| engage engagement            | fore forecast foresee                   | forge                    |
-| grim                         | grasp                                   | gross                    |
-| guarantee 保证，保证书       | guard 看守                              | include inclusive        |
-| incorporate 吸收             | increase increasingly                   | incredible 难以置信的    |
-| incur 招致，引起，遭受       | literally literary literture 字面意义的 | memo memory 备忘，记忆   |
-| mental 精神的                | mention                                 | mentor 导师              |
+| Words                        |                                         |                                         |
+| ---------------------------- | --------------------------------------- | --------------------------------------- |
+| choke                        | chop                                    | circumstance                            |
+| cite                         | claim                                   | border                                  |
+| bore                         | born bother                             | acquire acquisition 获得                |
+| act action activate activity | actual                                  | acute 敏锐的，严重的                    |
+| despise 蔑视，鄙视           | despite 不管                            | force enforce                           |
+| engage engagement            | fore forecast foresee                   | forge                                   |
+| grim                         | grasp                                   | gross                                   |
+| guarantee 保证，保证书       | guard 看守                              | include inclusive                       |
+| incorporate 吸收             | increase increasingly                   | incredible 难以置信的                   |
+| incur 招致，引起，遭受       | literally literary literture 字面意义的 | memo memory 备忘，记忆                  |
+| mental 精神的                | mention                                 | mentor 导师                             |
+| otherwise 否则               | sign signature signal                   | signify matter significance significant |
+| simple simplicity simplify   | simply 仅仅，只不过                     | slack 松弛的                            |
 
 ## 基础词

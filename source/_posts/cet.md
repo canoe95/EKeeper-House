@@ -106,6 +106,10 @@ It is the season for some frantic last-minute math across the country, employees
 | precision | establish established   | hypothesis      |
 | fascinate | chronicles 编年史，记录 | remnants 残留物 |
 
+| 短语                            |      |      |
+| ------------------------------- | ---- | ---- |
+| varieties of sth 多种多样的某物 |      |      |
+
 **句子**
 
 The pyramid’s exact size has puzzled experts for centuries, as the "more than 21 acres of hard, white casing stones" that originally covered it were removed long ago.
@@ -113,5 +117,13 @@ The pyramid’s exact size has puzzled experts for centuries, as the "more than 
 `as 接原因状语从句，从句主语是 the...stones 后接定语从句 that orginally covered it 修饰 stones，从句宾语这时出现，为被动语态 were removed，最后接一个时间状语 long age 很久以前` 
 
 数百年来，这座金字塔的实际尺寸一直困扰着学者们，因为“超过 21 英亩的坚硬白色围石”原本覆盖在这座金字塔上，但很久以前就被移走了
+
+Thinking about what you would want to photograph also gets you more engaged.
+
+Even the very thought of taking a photo can have a positive effect.
+
+`二者表达的意义相似` `engaged 投入的`
+
+想着你想要拍的东西同样让你更加投入；即使仅仅是想着照相便可以有积极作用
 
 ## Postgraduate
