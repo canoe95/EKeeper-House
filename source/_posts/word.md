@@ -11,7 +11,7 @@ banner_img_height: 79
 
 ## 必考词
 
-### 2023.2
+### 2023.1
 
 #### Unit1
 
@@ -153,5 +153,24 @@ banner_img_height: 79
 | mental 精神的                | mention                                 | mentor 导师                             |
 | otherwise 否则               | sign signature signal                   | signify matter significance significant |
 | simple simplicity simplify   | simply 仅仅，只不过                     | slack 松弛的                            |
+
+### 2023.2
+
+#### Unit8
+
+| Words              |                     |                           |
+| ------------------ | ------------------- | ------------------------- |
+| mediate 调解       | meditate meditation | medium                    |
+| elaborate 精心制作 | elegant             | element elementary 基础的 |
+| eliminate 消亡     | abolish             | absorb 吸收               |
+| abroad 在国外      | bare barely         |                           |
+
+| medi 中间           |                    |                 |
+| ------------------- | ------------------ | --------------- |
+| medium 媒介物       | medial 中间的      | mediocre 平庸的 |
+| medieval 中世纪的   | mediate 调停，调解 | immediate 立刻  |
+| intermediate 中级的 | intermedium 媒介   |                 |
+
+
 
 ## 基础词

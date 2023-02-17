@@ -101,14 +101,17 @@ It is the season for some frantic last-minute math across the country, employees
 
 ### 2018.6
 
-| 单词      |                         |                 |
-| --------- | ----------------------- | --------------- |
-| precision | establish established   | hypothesis      |
-| fascinate | chronicles 编年史，记录 | remnants 残留物 |
+| 单词                |                         |                      |
+| ------------------- | ----------------------- | -------------------- |
+| precision           | establish established   | hypothesis           |
+| fascinate           | chronicles 编年史，记录 | remnants 残留物      |
+| campaign 活动       | proclamation 公告，声明 | obsessed 着迷的      |
+| supposed 假设的     | fierce 凶猛的，狂热的   | latter 后者          |
+| inspired 激动人心的 | rectified 校正          | versatile 多才多艺的 |
 
-| 短语                            |      |      |
-| ------------------------------- | ---- | ---- |
-| varieties of sth 多种多样的某物 |      |      |
+| 短语                            |                                         |      |
+| ------------------------------- | --------------------------------------- | ---- |
+| varieties of sth 多种多样的某物 | fierce social advocate 狂热的社会运动者 |      |
 
 **句子**
 
@@ -125,5 +128,9 @@ Even the very thought of taking a photo can have a positive effect.
 `二者表达的意义相似` `engaged 投入的`
 
 想着你想要拍的东西同样让你更加投入；即使仅仅是想着照相便可以有积极作用
+
+This is still dispute, but it's clear that the woman reputed for writing it was one of America's most fascinating characters
+
+`dispute存在争议的` `reputed 据说的 reputed for writing it 做后置定语修饰 woman`
 
 ## Postgraduate
