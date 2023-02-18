@@ -109,9 +109,9 @@ It is the season for some frantic last-minute math across the country, employees
 | supposed 假设的     | fierce 凶猛的，狂热的   | latter 后者          |
 | inspired 激动人心的 | rectified 校正          | versatile 多才多艺的 |
 
-| 短语                            |                                         |      |
-| ------------------------------- | --------------------------------------- | ---- |
-| varieties of sth 多种多样的某物 | fierce social advocate 狂热的社会运动者 |      |
+| 短语                            |                                         |                             |
+| ------------------------------- | --------------------------------------- | --------------------------- |
+| varieties of sth 多种多样的某物 | fierce social advocate 狂热的社会运动者 | facial recognition 人脸识别 |
 
 **句子**
 
