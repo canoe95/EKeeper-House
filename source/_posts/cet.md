@@ -101,13 +101,15 @@ It is the season for some frantic last-minute math across the country, employees
 
 ### 2018.6
 
-| 单词                |                         |                      |
-| ------------------- | ----------------------- | -------------------- |
-| precision           | establish established   | hypothesis           |
-| fascinate           | chronicles 编年史，记录 | remnants 残留物      |
-| campaign 活动       | proclamation 公告，声明 | obsessed 着迷的      |
-| supposed 假设的     | fierce 凶猛的，狂热的   | latter 后者          |
-| inspired 激动人心的 | rectified 校正          | versatile 多才多艺的 |
+| 单词                |                          |                                  |
+| ------------------- | ------------------------ | -------------------------------- |
+| precision           | establish established    | hypothesis                       |
+| fascinate           | chronicles 编年史，记录  | remnants 残留物                  |
+| campaign 活动       | proclamation 公告，声明  | obsessed 着迷的                  |
+| supposed 假设的     | fierce 凶猛的，狂热的    | latter 后者                      |
+| inspired 激动人心的 | rectified 校正           | versatile 多才多艺的             |
+| irrational 不理智的 | unsustainable 不可持续的 | impractical 不现实的，不切实际的 |
+| fund 资助           |                          |                                  |
 
 | 短语                            |                                         |                             |
 | ------------------------------- | --------------------------------------- | --------------------------- |
