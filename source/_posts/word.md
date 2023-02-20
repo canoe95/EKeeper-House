@@ -158,20 +158,23 @@ banner_img_height: 79
 
 #### Unit8
 
-| Words              |                     |                           |
-| ------------------ | ------------------- | ------------------------- |
-| mediate 调解       | meditate meditation | medium                    |
-| elaborate 精心制作 | elegant             | element elementary 基础的 |
-| eliminate 消亡     | abolish             | absorb 吸收               |
-| abroad 在国外      | bare barely         |                           |
-
-| medi 中间                                           |                                   |                              |
+| Words                                               |                                   |                              |
 | --------------------------------------------------- | --------------------------------- | ---------------------------- |
-| medium 媒介物                                       | medial 中间的                     | mediocre 平庸的              |
-| medieval 中世纪的                                   | mediate 调停，调解                | immediate 立刻               |
-| intermediate 中级的                                 | intermedium 媒介                  | bargain                      |
+| mediate 调解                                        | meditate meditation               | medium                       |
+| elaborate 精心制作                                  | elegant                           | element elementary 基础的    |
+| eliminate 消亡                                      | abolish                           | absorb 吸收                  |
+| abroad 在国外                                       | bare barely                       | bargain 代价                 |
 | capable 有能力的 capacity 能力 capital 首都，首要的 | captive 被俘的 capture 逮捕，俘虏 | cast 扔，投                  |
 | casual 随便的 casualty 牺牲品                       | cater 迎合，承办酒席              | caution 慎重 cautious 小心的 |
+| cease 停止                                          | celebrate celebrity ceremony      | certain certainry            |
+| certify certificate                                 | decline decrease                  | deem 认为，相信              |
+| dedicate 风险，把...用在                            | deduce deduct 演绎                | favor favorable favorite     |
+
+| medi 中间           |                    |                 |
+| ------------------- | ------------------ | --------------- |
+| medium 媒介物       | medial 中间的      | mediocre 平庸的 |
+| medieval 中世纪的   | mediate 调停，调解 | immediate 立刻  |
+| intermediate 中级的 | intermedium 媒介   |                 |
 
 
 
