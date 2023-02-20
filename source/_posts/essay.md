@@ -1,14 +1,14 @@
 ---
-title: 小记
+title: My Chinese is good
 date: 2022-8-31
 tags:
   - Record
 categories:
   - Living
-excerpt: my chinese is good 🙄
+excerpt: just kidding 🙄
 banner_img: /img/bus.png
 index_img: /img/old.jpg
-hide: true
+hide: false
 ---
 
 ## 2022
