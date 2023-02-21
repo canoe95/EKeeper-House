@@ -169,6 +169,8 @@ banner_img_height: 79
 | cease 停止                                          | celebrate celebrity ceremony      | certain certainry            |
 | certify certificate                                 | decline decrease                  | deem 认为，相信              |
 | dedicate 风险，把...用在                            | deduce deduct 演绎                | favor favorable favorite     |
+| situate situation 使位于                          | skeleton 骨骼，框架                 | skeptical 怀疑的             |
+| sketch 素描，概述，画素描                           |                                   |                              |
 
 | medi 中间           |                    |                 |
 | ------------------- | ------------------ | --------------- |
