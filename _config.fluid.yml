@@ -369,16 +369,17 @@ navbar:
         key: 'Docs',
         icon: 'iconfont icon-books',
         submenu: [
-            { key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
-            { key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
-            { key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
-            { key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
-            { key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
-            { key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
-            { key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
-            { key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
-            { key: 'Math', link: 'https://northboat.netlify.app/ai/math/' },
-            { key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
+	{ key: 'Algorithm', link: 'https://northboat.netlify.app/dev/algo/' },
+	{ key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
+	{ key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
+	{ key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
+	{ key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
+	{ key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
+	{ key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
+	{ key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
+	{ key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
+	{ key: 'Math', link: 'https://northboat.netlify.app/ai/math/' },
+	{ key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
