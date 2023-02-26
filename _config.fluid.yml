@@ -380,6 +380,7 @@ navbar:
 	{ key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
 	{ key: 'Math', link: 'https://northboat.netlify.app/ai/math/' },
 	{ key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
+	{ key: 'Deep Learning', link: 'https://northboat.netlify.app/ai/deep/' },
        ]
       }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
