@@ -21,10 +21,10 @@ banner_img_height: 79
 | serious        | tolerance | accuracy       |
 | cherish 珍爱   | choice    | voice          |
 | bonus          | verbal    | noun           |
-| verdict        | verify    | verse          |
+| verdict 判决    | verify    | verse 诗         |
 | in addition    | adequate  | administration |
 | admission 接纳 | adapt     | adopt          |
-| adult          | toss      | treaty         |
+| adult          | toss      | treaty 约定，条款   |
 
 #### Unit2
 
@@ -32,14 +32,14 @@ banner_img_height: 79
 | ---------------- | ----------- | ----------------- |
 | vice             | vicious     | victim            |
 | clicked 合拍的   | cling       | closet            |
-| personnel        | formal      | format            |
-| formation        | former      | formidable 可怕的 |
-| formulate        | formulation | formulize         |
+| personnel        | formal 正式的     | format 格式           |
+| formation 构成，编制       | former 先前的     | formidable 可怕的 |
+| formulate 制定       | formulation 制订 | formulize 公式化         |
 | fortunate        | fortune     | guideline         |
 | guild 协会       | guile 欺诈  | recognition       |
-| guilt            | guilty      | recruit           |
+| guilt            | guilty      | recruit 招聘          |
 | senior           | soak        | dry               |
-| soar             | sociable    | social            |
+| soar 高飞，翱翔    | sociable    | social            |
 | society          | socialism   | sociology         |
 | soluble 可溶解的 | solution    | solve             |
 | detach 拆解      | detain 扣留 | sound             |
