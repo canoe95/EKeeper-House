@@ -48,7 +48,7 @@ banner_img_height: 79
 | affiliate 联盟   | affirm 肯定 | afford            |
 | breach           | branch      | brevity 简洁      |
 | breed 养殖       | bread       | feed              |
-| advisable        | advocate    |                   |
+| advisable        | advocate 提倡   |                   |
 
 #### Unit3
 
@@ -56,7 +56,7 @@ banner_img_height: 79
 | ----------------- | ----------------- | -------------------- |
 | coincide 相一致   | coincident 碰巧的 | collapse 崩溃        |
 | colleague         | college           | collect              |
-| collection        | collective 集体的 | combat               |
+| collection        | collective 集体的 | combat 战斗              |
 | combine           | collide 碰撞      | comment              |
 | recommend         | command           | detect 检测          |
 | commerce          | commercial        | commodity 商品       |
@@ -67,7 +67,7 @@ banner_img_height: 79
 | ensure            | entail 需要       | plausible 似是而非的 |
 | indeed            | mere              | merely               |
 | plea 恳请         | plead 恳求        | please               |
-| policy            | political         | politician           |
+| policy 政策           | political 政治     | politician           |
 | polite            | impolite          |                      |
 
 #### Unit4

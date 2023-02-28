@@ -38,6 +38,8 @@ iframe{
 	filter: invert(100%);
 }
 
-
+.highlight bash{
+	background: #252d38;
+}
 
 
