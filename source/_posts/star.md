@@ -140,8 +140,6 @@ a man provides, and he does it even he is not appreciated, or respected, or even
 
 她永远不会沾染烟火气，她永远年轻美丽干净的一身校服站在你的回忆里
 
-> 不失为美好结局
-
 ---
 
 青春在跌跌撞撞中戛然而止
