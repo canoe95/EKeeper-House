@@ -1,6 +1,7 @@
 
-.highlight.bash{
+figure{
 	background: #252d38;
+	filter: invert(100%);
 }
 
 .aplayer-list-light {
