@@ -1,3 +1,11 @@
+figure{
+	background: #252d38;
+}
+
+.highlight-bash{
+	background: #252d38;
+}
+
 .aplayer-list-light {
 	background: #252d38;
 }
@@ -37,9 +45,4 @@
 iframe{
 	filter: invert(100%);
 }
-
-figure{
-	background: #252d38;
-}
-
 
