@@ -1,7 +1,7 @@
 
-figure{
+figure table{
 	background: #252d38;
-	filter: invert(100%);
+	# filter: invert(100%);
 }
 
 .aplayer-list-light {
