@@ -107,7 +107,7 @@ banner_img_height: 79
 | deposit 使沉淀；存款              | emerge emergency emergence emergent | eminent                    |
 | federal federation                | fertile 肥沃的                      | govern government governor |
 | gradual graduate                  | grant 授予                          | heal health healthy        |
-| hesitate                          | liklihood                           | likewise                   |
+| hesitate                          | likelihood 多半，样子                           | likewise                   |
 
 | im-            |                        |                          |
 | -------------- | ---------------------- | ------------------------ |
