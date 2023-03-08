@@ -366,24 +366,16 @@ navbar:
     #- { key: 'categorie', link: '/categories/', icon: 'iconfont icon-book', name: 'Categories' }
     #- { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
     - {
-        key: 'Docs',
-        icon: 'iconfont icon-books',
+        key: 'links',
+        icon: 'iconfont icon-link-fill‘,
         submenu: [
-	{ key: 'Algorithm', link: 'https://northboat.netlify.app/dev/algo/' },
-	{ key: 'Java', link: 'https://northboat.netlify.app/dev/java/' },
-	{ key: 'Operations', link: 'https://northboat.netlify.app/dev/ops/' },
-	{ key: 'Front End', link: 'https://northboat.netlify.app/dev/fe/' },
-	{ key: 'DataStruct', link: 'https://northboat.netlify.app/408/datastruct/' },
-	{ key: 'Network', link: 'https://northboat.netlify.app/408/network/' },
-	{ key: 'Operating System', link: 'https://northboat.netlify.app/408/operating/' },
-	{ key: 'Organization', link: 'https://northboat.netlify.app/408/organization/' },
-	{ key: 'Python', link: 'https://northboat.netlify.app/ai/python/' },
-	{ key: 'Math', link: 'https://northboat.netlify.app/ai/math/' },
-	{ key: 'Machine Learning', link: 'https://northboat.netlify.app/ai/machine/' },
-	{ key: 'Deep Learning', link: 'https://northboat.netlify.app/ai/deep/' },
+	{ key: 'Docs', link: 'https://northboat.netlify.app/' },
+	{ key: 'Blog', link: 'https://northpolar.netlify.app/' },
+	{ key: 'Github', link: 'https://github.com/northboat/' },
+	{ key: 'Index', link: 'https://northboat.github.io/' },
        ]
       }
-    - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
+    ＃ - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
     - { key: 'music', link: '/music/', icon: 'iconfont icon-music', name: 'Music' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-addrcard', name: 'About' }
 
@@ -1029,7 +1021,7 @@ page404:
 # Links Page
 #---------------------------
 links:
-  enable: true
+  enable: false
   banner_img: /img/snow.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
