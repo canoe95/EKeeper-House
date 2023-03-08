@@ -367,7 +367,7 @@ navbar:
     #- { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
     - {
         key: 'links',
-        icon: 'iconfont icon-link-fill‘,
+        icon: 'iconfont icon-link-fill',
         submenu: [
 	{ key: 'Docs', link: 'https://northboat.netlify.app/' },
 	{ key: 'Blog', link: 'https://northpolar.netlify.app/' },
