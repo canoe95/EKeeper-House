@@ -363,6 +363,7 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: 'home', link: '/', icon: 'iconfont icon-home-fill', name: 'Home' }
+    - { key: 'music', link: '/music/', icon: 'iconfont icon-music', name: 'Music' }
     #- { key: 'categorie', link: '/categories/', icon: 'iconfont icon-book', name: 'Categories' }
     #- { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
     - {
@@ -375,8 +376,7 @@ navbar:
 	{ key: 'Index', link: 'https://northboat.github.io/' },
        ]
       }
-    ＃ - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
-    - { key: 'music', link: '/music/', icon: 'iconfont icon-music', name: 'Music' }
+    # - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-addrcard', name: 'About' }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
