@@ -11,7 +11,7 @@ banner_img_height: 79
 
 ## 必考词
 
-### 2023.1
+### 2023.2
 
 #### Unit1
 
@@ -154,7 +154,7 @@ banner_img_height: 79
 | otherwise 否则               | sign signature signal                   | signify matter significance significant |
 | simple simplicity simplify   | simply 仅仅，只不过                     | slack 松弛的                            |
 
-### 2023.2
+### 2023.3
 
 #### Unit8
 
@@ -177,6 +177,14 @@ banner_img_height: 79
 | medium 媒介物       | medial 中间的      | mediocre 平庸的 |
 | medieval 中世纪的   | mediate 调停，调解 | immediate 立刻  |
 | intermediate 中级的 | intermedium 媒介   |                 |
+
+#### Unit9
+
+| Words                       |                         |                        |
+| --------------------------- | ----------------------- | ---------------------- |
+| radiate 发光 radiant 发光的 | radical                 | objection 反对         |
+| obligation 义，务           | oblige 强迫，使感激     | obscure 使变暗，使混淆 |
+| obsession 迷住，挂念        | obsolete 废弃的，淘汰的 |                        |
 
 
 
