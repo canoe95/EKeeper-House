@@ -180,11 +180,20 @@ banner_img_height: 79
 
 #### Unit9
 
-| Words                       |                         |                        |
-| --------------------------- | ----------------------- | ---------------------- |
-| radiate 发光 radiant 发光的 | radical                 | objection 反对         |
-| obligation 义，务           | oblige 强迫，使感激     | obscure 使变暗，使混淆 |
-| obsession 迷住，挂念        | obsolete 废弃的，淘汰的 |                        |
+| Words                                              |                                                   |                                           |
+| -------------------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
+| radiate 发光 radiant 发光的                        | radical                                           | objection 反对                            |
+| obligation 义，务                                  | oblige 强迫，使感激                               | obscure 使变暗，使混淆                    |
+| obsession 迷住，挂念                               | obsolete 废弃的，淘汰的                           | ideal                                     |
+| ideology 意识形态                                  | identical identification identify identity 一致性 | journal journalist journey                |
+| judge judgement judicial jury jurisdiction justice | justfy 认为...有理                                | lag 走得慢，落后，衰弱                    |
+| lateral 旁边你                                     | latter                                            | law lawsuit                               |
+| magnitude magnify magnificent                      | maintain maintenance 维持                         | major majority 大多数                     |
+| theory theoretical                                 | therapy                                           | qualification qualify quality qualitative |
+| savage 野蛮的，野蛮人                              | scale 刻度，天平，比例                            | scene scenery                             |
+| panorama                                           | prove improve                                     | provide provided                          |
+
+#### Unit10
 
 
 
