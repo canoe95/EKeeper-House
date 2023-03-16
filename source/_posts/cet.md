@@ -11,7 +11,7 @@ banner_img_height: 79
 
 ## Cet 6
 
-### 2017.6
+### 2017
 
 | 单词                       |                      |                                         |
 | -------------------------- | -------------------- | --------------------------------------- |
@@ -58,8 +58,6 @@ Most Grand Tourists, however, stayed for briefer periods and set out with less s
 
 然而，大多数大陆游学者们停留较短一段时间并且启程时抱有很少的学术意图，由一名老师或者监护陪同，并且希望回家时带着旅游纪念品，和通过接触伟大建筑养成的对艺术和建筑的理解
 
-### 2017.12
-
 | 单词                     |                                 |                         |
 | ------------------------ | ------------------------------- | ----------------------- |
 | halt 停止                | unchecked 不被抑制的，失控的    | handful 一把            |
@@ -99,21 +97,24 @@ It is the season for some frantic last-minute math across the country, employees
 
 `frantic 疯狂的` `all stripe 各行各业` ` reserves 储量` `power through 通电，意指继续奋斗` `allotted 分配的`
 
-### 2018.6
+### 2018
 
-| 单词                |                          |                                  |
-| ------------------- | ------------------------ | -------------------------------- |
-| precision           | establish established    | hypothesis                       |
-| fascinate           | chronicles 编年史，记录  | remnants 残留物                  |
-| campaign 活动       | proclamation 公告，声明  | obsessed 着迷的                  |
-| supposed 假设的     | fierce 凶猛的，狂热的    | latter 后者                      |
-| inspired 激动人心的 | rectified 校正           | versatile 多才多艺的             |
-| irrational 不理智的 | unsustainable 不可持续的 | impractical 不现实的，不切实际的 |
-| fund 资助           |                          |                                  |
+| 单词                  |                          |                                  |
+| --------------------- | ------------------------ | -------------------------------- |
+| precision             | establish established    | hypothesis                       |
+| fascinate             | chronicles 编年史，记录  | remnants 残留物                  |
+| campaign 活动         | proclamation 公告，声明  | obsessed 着迷的                  |
+| supposed 假设的       | fierce 凶猛的，狂热的    | latter 后者                      |
+| inspired 激动人心的   | rectified 校正           | versatile 多才多艺的             |
+| irrational 不理智的   | unsustainable 不可持续的 | impractical 不现实的，不切实际的 |
+| fund 资助             | obscure 模糊的，费解的   | radiant 发光的                   |
+| comprehensive 全面的  | susceptible 敏感的       | obligation 义，务                |
+| obsolete 过时的，淘汰 | hypothetical 假设的      | amass 积累                       |
 
-| 短语                            |                                         |                             |
-| ------------------------------- | --------------------------------------- | --------------------------- |
-| varieties of sth 多种多样的某物 | fierce social advocate 狂热的社会运动者 | facial recognition 人脸识别 |
+| 短语                            |                                         |                                        |
+| ------------------------------- | --------------------------------------- | -------------------------------------- |
+| varieties of sth 多种多样的某物 | fierce social advocate 狂热的社会运动者 | facial recognition 人脸识别            |
+| get sth done 完成某事           | enable sb to do sth 准许某人做某事      | take upon the role of sth 带入某种角色 |
 
 **句子**
 
@@ -134,5 +135,17 @@ Even the very thought of taking a photo can have a positive effect.
 This is still dispute, but it's clear that the woman reputed for writing it was one of America's most fascinating characters
 
 `dispute存在争议的` `reputed 据说的 reputed for writing it 做后置定语修饰 woman`
+
+Mr.Musk is a guy who gets things done
+
+马斯克先生是一个能成事的人
+
+This sounds like so much hot air, but the near $13 billion fortune this entrepreneur has amassed comes from practical achievement rather than hypothetical ones
+
+`entrepreneur 企业` `amass 积累` `practical achievement 实业` `hypothetical 假设的`
+
+"By taking upon the role of adviser rather than decision maker, one does not suffer the consequences of decision Mtigue," he says. "It is as if there is something fun and liberating about making someone else's choice"
+
+`take upon the role of sth` `consequences 结果` `liberating 解放的，自由的`
 
 ## Postgraduate

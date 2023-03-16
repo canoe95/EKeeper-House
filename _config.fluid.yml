@@ -362,25 +362,24 @@ navbar:
   # 导航栏菜单，可自行增减，key 用来关联 languages/*.yml，如不存在关联则显示 key 本身的值；icon 是 css class，可以省略；增加 name 可以强制显示指定名称
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
-    - { key: 'home', link: '/', icon: 'iconfont icon-home-fill',
-         name: 'Home',
-         submenu: [
+    - { key: 'home', link: '/', icon: 'iconfont icon-home-fill', name: 'Home' }
+    - { key: 'music', link: '/music/', icon: 'iconfont icon-music', name: 'Music' }
+    #- { key: 'categorie', link: '/categories/', icon: 'iconfont icon-book', name: 'Categories' }
+    #- { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
+    - { key: 'links', icon: 'iconfont icon-link-fill', name: 'Links',
+	submenu: [
 	{ key: 'Docs', link: 'https://northboat.netlify.app/', icon: 'iconfont icon-books' },
 	{ key: 'Blog', link: 'https://northpolar.netlify.app/', icon: 'iconfont icon-brush' },
 	{ key: 'Github', link: 'https://github.com/northboat/', icon: 'iconfont icon-github-fill' },
 	{ key: 'Index', link: 'https://northboat.github.io/', icon: 'iconfont icon-docker'  },
-       ]
-     }
-    - { key: 'music', link: '/music/', icon: 'iconfont icon-music', name: 'Music' }
-    #- { key: 'categorie', link: '/categories/', icon: 'iconfont icon-book', name: 'Categories' }
-    #- { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill', name: 'Tags' }
-    # - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
+       	] 
+       }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-addrcard', name: 'About' }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
 search:
-  enable: true
+  enable: false
 
   # 搜索索引文件的路径，可以是相对路径或外站的绝对路径
   # Path for search index file, it can be a relative path or an absolute path
