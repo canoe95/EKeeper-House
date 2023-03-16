@@ -195,9 +195,13 @@ banner_img_height: 79
 
 #### Unit10
 
-| Words   |                  |                  |
-| ------- | ---------------- | ---------------- |
-| abandon | abide 忍受，忠于 | basis 基础，根据 |
+| Words                    |                                       |                                       |
+| ------------------------ | ------------------------------------- | ------------------------------------- |
+| abandon                  | abide 忍受，忠于                      | basis 基础，根据                      |
+| campaign 运动，参加运动  | candidate 备胎                        | dazzle                                |
+| decision decide decisive | economic economical economics economy | effect effective efficient efficiency |
+| effort                   | fabric 织物 fabricate 制作，编造      | fail failure fall                     |
+| fancy fascinate 入迷     |                                       |                                       |
 
 
 
