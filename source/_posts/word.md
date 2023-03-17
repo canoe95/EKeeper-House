@@ -201,8 +201,10 @@ banner_img_height: 79
 | campaign 运动，参加运动  | candidate 备胎                        | dazzle                                |
 | decision decide decisive | economic economical economics economy | effect effective efficient efficiency |
 | effort                   | fabric 织物 fabricate 制作，编造      | fail failure fall                     |
-| fancy fascinate 入迷     |                                       |                                       |
+| fancy fascinate 入迷     | gamble                                | gene                                  |
+| general generalize       | habit habitat                         | hamper 阻碍 handicap 障碍             |
+| show shower              | shield                                |                                       |
 
-
+#### Unit11
 
 ## 基础词
