@@ -26,7 +26,7 @@ layout: about
 [项目经历](https://northboat.github.io)
 
 - 基于容器技术的云判题系统：获第15届中国大学生计算机设计大赛省二等奖
-- e管家资源站：多人 Git 协作完成，参与“电脑优化志愿服务项目”并获首届河北省高校学生会服务同学项目大赛十佳项目
+- e管家资源站：多人 Git 协作完成，参与“电脑优化志愿服务项目”获首届河北省高校学生会服务同学项目大赛十佳项目
 - [我的博客](https://northboat.netlify.app)：有多年博客笔记习惯，具备较强的文档书写能力
 
 ## 技能清单
@@ -34,8 +34,8 @@ layout: about
 - ★★☆ Java
 - ★★☆ Redis
 - ★★☆ MySQL
-- ★★☆ Markdown
 - ★★☆ Linux
+- ★★☆ Markdown
 - ★☆☆ Docker
 - ★☆☆ SpringBoot
 - ★☆☆ RabbitMQ

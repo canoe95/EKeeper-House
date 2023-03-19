@@ -7,7 +7,7 @@ categories:
   - Living
 excerpt: nmsl
 banner_img: /img/sun.jpg
-index_img: /img/sun.jpg
+index_img: /img/xia.jpg
 ---
 
 ## 2020
