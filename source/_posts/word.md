@@ -1,8 +1,8 @@
 ---
 title: 背个单词先
 date: 2023-01-1 14:23:28
-banner_img: /img/cloud.jpg
-index_img: /img/gufeng.jpg
+banner_img: /img/gufeng.jpg
+index_img: /img/cloud.jpg
 excerpt: abandon~abandon~abandon~
 tags: English
 categories: Study
