@@ -11,7 +11,7 @@ banner_img_height: 79
 
 ## 必考词
 
-### 2023.2
+### 第一节
 
 #### Unit1
 
@@ -154,7 +154,7 @@ banner_img_height: 79
 | otherwise 否则               | sign signature signal                   | signify matter significance significant |
 | simple simplicity simplify   | simply 仅仅，只不过                     | slack 松弛的                            |
 
-### 2023.3
+### 第二节
 
 #### Unit8
 
@@ -207,10 +207,20 @@ banner_img_height: 79
 
 #### Unit11
 
-| Words                                     |                    |                      |
-| ----------------------------------------- | ------------------ | -------------------- |
-| tow towards                               | talent talented    | taste tasty tasteful |
-| technical technician technique technology | temper temperature | temporal temporary   |
-| tempt temptation                          | tend tendency      | tentative            |
+| Words                                     |                                 |                           |
+| ----------------------------------------- | ------------------------------- | ------------------------- |
+| tow towards                               | talent talented                 | taste tasty tasteful 品味 |
+| technical technician technique technology | temper temperature              | temporal 世俗的 temporary |
+| tempt temptation 诱惑                     | tend tendency                   | tentative 尝试            |
+| terminal terminate                        | trace track 追踪，路径          | ultimate 最终的，最重要的 |
+| unify union 使统一，联合，工会            | universal universe 普遍的，宇宙 | estimate 估计             |
+
+| under-             |                |                          |
+| ------------------ | -------------- | ------------------------ |
+| underestimate 低估 | undergo 执行中 | underlie 基础            |
+| underlying 底层    | underline      | understand understanding |
+| undertake          |                |                          |
+
+
 
 ## 基础词
