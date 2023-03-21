@@ -8,7 +8,7 @@ categories:
 excerpt: just kidding 🙄
 banner_img: /img/bus.png
 index_img: /img/old.jpg
-hide: false
+hide: true
 ---
 
 ## 随笔
