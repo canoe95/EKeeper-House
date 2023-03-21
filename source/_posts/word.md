@@ -207,19 +207,24 @@ banner_img_height: 79
 
 #### Unit11
 
-| Words                                     |                                 |                           |
-| ----------------------------------------- | ------------------------------- | ------------------------- |
-| tow towards                               | talent talented                 | taste tasty tasteful 品味 |
-| technical technician technique technology | temper temperature              | temporal 世俗的 temporary |
-| tempt temptation 诱惑                     | tend tendency                   | tentative 尝试            |
-| terminal terminate                        | trace track 追踪，路径          | ultimate 最终的，最重要的 |
-| unify union 使统一，联合，工会            | universal universe 普遍的，宇宙 | estimate 估计             |
+| Words                                     |                                                  |                           |
+| ----------------------------------------- | ------------------------------------------------ | ------------------------- |
+| tow towards                               | talent talented                                  | taste tasty tasteful 品味 |
+| technical technician technique technology | temper temperature                               | temporal 世俗的 temporary |
+| tempt temptation 诱惑                     | tend tendency                                    | tentative 尝试            |
+| terminal terminate                        | trace track 追踪，路径                           | ultimate 最终的，最重要的 |
+| unify union 使统一，联合，工会            | universal universe 普遍的，宇宙                  | estimate 估计             |
+| vague                                     | unusual                                          | vain 徒劳                 |
+| vanish 突然消失                           | variable variance variation variety various vary | weary 使厌烦，疲倦的      |
+| weigh weight                              | weld 焊接                                        | whirl 旋转                |
+| welfare                                   | zone 区域 zoom                                   | yield                     |
+| knit 编制，使紧密结合                     |                                                  |                           |
 
-| under-             |                |                          |
-| ------------------ | -------------- | ------------------------ |
-| underestimate 低估 | undergo 执行中 | underlie 基础            |
-| underlying 底层    | underline      | understand understanding |
-| undertake          |                |                          |
+| under-                  |                |                          |
+| ----------------------- | -------------- | ------------------------ |
+| underestimate 低估      | undergo 执行中 | underlie 基础            |
+| underlying 底层，潜在的 | underline      | understand understanding |
+| undertake               |                |                          |
 
 
 
