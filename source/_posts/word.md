@@ -226,6 +226,18 @@ banner_img_height: 79
 | underlying 底层，潜在的 | underline      | understand understanding |
 | undertake               |                |                          |
 
+#### Unit12
+
+| Words                              |                                               |                        |
+| ---------------------------------- | --------------------------------------------- | ---------------------- |
+| glamour 迷人的美，魅力             | generate generation generator generous genius | genre 风格，体裁，类型 |
+| giant gigantic 巨物，巨大的        | occupy occupation occurrence                  | harm harmony           |
+| harsh 苛刻的                       | ignorance ignorant ignore                     | illusion 幻想          |
+| illustrate illustration 说明，阐述 | image imagine imaginary imaginative           | imitate imitation 效仿 |
+| legal legislation 立法             | legitimate 合法的                             | leisure                |
+| levy level lever 征收平衡杠杆      | mandate 授权，任期                            | manfest 显示，显然的   |
+| manipulate 恶意操纵                | mass massive massacre 大西王                  |                        |
+
 
 
 ## 基础词
