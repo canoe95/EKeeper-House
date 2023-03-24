@@ -20,7 +20,7 @@ layout: about
 
 - [**基于容器技术的云判题系统**](https://github.com/northboat/Online-Judge-System)
 
-  *SpringBoot、Vue、Docker、MyBatis*
+  *SpringBoot、Vue、Docker、MyBatis、Nginx*
 
   给校内学生使用的在线判题系统，支持 Java、C++ 语言的算法判题，前后端分离，使用 Docker 封闭运行用户代码，全栈学习产物，本项目获第15届中国大学生计算机设计大赛省二等奖
 
@@ -38,11 +38,11 @@ layout: about
 
 - **学生工作**
 
-  *东北大学秦皇岛分校计工学院社会实践部e管家负责人*
+  东北大学秦皇岛分校计工学院社会实践部e管家负责人
 
-  *东北大学秦皇岛分校2084Team成员*
+  东北大学秦皇岛分校2084Team成员
 
-  *东北大学秦皇岛分校校乒乓球队队员*
+  东北大学秦皇岛分校校乒乓球队队员
 
 ## 技能清单
 
