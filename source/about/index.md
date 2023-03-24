@@ -7,33 +7,48 @@ layout: about
 
 ## 个人信息
 
-- 舟桐，2001年生，男，汉族，湖南常德人
+- 舟桐，2001年生，男，汉族，湖南人
 - 联系方式：电话`18630338418`，邮箱`northboat@163.com`
 
 ## 教育经历
 
-- 学士，东北大学秦皇岛分校，计算机科学与技术专业，2020.9~至今，绩点 3.35，年级前 55%
-- 通过 CET4/6 英语等级考试，计算机二级考试
+- 学士，东北大学秦皇岛分校，计算机科学与技术专业，2020.9~至今
+- 绩点：3.35，年级前 55%
+- 通过了 CET4/6 英语等级考试，计算机二级考试
 
 ## 校内经历
 
-学生工作
+- [**基于容器技术的云判题系统**](https://github.com/northboat/Online-Judge-System)
 
-- 东秦计工学院社会实践部e管家负责人
-- 东秦2084Team成员
-- 东秦校乒乓球队队员
+  *SpringBoot、Vue、Docker、MyBatis*
 
-[项目经历](https://northboat.github.io)
+  给校内学生使用的在线判题系统，支持 Java、C++ 语言的算法判题，前后端分离，使用 Docker 封闭运行用户代码，全栈学习产物，本项目获第15届中国大学生计算机设计大赛省二等奖
 
-- 基于容器技术的云判题系统：获第15届中国大学生计算机设计大赛省二等奖
-- e管家资源站：多人 Git 协作完成，参与“电脑优化志愿服务项目”获首届河北省高校学生会服务同学项目大赛十佳项目
-- [我的博客](https://northboat.netlify.app)：有多年博客笔记习惯，具备较强的文档书写能力
+- [**基于 ChatGLM 的远程私人 AI 助手**](https://github.com/northboat/Aides)
+
+  *SpringBoot、MyBatis、Redis、RabbitMQ*
+
+  集合了清华的开源项目 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)，一个单显卡可运行的的本地对话 AI，该项目允许用户远程访问自己电脑上的本地 AI，通过 RabbitMQ 和 Redis 实现消息传输，本地客户端用 Python 编写，涉及多线程编程
+
+- [**我的博客**](https://northboat.netlify.app)
+
+  *VuePress、Git*
+
+  有多年博客笔记习惯，具备较强的文档书写能力
+
+- **学生工作**
+
+  *东北大学秦皇岛分校计工学院社会实践部e管家负责人*
+
+  *东北大学秦皇岛分校2084Team成员*
+
+  *东北大学秦皇岛分校校乒乓球队队员*
 
 ## 技能清单
 
 - ★★☆ Java
-- ★★☆ Redis
-- ★★☆ MySQL
+- ★☆☆ Redis
+- ★☆☆ MySQL
 - ★★☆ Linux
 - ★★☆ Markdown
 - ★☆☆ Docker
