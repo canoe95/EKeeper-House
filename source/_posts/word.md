@@ -249,13 +249,21 @@ banner_img_height: 79
 
 #### Unit13
 
-| Words                     |                   |                            |
-| ------------------------- | ----------------- | -------------------------- |
-| embrace brace             | embed             | embody 使具体化            |
-| embryo                    | elicit 引诱，探出 | thorough 彻底的，完全的    |
-| though thought thoughtful | elite 精英        | threat threaten            |
-| update upgrade            | uphold 举手，赞同 | ventilate 使通风，公开讨论 |
-| venture 冒险              | wit 才智          |                            |
+| Words                                 |                            |                                 |
+| ------------------------------------- | -------------------------- | ------------------------------- |
+| embrace brace                         | embed                      | embody 使具体化                 |
+| embryo                                | elicit 引诱，探出          | thorough 彻底的，完全的         |
+| though thought thoughtful             | elite 精英                 | threat threaten                 |
+| update upgrade                        | uphold 举手，赞同          | ventilate 使通风，公开讨论      |
+| venture 冒险                          | wit 才智                   | withdraw 撤回，取消             |
+| inaugurate 开创，开始，为某人举行典礼 | incentive 刺激，奖励，动机 | incidence incident incidentally |
+| incline                               | academic academy           | accelerate                      |
+| accessory                             |                            |                                 |
+
+| be-             |        |                    |
+| --------------- | ------ | ------------------ |
+| begin beginning | behalf | behave behavior    |
+| belief believe  | belong | beneficial benefit |
 
 
 
