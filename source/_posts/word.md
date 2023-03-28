@@ -249,21 +249,33 @@ banner_img_height: 79
 
 #### Unit13
 
-| Words                                 |                            |                                 |
-| ------------------------------------- | -------------------------- | ------------------------------- |
-| embrace brace                         | embed                      | embody 使具体化                 |
-| embryo                                | elicit 引诱，探出          | thorough 彻底的，完全的         |
-| though thought thoughtful             | elite 精英                 | threat threaten                 |
-| update upgrade                        | uphold 举手，赞同          | ventilate 使通风，公开讨论      |
-| venture 冒险                          | wit 才智                   | withdraw 撤回，取消             |
-| inaugurate 开创，开始，为某人举行典礼 | incentive 刺激，奖励，动机 | incidence incident incidentally |
-| incline                               | academic academy           | accelerate                      |
-| accessory                             |                            |                                 |
+| Words                                 |                                       |                                       |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| embrace brace 拥抱，接受              | embed 使插入                          | embody 使具体化                       |
+| embryo 胚胎                           | elicit 引诱，探出                     | thorough 彻底的，完全的               |
+| though thought thoughtful             | elite 精英                            | threat threaten                       |
+| update upgrade                        | uphold 举手，赞同                     | ventilate 使通风，公开讨论            |
+| venture 冒险                          | wit 才智                              | withdraw 撤回，取消                   |
+| inaugurate 开创，开始，为某人举行典礼 | incentive 刺激，奖励，动机            | incidence incident incidentally       |
+| incline                               | academic academy                      | accelerate                            |
+| accessory 附属品                      | challenge 挑战                        | character characterize characteristic |
+| defend                                | define definite definition 限定，定义 | defy 违背，抵抗                       |
+| delay                                 | deliberate 谨慎的，仔细考虑的         | delicate 易碎的，娇嫩的               |
+| deliver delivery 运输                 | fierce 凶猛的                         | finance financial                     |
+| finite infinite 有限的                | firm 坚固的，肯定的                   | global globe 球体                     |
 
 | be-             |        |                    |
 | --------------- | ------ | ------------------ |
 | begin beginning | behalf | behave behavior    |
 | belief believe  | belong | beneficial benefit |
+
+#### Unit14
+
+| Words                          |                               |                           |
+| ------------------------------ | ----------------------------- | ------------------------- |
+| patch 补丁，修补               | patent 专利，专利的，申请专利 | pattern 模式 partter 搭档 |
+| peculiar 独有的                | peer 凝视，同辈               | per 每一                  |
+| perceive perception 感知，察觉 | rail railway 铁道             | perfect 完美的，使完美    |
 
 
 
