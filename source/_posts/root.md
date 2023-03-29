@@ -19,7 +19,7 @@ banner_img_height: 79
 
 | 英           | 中         | 释义          |
 | ------------ | ---------- | ------------- |
-| prewar       | adj.战前的 | war 战争      |
+| prewar       | a.战前的   | war 战争      |
 | predict      | v.预测     | -dict- 言，词 |
 | precondition | n.先决条件 | conditon 条件 |
 | preview      | v.预习     | view 看       |
@@ -51,12 +51,12 @@ banner_img_height: 79
 
 `an-, anci-, ant-, ante-` 在...之前
 
-| 英         | 中                         | 释义                           |
-| ---------- | -------------------------- | ------------------------------ |
-| ancestor   | n.祖先                     | -cest- 走；-or 人              |
-| ancient    | adj.古代的                 | -ent 形容词后缀                |
-| antique    | adj.古老的；n.古董         | ique = ic 形容词后缀           |
-| antecedent | adj.先行的；n.祖先，先行词 | -ced- 走；-ent 形容词/名词后缀 |
+| 英         | 中                       | 释义                           |
+| ---------- | ------------------------ | ------------------------------ |
+| ancestor   | n.祖先                   | -cest- 走；-or 人              |
+| ancient    | a.古代的                 | -ent 形容词后缀                |
+| antique    | a.古老的；n.古董         | ique = ic 形容词后缀           |
+| antecedent | a.先行的；n.祖先，先行词 | -ced- 走；-ent 形容词/名词后缀 |
 
 #### post
 
@@ -65,7 +65,7 @@ banner_img_height: 79
 | 英           | 中           | 释义          |
 | ------------ | ------------ | ------------- |
 | postgraduate | n.研究生     | graduate 毕业 |
-| postwar      | adj.战后的   | war 战争      |
+| postwar      | a.战后的     | war 战争      |
 | postpone     | v.延期，推迟 | -pon- 放      |
 
 ### 否定
@@ -76,7 +76,7 @@ banner_img_height: 79
 
 | 英       | 中                   | 释义             |
 | -------- | -------------------- | ---------------- |
-| abnormal | adj.不正常的         | normal 正常的    |
+| abnormal | a.不正常的           | normal 正常的    |
 | abuse    | v.滥用，辱骂；n.恶习 | use 使用         |
 | absent   | adj.缺席的           | -ent- 形容词后缀 |
 
@@ -84,12 +84,12 @@ banner_img_height: 79
 
 `anti-` 对抗，相反
 
-| 英           | 中                   | 释义             |
-| ------------ | -------------------- | ---------------- |
-| antiwar      | adj.反战的           | war 战争         |
-| anti-virus   | adj.杀毒的，防病毒的 | virus 病毒       |
-| anti-dumping | adj.反倾销的         | dumping 倒，倾销 |
-| antibody     | n.抗体               | body 体          |
+| 英           | 中                 | 释义             |
+| ------------ | ------------------ | ---------------- |
+| antiwar      | a.反战的           | war 战争         |
+| anti-virus   | a.杀毒的，防病毒的 | virus 病毒       |
+| anti-dumping | a.反倾销的         | dumping 倒，倾销 |
+| antibody     | n.抗体             | body 体          |
 
 #### dis
 
@@ -97,7 +97,7 @@ banner_img_height: 79
 
 | 英        | 中                     | 释义          |
 | --------- | ---------------------- | ------------- |
-| dishonest | adj.不诚实的           | honest 诚实的 |
+| dishonest | a.不诚实的             | honest 诚实的 |
 | disobey   | v.不服从               | obey 遵从     |
 | disorder  | n.混乱；v.使混乱       | order 顺序    |
 | discredit | v.使被怀疑；n.丧失名誉 | credit 名誉   |
@@ -106,30 +106,30 @@ banner_img_height: 79
 
 `il-, im-, in-, ir` 不，无
 
-| 英         | 中                     | 释义            |
-| ---------- | ---------------------- | --------------- |
-| illegal    | adj.非法的；n.非法移民 | legal 合法的    |
-| illogical  | adj.不符合逻辑的       | logical 逻辑的  |
-| immature   | adj.不成熟的           | mature 成熟的   |
-| immobile   | adj.固定的             | mobile 移动的   |
-| impartial  | adj.公平的             | partial 偏爱的  |
-| injustice  | n.不公平               | justice 正义    |
-| informal   | adj.非正式的           | formal 正式的   |
-| irrelevant | adj.不相干的           | relevant 相干的 |
-| irregular  | adj.无规律的           | regular 规律的  |
-| irrational | adj.不合理的           | rational 合理的 |
+| 英         | 中                   | 释义            |
+| ---------- | -------------------- | --------------- |
+| illegal    | a.非法的；n.非法移民 | legal 合法的    |
+| illogical  | a.不符合逻辑的       | logical 逻辑的  |
+| immature   | a.不成熟的           | mature 成熟的   |
+| immobile   | a.固定的             | mobile 移动的   |
+| impartial  | a.公平的             | partial 偏爱的  |
+| injustice  | n.不公平             | justice 正义    |
+| informal   | a.非正式的           | formal 正式的   |
+| irrelevant | a.不相干的           | relevant 相干的 |
+| irregular  | a.无规律的           | regular 规律的  |
+| irrational | a.不合理的           | rational 合理的 |
 
 #### non
 
 `non-` 不，非
 
-| 英          | 中                                 | 释义            |
-| ----------- | ---------------------------------- | --------------- |
-| nonsense    | n.胡说，废话                       | sense 意思      |
-| nonexistent | adj.不存在的                       | existent 存在的 |
-| nonprofit   | adj.非盈利的                       | profit 利益     |
-| nonsmoking  | adj.禁烟的                         | smoking 吸烟    |
-| nonstop     | adj.直达的；adv.不休息地；n.直达车 | stop 停         |
+| 英          | 中                               | 释义            |
+| ----------- | -------------------------------- | --------------- |
+| nonsense    | n.胡说，废话                     | sense 意思      |
+| nonexistent | a.不存在的                       | existent 存在的 |
+| nonprofit   | a.非盈利的                       | profit 利益     |
+| nonsmoking  | a.禁烟的                         | smoking 吸烟    |
+| nonstop     | a.直达的；adv.不休息地；n.直达车 | stop 停         |
 
 #### ob / op
 
@@ -145,13 +145,13 @@ banner_img_height: 79
 
 `un-` 不，无，没有
 
-| 英            | 中             | 释义                 |
-| ------------- | -------------- | -------------------- |
-| unavailable   | adj.不能利用的 | available 可利用的   |
-| unavoidable   | adj.不能避免的 | avoidable 可避免的   |
-| unbearable    | adj.不能忍受的 | bearable 可忍受的    |
-| unconscious   | adj.失去知觉的 | conscious 清醒的     |
-| unconditional | adj.无条件的   | conditional 有条件的 |
+| 英            | 中           | 释义                 |
+| ------------- | ------------ | -------------------- |
+| unavailable   | a.不能利用的 | available 可利用的   |
+| unavoidable   | a.不能避免的 | avoidable 可避免的   |
+| unbearable    | a.不能忍受的 | bearable 可忍受的    |
+| unconscious   | a.失去知觉的 | conscious 清醒的     |
+| unconditional | a.无条件的   | conditional 有条件的 |
 
 #### de
 
@@ -207,7 +207,7 @@ banner_img_height: 79
 | 英             | 中           | 释义                   |
 | -------------- | ------------ | ---------------------- |
 | controversy    | n.争论       | -vers- 转，-y 名词后缀 |
-| contrary       | adj.相反的   | -ary 形容词后缀        |
+| contrary       | a.相反的     | -ary 形容词后缀        |
 | contradict     | v.反对       | -dict- 说              |
 | counteract     | v.抵消，中和 | act 动作               |
 | counter-attack | n.反击       | attack 进攻            |
@@ -246,12 +246,12 @@ banner_img_height: 79
 
 `in-, im-` 进入...之中，在里面
 
-| 英        | 中                         | 释义                        |
-| --------- | -------------------------- | --------------------------- |
-| immigrate | v.移入，移居国内           | -migr- 移动，-ate 动词后缀  |
-| import    | n.进口；v.进口             | -port- 拿                   |
-| inherent  | adj.固有的，内在的         | -her- 黏附，-ent 形容词后缀 |
-| innate    | adj.天生的，特有的，直觉的 | -nat- 出生，生来就有的      |
+| 英        | 中                       | 释义                        |
+| --------- | ------------------------ | --------------------------- |
+| immigrate | v.移入，移居国内         | -migr- 移动，-ate 动词后缀  |
+| import    | n.进口；v.进口           | -port- 拿                   |
+| inherent  | a.固有的，内在的         | -her- 黏附，-ent 形容词后缀 |
+| innate    | a.天生的，特有的，直觉的 | -nat- 出生，生来就有的      |
 
 #### inter
 
@@ -261,8 +261,8 @@ banner_img_height: 79
 | ------------- | --------------- | --------------------------- |
 | interview     | n./v.采访，面试 | view 看，相互看             |
 | interact      | v.相互作用      | act 行动                    |
-| international | adj.超越国界的  | nation 国家，-al 形容词后缀 |
-| interpersonal | adj.人际的      | person 人，-al 形容词后缀   |
+| international | a.超越国界的    | nation 国家，-al 形容词后缀 |
+| interpersonal | a.人际的        | person 人，-al 形容词后缀   |
 
 #### re
 
@@ -278,23 +278,23 @@ banner_img_height: 79
 
 `sub-` 向下，低于，第二
 
-| 英           | 中                           | 释义                  |
-| ------------ | ---------------------------- | --------------------- |
-| subconscious | adj.下意识的                 | conscious 有意识的    |
-| submarine    | adj.水下的；n.潜艇，海底生物 | marine 船舶的，航海的 |
-| submit       | v.呈交，递交，服从           | -mit- 送，从下往上送  |
-| suburb       | n.郊区，边缘，城郊           | -urb- 城市            |
+| 英           | 中                         | 释义                  |
+| ------------ | -------------------------- | --------------------- |
+| subconscious | a.下意识的                 | conscious 有意识的    |
+| submarine    | a.水下的；n.潜艇，海底生物 | marine 船舶的，航海的 |
+| submit       | v.呈交，递交，服从         | -mit- 送，从下往上送  |
+| suburb       | n.郊区，边缘，城郊         | -urb- 城市            |
 
 #### sur
 
 `sur-` 上面，超过
 
-| 英      | 中                             | 释义                  |
-| ------- | ------------------------------ | --------------------- |
-| surface | n.表面；v.浮出水面；adj.肤浅的 | face 面               |
-| surpass | v.超过，优于                   | pass 通过，在上面通过 |
-| subplus | adj.过剩的，过多的             | plus 加               |
-| survive | v.幸存，生存，存活             | -viv- 活              |
+| 英      | 中                           | 释义                  |
+| ------- | ---------------------------- | --------------------- |
+| surface | n.表面；v.浮出水面；a.肤浅的 | face 面               |
+| surpass | v.超过，优于                 | pass 通过，在上面通过 |
+| subplus | a.过剩的，过多的             | plus 加               |
+| survive | v.幸存，生存，存活           | -viv- 活              |
 
 #### trans
 
@@ -314,7 +314,7 @@ banner_img_height: 79
 | 英            | 中                         | 释义            |
 | ------------- | -------------------------- | --------------- |
 | underline     | n.下划线                   | line 线         |
-| underground   | adj.底下的；n.地铁         | ground 地面     |
+| underground   | a.底下的；n.地铁           | ground 地面     |
 | undergraduate | n.在读大学生；adj.大学生的 | graduate 毕业生 |
 
 ### 倍数关系
@@ -366,9 +366,9 @@ banner_img_height: 79
 
 | 英            | 中                     | 释义                          |
 | ------------- | ---------------------- | ----------------------------- |
-| multicultural | adj.多种文化的         | cultural 文化                 |
+| multicultural | a.多种文化的           | cultural 文化                 |
 | multi-media   | n.多媒体；adj.多媒体的 | media 媒体                    |
-| multilingual  | adj.多种语言的         | -lingu- 语言，-ual 形容词后缀 |
+| multilingual  | a.多种语言的           | -lingu- 语言，-ual 形容词后缀 |
 
 ### 程度
 
@@ -378,7 +378,7 @@ banner_img_height: 79
 
 | 英            | 中         | 释义             |
 | ------------- | ---------- | ---------------- |
-| overconfident | adj.自负   | confident 自信的 |
+| overconfident | a.自负     | confident 自信的 |
 | overestimate  | v.高估     | estimate 估计    |
 | oversize      | adj.超大的 | size 尺寸        |
 
@@ -388,10 +388,10 @@ banner_img_height: 79
 
 | 英          | 中                       | 释义                        |
 | ----------- | ------------------------ | --------------------------- |
-| outdoor     | adj.户外的               | door 门                     |
+| outdoor     | a.户外的                 | door 门                     |
 | outline     | n.轮廓，大纲；v.概述     | line 线                     |
 | outrage     | n.愤怒，暴怒；v.激起愤怒 | rage 愤怒                   |
-| outstanding | adj.杰出的，显著的       | stand 站立，-ing 形容词后缀 |
+| outstanding | a.杰出的，显著的         | stand 站立，-ing 形容词后缀 |
 
 ### 状态及性质
 
@@ -464,39 +464,39 @@ banner_img_height: 79
 
 `-dict-, -dic-` 言、词、说
 
-| 英            | 中           |
-| ------------- | ------------ |
-| dictionary    | n.词典       |
-| predict       | v.预测       |
-| predictable   | adj.可预料的 |
-| addict        | n.瘾君子     |
-| contradict    | v.反驳       |
-| contradiction | n.矛盾       |
-| contradictory | adj.矛盾的   |
-| indicate      | v.表明       |
+| 英            | 中         |
+| ------------- | ---------- |
+| dictionary    | n.词典     |
+| predict       | v.预测     |
+| predictable   | a.可预料的 |
+| addict        | n.瘾君子   |
+| contradict    | v.反驳     |
+| contradiction | n.矛盾     |
+| contradictory | adj.矛盾的 |
+| indicate      | v.表明     |
 
 #### vis
 
 `-vi-, -vis-, -vid-, -view-` 看
 
-| 英          | 中                 |
-| ----------- | ------------------ |
-| visible     | adj.可视的         |
-| invisible   | adj.不可视的       |
-| advice      | n.建议             |
-| advise      | v.建议             |
-| provide     | v.提供             |
-| provision   | n.准备，条文       |
-| revise      | v.修改             |
-| revision    | n.修正             |
-| supervise   | v.监督             |
-| supervision | n.监管             |
-| visual      | adj.虚拟的，现实的 |
-| viewpoint   | n.观点             |
-| interview   | n.采访，面试       |
-| review      | v.复习             |
-| evident     | adj.清楚明白的     |
-| evidence    | n.证据             |
+| 英          | 中               |
+| ----------- | ---------------- |
+| visible     | a.可视的         |
+| invisible   | a.不可视的       |
+| advice      | n.建议           |
+| advise      | v.建议           |
+| provide     | v.提供           |
+| provision   | n.准备，条文     |
+| revise      | v.修改           |
+| revision    | n.修正           |
+| supervise   | v.监督           |
+| supervision | n.监管           |
+| visual      | a.虚拟的，现实的 |
+| viewpoint   | n.观点           |
+| interview   | n.采访，面试     |
+| review      | v.复习           |
+| evident     | a.清楚明白的     |
+| evidence    | n.证据           |
 
 #### spec
 
@@ -505,20 +505,20 @@ banner_img_height: 79
 | 英          | 中             |
 | ----------- | -------------- |
 | prospect    | n.前景，展望   |
-| prospective | adj.未来的     |
+| prospective | a.未来的       |
 | retrospect  | v.回顾         |
 | inspect     | v.审查，仔细看 |
 | sapect      | n.方面         |
 | expect      | v.期望         |
 | expectation | n.期望         |
-| unexpected  | adj.意料之外的 |
+| unexpected  | a.意料之外的   |
 | respect     | v.尊敬         |
-| respectable | adj.令人尊敬的 |
-| respective  | adv.各自       |
+| respectable | a.令人尊敬的   |
+| respective  | ad.各自        |
 | suspect     | v.怀疑         |
 | suspicion   | n.疑虑         |
-| suspicious  | adj.令人生疑的 |
-| conspicuous | adj.显著的     |
+| suspicious  | a.令人生疑的   |
+| conspicuous | a.显著的       |
 
 ### 移动
 
@@ -530,9 +530,9 @@ banner_img_height: 79
 | -------------- | ---------------------- |
 | mobile         | v.移动                 |
 | automobile     | n.汽车                 |
-| remote         | adj.偏远的             |
+| remote         | a.偏远的               |
 | **motion**     | n.运动                 |
-| **motionless** | adj.一动不动的         |
+| **motionless** | a.一动不动的           |
 | **motive**     | n.动机；adj.导致运动的 |
 | **motivate**   | v.激励                 |
 | promotion      | n,推广                 |
@@ -551,14 +551,14 @@ banner_img_height: 79
 | **precede**     | v.之前，先于   |
 | exceed          | v.超过         |
 | excess          | n.超额         |
-| excessive       | adj.超额的     |
+| excessive       | a.超额的       |
 | proceed         | v.推进         |
 | procedure       | n.步骤         |
 | succeed         | v.成功         |
 | success         | n.成功         |
 | **succession**  | n.继承         |
-| successive      | adj.连续的     |
-| successful      | adj.成功的     |
+| successive      | a.连续的       |
+| successful      | a.成功的       |
 | successor       | n.成功者       |
 | **recede**      | v.撤回         |
 | recession       | n.撤回         |
@@ -566,27 +566,27 @@ banner_img_height: 79
 | antecedent      | n.前情，祖先   |
 | ancestor        | n.祖先         |
 | necessitate     | v.必要         |
-| necessary       | adj.必要的     |
+| necessary       | a.必要的       |
 | necessity       | n.必要性       |
 | access          | n.通道；v.访问 |
-| accessible      | adj.可到达的   |
+| accessible      | a.可到达的     |
 
 #### gress
 
 `-gress-, -grad-` 步，走，级
 
-| 英          | 中                   |
-| ----------- | -------------------- |
-| progress    | n.进展               |
-| progressive | adj.进步的           |
-| congress    | n.大会               |
-| aggressive  | adj.侵略性的，积极的 |
-| grade       | n.年级，等级         |
-| upgrade     | v.升级               |
-| degrade     | v.降低               |
-| downgrade   | n.降级               |
-| gradual     | adj.逐渐的           |
-| graduate    | v.毕业               |
+| 英          | 中                 |
+| ----------- | ------------------ |
+| progress    | n.进展             |
+| progressive | a.进步的           |
+| congress    | n.大会             |
+| aggressive  | a.侵略性的，积极的 |
+| grade       | n.年级，等级       |
+| upgrade     | v.升级             |
+| degrade     | v.降低             |
+| downgrade   | n.降级             |
+| gradual     | a.逐渐的           |
+| graduate    | v.毕业             |
 
 #### sta
 
@@ -598,12 +598,12 @@ banner_img_height: 79
 | statement        | n.陈述，语句 |
 | **status**       | n.地位       |
 | station          | n.站         |
-| **stable**       | adj.稳定的   |
-| steady           | adj.稳固的   |
-| **establish**    | adj.建立     |
+| **stable**       | a.稳定的     |
+| steady           | a.稳固的     |
+| **establish**    | a.建立       |
 | distance         | n.距离       |
-| distant          | adj.遥远的   |
-| constant         | adj.连续的   |
+| distant          | a.遥远的     |
+| constant         | a.连续的     |
 | **circumstance** | n.情况       |
 | obstacle         | n.障碍       |
 
@@ -621,10 +621,10 @@ banner_img_height: 79
 | reject        | v.拒绝         |
 | eject         | v.弹出，同 pop |
 | subject       | n.物体         |
-| subjective    | adj.客观的     |
+| subjective    | a.客观的       |
 | object        | v.反对；n.物体 |
 | objection     | n.异议         |
-| objective     | adj.反对的     |
+| objective     | a.反对的       |
 | objectiveness | n.客观性       |
 
 #### pos
@@ -637,16 +637,16 @@ banner_img_height: 79
 | position     | n.位置       |
 | purpose      | n.主旨，大意 |
 | **deposit**  | n.存款       |
-| positive     | adj.乐观的   |
+| positive     | a.乐观的     |
 | compose      | v.组成       |
 | composition  | n.组成       |
 | component    | n.零件       |
 | oppose       | v.反对       |
-| **opposite** | adj.相反     |
+| **opposite** | a.相反       |
 | **opponent** | n.对手       |
 | postpone     | v.推迟，延期 |
 | expose       | v.暴露       |
-| **exposure** | adj.暴露的   |
+| **exposure** | a.暴露的     |
 | **propose**  | v.求婚       |
 | proposal     | n.求婚       |
 
@@ -659,7 +659,7 @@ banner_img_height: 79
 | act         | v.做动作，表演   |
 | action      | n.动作           |
 | react       | v.反应           |
-| active      | adj.活跃的       |
+| active      | a.活跃的         |
 | activity    | n.活动           |
 | activate    | v.激励           |
 | activist    | n.积极分子       |
@@ -678,8 +678,8 @@ banner_img_height: 79
 | ---------- | ---------------------- |
 | credit     | n.名誉，信誉；v.使相信 |
 | discredit  | n.怀疑；v.使不信       |
-| credible   | adj.可信的             |
-| incredible | adj.不能相信的         |
+| credible   | a.可信的               |
+| incredible | a.不能相信的           |
 
 #### duct
 
@@ -704,24 +704,24 @@ banner_img_height: 79
 | 英             | 中               |
 | -------------- | ---------------- |
 | order          | n.顺序           |
-| orderly        | adv.按顺序地     |
+| orderly        | ad.按顺序地      |
 | disorder       | n.混乱；v.使混乱 |
-| ordinary       | adj.普通的       |
-| extraordinary  | adj.出色的       |
+| ordinary       | a.普通的         |
+| extraordinary  | a.出色的         |
 | **coordinate** | n.坐标           |
 
 #### nat
 
 `-nat-` 出生
 
-| 英            | 中         |
-| ------------- | ---------- |
-| innate        | adj.天生的 |
-| native        | adj.本地的 |
-| nation        | n.国家     |
-| national      | adj.国家的 |
-| nationality   | n.国籍     |
-| international | adj.国际的 |
+| 英            | 中       |
+| ------------- | -------- |
+| innate        | a.天生的 |
+| native        | a.本地的 |
+| nation        | n.国家   |
+| national      | a.国家的 |
+| nationality   | n.国籍   |
+| international | a.国际的 |
 
 #### rupt
 
@@ -731,8 +731,8 @@ banner_img_height: 79
 | ---------- | ------------ |
 | interrupt  | v.摧毁，破坏 |
 | disrupt    | v.破坏       |
-| bankrupt   | adj.破产的   |
+| bankrupt   | a.破产的     |
 | bankruptcy | n.破产       |
-| corrupt    | adj.腐败的   |
+| corrupt    | a.腐败的     |
 | erupt      | v.爆发       |
 
