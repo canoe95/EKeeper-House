@@ -275,10 +275,16 @@ banner_img_height: 79
 | ------------------------------------- | ----------------------------- | -------------------------------------------- |
 | patch 补丁，修补                      | patent 专利，专利的，申请专利 | pattern 模式 partter 搭档                    |
 | peculiar 独有的                       | peer 凝视，同辈               | per 每一                                     |
-| perceive perception 感知，察觉        | rail railway 铁道             | perfect 完美的，使完美                       |
-| rally 集会，团结，拉力赛              | random                        | master masterpiece                           |
-| material                              | mathematical                  | mature                                       |
+| perceive perception 感知，察觉        | rail railway 铁道             | perfect 使完美                               |
+| rally 集会，团结，拉力赛              | random                        | master masterpiece 杰作                      |
+| material                              | mathematical                  | mature 使成熟                                |
 | mean meaning means meantime meanwhile | measure                       | opera operate operation operational operator |
+| opponent opposite                     | opportunity                   | oppress                                      |
+| scope 作用域                          | scorn 蔑视                    | secure security                              |
+| see seek                              | seem seemingly                | thrift thrifty 节俭                          |
+| thrill 惊悚的                         | thrive 兴旺发达               | through throughout                           |
+| urge urgent                           | utilize use                   | utter important                              |
+| worth worthy worthwhile               | worship 崇拜                  |                                              |
 
 
 
