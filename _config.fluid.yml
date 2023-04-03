@@ -369,7 +369,7 @@ navbar:
 	{ key: 'Docs', link: 'https://northboat.netlify.app/', icon: 'iconfont icon-books' },
 	{ key: 'Blog', link: 'https://northpolar.netlify.app/', icon: 'iconfont icon-music' },
 	{ key: 'Github', link: 'https://github.com/northboat/', icon: 'iconfont icon-github-fill' },
-	{ key: 'Index', link: 'https://northboat.github.io/', icon: 'iconfont icon-docker'  },
+	{ key: 'Index', link: 'https://northdoor.netlify.app/', icon: 'iconfont icon-docker'  },
        	] 
        }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-addrcard', name: 'About' }
