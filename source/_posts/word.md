@@ -286,6 +286,26 @@ banner_img_height: 79
 | urge urgent                           | utilize use                   | utter important                              |
 | worth worthy worthwhile               | worship 崇拜                  |                                              |
 
+### 第三节
+
+#### Unit15
+
+| Words                                   |                         |                                            |
+| --------------------------------------- | ----------------------- | ------------------------------------------ |
+| console 安慰                            | consist consistent 组成 | constant                                   |
+| constituent constitute constiution 构成 | constrain 约束          | construct 构建                             |
+| distinct distinction distinguish 不同   | fruitful 硕果累累的     | frustrate 挫折                             |
+| fulfill 履行                            | fund fundamental 基本的 | associate association 联想                 |
+| amend 修正                              | ample 充足的            | amuse 使发笑                               |
+| monopoly 垄断                           | monotonous various      | transmission transmit transplant transport |
+| stock 本金，资本                        | store storage           | stride 大步向前                            |
+| strike striking 打击                    | string structure        | stun 打晕，使震惊                          |
+| primary prime primitive 主要的          | principal 最重要的      | principel 原则                             |
+| liability liable 义务                   | liberal liberate 自由   | evidence evident                           |
+| evil                                    | enterprise 企业，野心   | entertain entertainment                    |
+| licence 证件，放肆                      | psychiatry 精神病学     | psychology 心理学                          |
+| innocent 清白的，天真的                 |                         |                                            |
+
 
 
 ## 基础词
