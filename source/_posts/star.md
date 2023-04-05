@@ -143,3 +143,10 @@ a man provides, and he does it even he is not appreciated, or respected, or even
 ---
 
 青春在跌跌撞撞中戛然而止
+
+---
+
+且视他人之凝目如盏盏鬼火，大胆的去走你的夜路
+
+> 史铁生
+
