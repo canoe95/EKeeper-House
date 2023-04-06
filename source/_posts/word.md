@@ -306,6 +306,20 @@ banner_img_height: 79
 | licence 证件，放肆                      | psychiatry 精神病学     | psychology 心理学                          |
 | innocent 清白的，天真的                 |                         |                                            |
 
+#### Unit16
 
+| Words                                    |                             |                                   |
+| ---------------------------------------- | --------------------------- | --------------------------------- |
+| stand standard standpoint                | startle 恐吓，惊吓          | starive 饿                        |
+| state 状态，州                           | statement 陈述              | statesman 政治家                  |
+| statistics 统计数据，统计学              | statue 雕像                 | status 地位，身份，状况           |
+| statute 法令法规，条例章程               | steer 带领，掌舵            | stem 茎，干，起源于，阻止         |
+| stern 严肃的严厉的，尾部                 | anonymous 匿名的            | anticipate 预期预料，先发制人     |
+| anxiety anxious 焦虑，焦虑的             | apart 分离地                | assassinate assassin 暗杀，暗杀者 |
+| assault 攻击，袭击                       | assemble 召集 assembly 集会 | assert 断言                       |
+| component 组成的，组成部分               | compose 组成                | composition 作品                  |
+| comprehend 有理解的 comprehension 理解力 | condemn 谴责，宣告有罪      | condense 使压缩，使凝结           |
+
+`from stem to stern 从船的头部到尾部`
 
 ## 基础词
