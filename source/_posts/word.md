@@ -319,7 +319,33 @@ banner_img_height: 79
 | assault 攻击，袭击                       | assemble 召集 assembly 集会 | assert 断言                       |
 | component 组成的，组成部分               | compose 组成                | composition 作品                  |
 | comprehend 有理解的 comprehension 理解力 | condemn 谴责，宣告有罪      | condense 使压缩，使凝结           |
+| conduct conductor 半导体                 | hoist hold holder household | bubble 气泡 huddle 蜷缩           |
+| narrative 叙述的，叙述                   | narrow 狭隘的               | nasty 龌龊的                      |
+| nation national nationality              | native natural nature       | potential 有潜力的                |
+| portion 一部分                           | possibility possible        |                                   |
 
 `from stem to stern 从船的头部到尾部`
+
+| dis-            |                |                    |
+| --------------- | -------------- | ------------------ |
+| disappear       | disable 使瘫痪 | disappoint 使失望  |
+| discipline 学科 | disclose 揭露  | discover discovery |
+
+| over-          |          |              |
+| -------------- | -------- | ------------ |
+| overall 全面的 | overcome | overlap 重叠 |
+
+#### Unit17
+
+| Words                      |                                  |                             |
+| -------------------------- | -------------------------------- | --------------------------- |
+| stimulate 刺激，使兴奋     | stir 搅动，激起                  | stipulate 规定，明确要求    |
+| infer inference 推断，影响 | influence influential            | inform information          |
+| inferior 下等的，次的      |                                  |                             |
+| approach                   | appropriate inappropriate 合适的 | approval approve 批准，赞同 |
+| apt 恰当的                 | conform 一致，相似               | confront 面临               |
+| confuse confusion 困惑     | congress 代表大会                | connect connection 连接     |
+
+
 
 ## 基础词
