@@ -337,14 +337,22 @@ banner_img_height: 79
 
 #### Unit17
 
-| Words                      |                                  |                             |
-| -------------------------- | -------------------------------- | --------------------------- |
-| stimulate 刺激，使兴奋     | stir 搅动，激起                  | stipulate 规定，明确要求    |
-| infer inference 推断，影响 | influence influential            | inform information          |
-| inferior 下等的，次的      |                                  |                             |
-| approach                   | appropriate inappropriate 合适的 | approval approve 批准，赞同 |
-| apt 恰当的                 | conform 一致，相似               | confront 面临               |
-| confuse confusion 困惑     | congress 代表大会                | connect connection 连接     |
+| Words                      |                                    |                             |
+| -------------------------- | ---------------------------------- | --------------------------- |
+| stimulate 刺激，使兴奋     | stir 搅动，激起                    | stipulate 规定，明确要求    |
+| infer inference 推断，影响 | influence influential              | inform information          |
+| inferior 下等的，次的      |                                    |                             |
+| approach                   | appropriate inappropriate 合适的   | approval approve 批准，赞同 |
+| apt 恰当的                 | conform 一致，相似                 | confront 面临               |
+| confuse confusion 困惑     | congress 代表大会                  | connect connection 连接     |
+| conscious 清醒的           | continual continue continuous 连续 | evolution evolve 进化       |
+| exaggerate 夸大            |                                    |                             |
+
+| dis-          |                 |                 |
+| ------------- | --------------- | --------------- |
+| dismiss 解雇  | disorder 混乱   | disperse 分散   |
+| displace 代替 | display 展览    | distribute 分发 |
+| distort 扭曲  | distract 使分心 |                 |
 
 
 
