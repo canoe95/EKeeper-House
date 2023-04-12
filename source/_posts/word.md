@@ -354,6 +354,16 @@ banner_img_height: 79
 | displace 代替 | display 展览    | distribute 分发 |
 | distort 扭曲  | distract 使分心 |                 |
 
+#### Unit18
+
+| Words                             |                                             |                               |
+| --------------------------------- | ------------------------------------------- | ----------------------------- |
+| confine                           | confirm                                     | conflict                      |
+| confidence confident confidential | configuration                               | trail 痕迹，小道              |
+| train 火车，训练                  | training 训练                               | trait 特征，特性 traitor 叛徒 |
+| view viewpoint                    | violent violence                            | virtual 实际上                |
+| virtue 美德，优点                 | apparent 显然的，表面上的 appeal 吸引，呼吁 |                               |
+
 
 
 ## 基础词
