@@ -16,7 +16,7 @@ layout: about
 - 绩点：3.35，年级前 55%
 - 通过了 CET4/6 英语等级考试，计算机二级考试
 
-## 校内经历
+## [项目经历](https://northdoor.netlify.app/)
 
 - [**基于容器技术的云判题系统**](https://github.com/northboat/Online-Judge-System)
 
