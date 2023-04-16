@@ -355,14 +355,31 @@ banner_img_height: 79
 
 #### Unit18
 
-| Words                             |                                             |                               |
-| --------------------------------- | ------------------------------------------- | ----------------------------- |
-| confine                           | confirm                                     | conflict                      |
-| confidence confident confidential | configuration                               | trail 痕迹，小道              |
-| train 火车，训练                  | training 训练                               | trait 特征，特性 traitor 叛徒 |
-| view viewpoint                    | violent violence                            | virtual 实际上                |
-| virtue 美德，优点                 | apparent 显然的，表面上的 appeal 吸引，呼吁 |                               |
+| Words                                    |                                             |                                  |
+| ---------------------------------------- | ------------------------------------------- | -------------------------------- |
+| confine                                  | confirm                                     | conflict                         |
+| confidence confident confidential        | configuration                               | trail 痕迹，小道                 |
+| train 火车，训练                         | training 训练                               | trait 特征，特性 traitor 叛徒    |
+| view viewpoint                           | violent violence                            | virtual 实际上                   |
+| virtue 美德，优点                        | apparent 显然的，表面上的 appeal 吸引，呼吁 | applicable appliance application |
+| apponint appointment                     | appreciate                                  | discriminate discrimination      |
+| disease                                  | disgrace                                    | escape                           |
+| especially                               | essence essential                           | establish                        |
+| estimate                                 | ethic ethnic                                | evaluate                         |
+| industrial industrialize industry        | inevitable                                  | miserable misery 困惑的          |
+| mislead 误导                             | mix mixture 混合                            | necessary necessitate necessity  |
+| negative                                 | negotiate                                   | poverty                          |
+| practical practice practise practitioner | stress                                      | stretch 舒展                     |
 
+| out-    |        |         |
+| ------- | ------ | ------- |
+| outer   | outlet | outline |
+| outlook | output |         |
 
+| pre-      |           |            |
+| --------- | --------- | ---------- |
+| preach    | precede   | precaution |
+| precedent | preceding | precious   |
+| preise    | precision |            |
 
 ## 基础词
