@@ -382,4 +382,31 @@ banner_img_height: 79
 | precedent | preceding | precious   |
 | preise    | precision |            |
 
+#### Unit19
+
+| Words                             |                            |                             |
+| --------------------------------- | -------------------------- | --------------------------- |
+| holy                              | honor honorable            | horizon horizontal          |
+| ingenious                         | ingredient                 | initial initiate initiative |
+| local locality locate location    | neglect                    | negligible                  |
+| prescribe prescription            | presence present presently | preserve                    |
+| preside                           | press pressure             | prestige                    |
+| presumably                        | presume                    | prevent                     |
+| previous                          | prey                       | reliable reliance rely      |
+| religion religious                | straight straightforward   | strain                      |
+| strategy                          | strength strengthen        | strenuous                   |
+| architect architecture 建筑       | archive 档案               | achieve 到达，实现          |
+| area arena                        | argue argument             | arise arouse                |
+| array                             | visible vision visual      | vital                       |
+| vivid                             | consequence consequently   | conservation conservative   |
+| consider considerable considerate | consume consumption        | dispute 争吵                |
+| dissolve 溶解                     | exclude exclusive 除外     |                             |
+
+| trans-      |             |           |
+| ----------- | ----------- | --------- |
+| transaction | transfer    | transform |
+| transient   | translation |           |
+
+
+
 ## 基础词
