@@ -54,5 +54,6 @@ layout: about
 - ★☆☆ HTML - CSS - JavaScript
 - ★☆☆ Vue - ElementUI
 - ★★☆ C/C++
-- ★☆☆ Python
+- ★☆☆ Python - Flask
+- ★☆☆ Electron
 
