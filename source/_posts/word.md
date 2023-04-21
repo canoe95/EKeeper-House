@@ -407,6 +407,24 @@ banner_img_height: 79
 | transaction | transfer    | transform |
 | transient   | translation |           |
 
+#### Unit20
+
+| Words                             |                                  |                                |
+| --------------------------------- | -------------------------------- | ------------------------------ |
+| stable stability 稳定             | spy 间谍，监视                   | spur 刺激，马刺                |
+| subject subjective objective 主观 | refer reference 涉及             | spoil 破坏，宠溺               |
+| sponsor 赞助者，支持              | redeem 补救，挽回                | militant military 好战的，军队 |
+| indignant indignantion 愤怒       | indispenable 必不可少的          | individual 个体的              |
+| indifferent 不偏的                | epoch 时代                       | episode 片段                   |
+| epidemic 流行性的                 | confess 坦白                     | conference confer 商谈，会议   |
+| concurrent 并发的                 | conclude conclusion 下结论，总结 | concrete 具体的                |
+| concise 简明的                    | concern 关心，挂念               | concept conception 概念        |
+| concentrate 集中，专心            | conceive 构想，设想              | compromise 妥协，折中          |
+| comprise 包含，包括               | compress 压缩                    | bubble sort                    |
+| budget 预算                       | ambition ambitious 野心          | ambiguous 含糊不清的           |
+| amateur 业余的                    | dim 暗淡的 diminish 消弱         | dilute 稀释，冲淡              |
+| possess possession 拥有           | pose position 姿势，位置         |                                |
+
 
 
 ## 基础词
