@@ -425,6 +425,32 @@ banner_img_height: 79
 | amateur 业余的                    | dim 暗淡的 diminish 消弱         | dilute 稀释，冲淡              |
 | possess possession 拥有           | pose position 姿势，位置         |                                |
 
+#### Unit21
+
+| Words                      |                                    |                                         |
+| -------------------------- | ---------------------------------- | --------------------------------------- |
+| remove removal 移除        | ramain ramainer remains 残留       | remedy 治疗                             |
+| remember remind 回忆，提醒 | render 使得，给予，回报            | diverse 多种多样的 diversion 转移，娱乐 |
+| divert 转移注意力          | divide division 划分 divident 利息 | execute executive 执行                  |
+| exemplify exemple 举例     | exert 用尽，运用                   | exhaust 耗尽                            |
+| exist existence            | exotic 迷人的                      | moral morality 道德                     |
+| moreover 而且              | mostly 基本全部                    | prior priority 优先级                   |
+| privacy private 私人       | privilege 特权                     | prudent 谨慎的                          |
+| anguish 悲痛               | annoy 使生气                       | annual 一年一度的                       |
+| anchor 锚，扎根固定        |                                    |                                         |
+
+| con-            |          |                          |
+| --------------- | -------- | ------------------------ |
+| contempt        | content  | content                  |
+| contest         | context  | contract contradict 反驳 |
+| contrary 相反的 | contrast | contemporary 时代的      |
+
+| sub-              |                    |                    |
+| ----------------- | ------------------ | ------------------ |
+| submit            | subordinate 下级的 | subscribe          |
+| subsequent 随后的 | substance 实体     | substantial 实质的 |
+| substitute 代替   | subtle 微妙的      |                    |
+
 
 
 ## 基础词
