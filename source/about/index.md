@@ -30,11 +30,13 @@ layout: about
 
   集合了清华的开源项目 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)，一个单显卡可运行的的本地对话 AI，该项目允许用户远程访问自己电脑上的本地 AI，通过 RabbitMQ 和 Redis 实现消息传输，本地客户端用 Python 编写，涉及多线程编程
 
-- [**我的博客**](https://northboat.netlify.app)
+## 校内经历
 
-  *VuePress、Git、Markdown*
+- **博客书写**
 
-  有多年博客笔记习惯，具备较强的文档书写能力
+  *Hexo、VuePress、Git、Markdown*
+
+  负责[部门博客](https://ekeeper.netlify.app)的搭建和维护，日常的博客分享，有多年[Markdown笔记](https://northboat.netlify.app)习惯，具备较强的文档书写能力
 
 - **学生工作**
 
