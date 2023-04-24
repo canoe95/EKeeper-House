@@ -32,7 +32,7 @@ layout: about
 
 ## 校内经历
 
-- **博客书写**
+- **博客维护**
 
   *Hexo、VuePress、Git、Markdown*
 
