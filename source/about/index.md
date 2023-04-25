@@ -36,7 +36,7 @@ layout: about
 
   *Hexo、VuePress、Git、Markdown*
 
-  东北大学秦皇岛分校计工学院社会实践部副主任，负责部门日常值班活动组织和协调，以及[部门博客](https://ekeeper.netlify.app)的搭建和维护，日常的博客分享，有多年[Markdown笔记](https://northboat.netlify.app)习惯，具备较强的文档书写能力
+  东北大学秦皇岛分校计工社会实践部副主任，负责部门日常值班活动组织和协调，以及[部门博客](https://ekeeper.netlify.app)的搭建和维护、日常的博客分享，有多年[Markdown笔记](https://northboat.netlify.app)习惯，具备较强的文档书写能力
 
 - **球队工作**
 
