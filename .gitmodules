@@ -1,4 +1,4 @@
 [submodule "cactus"]
 	path = theme/cactus
-	url = http://github.xxx.xxx/xxxx
+	url = https://github.com/probberechts/hexo-theme-cactus
 	branch = release
