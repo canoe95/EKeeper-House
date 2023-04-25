@@ -1,13 +1,8 @@
 ---
 title: "if stared == learned: print('hahaha')"
 date: 2021-5-3
-tags:
-  - Record
-categories:
-  - Living
-excerpt: nmsl
-banner_img: /img/sun.jpg
-index_img: /img/xia.jpg
+tags: Record
+categories: Living
 ---
 
 ## 2020

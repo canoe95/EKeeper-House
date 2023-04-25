@@ -1,12 +1,8 @@
 ---
 title: 食咗咩啊 😋
 date: 2022-08-29 01:59:28
-banner_img: /img/letter.jpg
-index_img: /img/ride.jpg
-excerpt: what a 1500-rmb-per-mouth man must keep in mind
 tags: Eatting
 categories: Living
-banner_img_height: 79
 ---
 
 ## 面

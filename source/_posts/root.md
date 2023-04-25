@@ -1,12 +1,8 @@
 ---
 title: 词根根
 date: 2022-11-09 15:11:28
-banner_img: /img/anheqiao.jpg
-index_img: /img/beijing.jpg
-excerpt: 喵喵喵
 tags: English
 categories: Study
-banner_img_height: 79
 ---
 
 ## 前缀

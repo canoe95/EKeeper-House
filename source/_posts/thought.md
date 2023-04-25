@@ -1,14 +1,8 @@
 ---
 title: My Chinese is good
 date: 2022-8-31
-tags:
-  - Record
-categories:
-  - Living
-excerpt: just kidding 🙄
-banner_img: /img/bus.png
-index_img: /img/old.jpg
-hide: true
+tags: Record
+categories: Living
 ---
 
 ## 随笔

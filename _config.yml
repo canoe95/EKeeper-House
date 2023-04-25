@@ -7,14 +7,13 @@ title: Northboat Blog
 subtitle: ''
 description: ''
 keywords:
-author: Northboat
+author: northboat
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ursaminor.netlify.app/
-# :year/:month/:day/:title/
+url: http://example.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -41,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -98,12 +97,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-#deploy:
-##  type: ''
-
+deploy:
+  type: ''
+  
 aplayer:
   meting: true

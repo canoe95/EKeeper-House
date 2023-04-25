@@ -1,12 +1,8 @@
 ---
 title: 写个阅读先
 date: 2023-01-12 16:12:28
-banner_img: /img/star.jpg
-index_img: /img/bed.jpg
-excerpt: 主打一个休闲
 tags: English
 categories: Study
-banner_img_height: 79
 ---
 
 ## Cet 6
