@@ -1,4 +1,3 @@
-[submodule "theme/cactus"]
-	path = theme/cactus
+[submodule "themes/cactus"]
+	path = themes/cactus
 	url = https://github.com/probberechts/hexo-theme-cactus
-	branch = release
