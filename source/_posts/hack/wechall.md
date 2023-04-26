@@ -2,7 +2,7 @@
 title: We Chall
 date: 2022-6-30
 tags: cryptology
-categories: security
+categories: hack
 ---
 
 [WeChall](https://www.wechall.net/)，写着玩的
