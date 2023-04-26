@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/northboat
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -17,7 +17,7 @@ nav:
   Home: /
   About: /about/
   Music: /music/
-  Security: /security/
+  Security: /categories/security/
 
 
 # Links to your social media accounts.
@@ -30,23 +30,23 @@ social_links:
   -
     icon: github
     link: http://github.com/northboat/
+  #-
+    #icon: twitter
+    #link: /
+  #-
+    #icon: facebook
+    #link: /
+  #-
+    #icon: mail
+    #link: northboat@163.com
   -
-    icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
-  -
-    icon: mail
-    link: northboat@163.com
-  -
-    icon: mastodon
+    icon: telegram
     label: mastodon.social
-    link: https://mastodon.social/@alice
-  -
-    icon: mastodon
-    label: fosstodon.org
-    link: https://fosstodon.org/@alice
+    link: https://t.me/northboat
+  #-
+    #icon: mastodon
+    #label: fosstodon.org
+    #link: https://fosstodon.org/@alice
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud

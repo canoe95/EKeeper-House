@@ -27,11 +27,11 @@
 }
 
 .aplayer .aplayer-lrc:before{
-	height: 4%;
+	height: 1%;
 }
 
 .aplayer .aplayer-lrc:after{
-	height: 2%;
+	height: 1%;
 }
 
 iframe{

@@ -1,8 +1,8 @@
 ---
 title: 背个单词先
 date: 2023-01-1 14:23:28
-tags: English
-categories: Study
+tags: english
+categories: common
 ---
 
 ## 必考词

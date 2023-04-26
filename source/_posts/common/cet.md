@@ -1,8 +1,8 @@
 ---
 title: 写个阅读先
 date: 2023-01-12 16:12:28
-tags: English
-categories: Study
+tags: english
+categories: common
 ---
 
 ## Cet 6

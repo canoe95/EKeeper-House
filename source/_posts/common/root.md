@@ -1,8 +1,8 @@
 ---
 title: 词根根
 date: 2022-11-09 15:11:28
-tags: English
-categories: Study
+tags: english
+categories: common
 ---
 
 ## 前缀

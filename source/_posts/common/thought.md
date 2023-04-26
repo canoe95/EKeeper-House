@@ -1,8 +1,8 @@
 ---
 title: My Chinese is good
-date: 2022-8-31
-tags: Record
-categories: Living
+date: 2020-8-12
+tags: living
+categories: common
 ---
 
 ## 随笔
@@ -34,6 +34,8 @@ categories: Living
 我时常会想为什么要去秦皇岛那破地儿，得到的答案只能是但求心安，我不能过度批判当初的想法，然后只有接受现实，感慨一句世事如此
 
 此情此景不禁想到一句歌词：当初的坚持现已令你很怀疑
+
+---
 
 ## 随想
 
@@ -181,6 +183,8 @@ categories: Living
 
 be natural
 
+---
+
 ### 2023
 
 我 21 岁的梦想是：孤独终老
@@ -192,3 +196,6 @@ be natural
 ---
 
 我不堕落只是因为没钱，没机会，而不是老实
+
+---
+
