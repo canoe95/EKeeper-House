@@ -4,8 +4,6 @@ date: 2022-08-17 17:53:28
 
 ---
 
-<link rel="stylesheet" type="text/css" href="./resume.css">
-
  <center>
      <h1>北船 - 后端开发</h1>
      <div>
@@ -56,7 +54,7 @@ date: 2022-08-17 17:53:28
 
 - **学生工作**
 
-  东北大学秦皇岛分校计工社会实践部副主任，负责部门日常值班活动的组织和协调、公众号的管理排班、[部门博客](https://ekeeper.netlify.app)的搭建和维护以及日常的博客分享，有多年[Markdown笔记](https://northboat.netlify.app)习惯，具备较强的文档书写能力
+  曾任东北大学秦皇岛分校计工社会实践部副主任，负责部门日常值班活动的组织和协调、公众号的管理和排班、[部门博客](https://ekeeper.netlify.app)的搭建和维护以及日常的博客分享
 
 - **球队工作**
 
