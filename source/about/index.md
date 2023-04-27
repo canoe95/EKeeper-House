@@ -1,24 +1,44 @@
 ---
 title: About
 date: 2022-08-17 17:53:28
-banner_img: /img/ez.jpg
 layout: about
+
 ---
 
-# Northboat
+ <center>
+     <h1>熊舟桐 - 后端开发</h1>
+     <div>
+         <span>
+             18630338418
+         </span>
+         ·
+         <span>
+             northboat@163.com
+         </span>
+         ·
+         <span>
+             <a href="https://github.com/northboat">GitHub</a>
+         </span>
+         ·
+         <span>
+             <a href="https://northboat.netlify.app/">Blog</a>
+         </span>
+     </div>
+ </center>
 
-## 个人信息
+
+ ## <img src="./assets/info-circle-solid.svg" align="left" width="30px"> 个人信息
 
 - 2001年生，男，汉族，湖南人
 - 联系方式：电话`18630338418`，邮箱`northboat@163.com`
 
-## 教育经历
+## <img src="./assets/graduation-cap-solid.svg" align="left" width="30px"> 教育经历
 
 - 学士，东北大学秦皇岛分校，计算机科学与技术专业，2020.9~至今
 - 绩点：3.4/5.0，年级前 55%
 - 通过 CET4/6 英语等级考试，计算机二级考试
 
-## [项目经历](https://northdoor.netlify.app/)
+## <img src="./assets/project-diagram-solid.svg" align="left" width="30px"> [项目经历](https://northdoor.netlify.app/)
 
 - [**基于容器技术的云判题系统**](https://github.com/northboat/Online-Judge-System)
 
@@ -32,7 +52,7 @@ layout: about
 
   集合了清华的开源语言模型 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)，一个单显卡可运行的的本地对话 AI，本项目允许用户远程访问自己电脑上的本地 AI，通过 RabbitMQ 和 Redis 实现消息传输，本地客户端用 PyQT 编写，涉及多线程编程
 
-## 校园经历
+## <img src="./assets/briefcase-solid.svg" align="left" width="30px"> 校园经历
 
 - **学生工作**
 
@@ -42,8 +62,7 @@ layout: about
 
   东北大学秦皇岛分校校乒乓球队队员（校男单第五），曾在课余闲暇兼职球馆助教
 
-
-## 技能清单
+## <img src="./assets/tools-solid.svg" align="left" width="30px"> 技能清单
 
 - ★★☆ Java
 - ★☆☆ Redis
@@ -58,4 +77,3 @@ layout: about
 - ★★☆ C/C++
 - ★☆☆ Python - Flask
 - ★☆☆ Electron
-
