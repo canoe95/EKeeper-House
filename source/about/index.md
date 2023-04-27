@@ -1,12 +1,13 @@
 ---
 title: About
 date: 2022-08-17 17:53:28
-layout: about
 
 ---
 
+<link rel="stylesheet" type="text/css" href="./resume.css">
+
  <center>
-     <h1>熊舟桐 - 后端开发</h1>
+     <h1>北船 - 后端开发</h1>
      <div>
          <span>
              18630338418
@@ -25,7 +26,6 @@ layout: about
          </span>
      </div>
  </center>
-
 
  ## <img src="./assets/info-circle-solid.svg" align="left" width="30px"> 个人信息
 
@@ -52,11 +52,11 @@ layout: about
 
   集合了清华的开源语言模型 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)，一个单显卡可运行的的本地对话 AI，本项目允许用户远程访问自己电脑上的本地 AI，通过 RabbitMQ 和 Redis 实现消息传输，本地客户端用 PyQT 编写，涉及多线程编程
 
-## <img src="./assets/briefcase-solid.svg" align="left" width="30px"> 校园经历
+## <img src="./assets/school.svg" align="left" width="30px"> 校园经历
 
 - **学生工作**
 
-  东北大学秦皇岛分校计工社会实践部副主任，负责部门日常值班活动组织和协调，以及[部门博客](https://ekeeper.netlify.app)的搭建和维护、日常的博客分享，有多年[Markdown笔记](https://northboat.netlify.app)习惯，具备较强的文档书写能力
+  东北大学秦皇岛分校计工社会实践部副主任，负责部门日常值班活动的组织和协调、公众号的管理排班、[部门博客](https://ekeeper.netlify.app)的搭建和维护以及日常的博客分享，有多年[Markdown笔记](https://northboat.netlify.app)习惯，具备较强的文档书写能力
 
 - **球队工作**
 
