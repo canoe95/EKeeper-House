@@ -5,7 +5,7 @@
 # Site
 title: Northboat Blog
 subtitle: 'for normal use & security learning'
-description: '这趟旅程若是开心'
+description: '这趟旅程若是开心，亦是无负这一生'
 keywords:
 author: northboat
 language: en
@@ -106,3 +106,4 @@ deploy:
   
 aplayer:
   meting: true
+
