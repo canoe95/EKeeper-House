@@ -176,7 +176,7 @@ categories: common
 
 | Words                                               |                                   |                              |
 | --------------------------------------------------- | --------------------------------- | ---------------------------- |
-| mediate 调解                                        | meditate meditation               | medium                       |
+| mediate 调解                                        | cater 迎合，承办酒席  | medium                       |
 | elaborate 精心制作                                  | elegant                           | element    |
 | sketch 素描，概述，画素描 | skeleton 骨骼，框架 | elementary 基础的 |
 | eliminate 消亡                                      | abolish                           | absorb 吸收                  |
@@ -191,7 +191,7 @@ categories: common
 | deduce                      | deduct 演绎          | certainty                |
 | favorable                 | favor | favorite     |
 | situate      | situation 使位于 | dedicate 风险，把...用在 |
-| cater 迎合，承办酒席 |  |  |
+| meditation | meditate |  |
 
 | medi 中间           |                    |                 |
 | ------------------- | ------------------ | --------------- |
