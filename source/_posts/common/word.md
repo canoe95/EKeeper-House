@@ -299,25 +299,25 @@ categories: common
 
 #### Unit13
 
-| Words                                 |                               |                            |
-| ------------------------------------- | ----------------------------- | -------------------------- |
-| embrace                               | embed 使插入                  | embody 使具体化            |
-| brace 拥抱，接受                      | update                        | upgrade                    |
-| embryo 胚胎                           | elicit 引诱，探出             | thorough 彻底的，完全的    |
-| elite 精英                            | threaten                      | threat                     |
-| though                                | thought                       | thoughtful                 |
-| venture 冒险                          | uphold 举手，赞同             | ventilate 使通风，公开讨论 |
-| inaugurate 开创，开始，为某人举行典礼 | wit 才智                      | withdraw 撤回，取消        |
-| accessory 附属品                      | incentive 刺激，奖励，动机    | challenge 挑战             |
-| incidence                             | incident                      | incidentally               |
-| incline                               | academic academy              | accelerate                 |
-| characterize                          | characteristic                | character                  |
-| defend                                | delay                         | defy 违背，抵抗            |
-| define 限定，定义                     | definite                      | definition                 |
-| deliver 运输                          | finance                       | global 球体                |
-| delivery                              | financial                     | globe                      |
-| fierce 凶猛的                         | deliberate 谨慎的，仔细考虑的 | delicate 易碎的，娇嫩的    |
-| finite                                | infinite 有限的               | firm 坚固的，肯定的        |
+| Words                           |                               |                            |
+| ------------------------------- | ----------------------------- | -------------------------- |
+| embrace                         | embed 使插入                  | embody 使具体化            |
+| brace 拥抱，接受                | update                        | upgrade                    |
+| embryo 胚胎                     | elicit 引诱，探出             | thorough 彻底的，完全的    |
+| elite 精英                      | threaten                      | threat                     |
+| though                          | thought                       | thoughtful                 |
+| venture 冒险                    | uphold 举手，赞同             | ventilate 使通风，公开讨论 |
+| inaugurate 开创，为某人举行典礼 | wit 才智                      | withdraw 撤回，取消        |
+| accessory 附属品                | incentive 刺激，奖励，动机    | challenge 挑战             |
+| incidence                       | incident                      | incidentally               |
+| incline                         | academic academy              | accelerate                 |
+| characterize                    | characteristic                | character                  |
+| defend                          | delay                         | defy 违背，抵抗            |
+| define 限定，定义               | definite                      | definition                 |
+| deliver 运输                    | finance                       | global 球体                |
+| delivery                        | financial                     | globe                      |
+| fierce 凶猛的                   | deliberate 谨慎的，仔细考虑的 | delicate 易碎的，娇嫩的    |
+| finite                          | infinite 有限的               | firm 坚固的，肯定的        |
 
 | be-        |         |          |
 | ---------- | ------- | -------- |
@@ -391,7 +391,7 @@ categories: common
 | anxious 焦虑的              | assassin 暗杀者        | comprehension 理解力          |
 | assemble 召集               | bubble 气泡            | conduct                       |
 | assembly 集会               | huddle 蜷缩            | conductor 半导体              |
-| assault 攻击，袭击          |                        | assert 断言                   |
+| assault 攻击，袭击          | portion 一部分         | assert 断言                   |
 | component 组成的，组成部分  | compose 组成           | composition 作品              |
 | hoist                       | condemn 谴责，宣告有罪 | condense 使压缩，使凝结       |
 | hold                        | holder                 | household                     |
@@ -399,7 +399,6 @@ categories: common
 | possibility                 | possible               | potential 有潜力的            |
 | nation                      | national               | nationality                   |
 | native                      | natural                | nature                        |
-| portion 一部分              |                        |                               |
 
 `from stem to stern 从船的头部到尾部`
 
