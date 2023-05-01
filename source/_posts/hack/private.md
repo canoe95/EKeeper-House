@@ -1,5 +1,5 @@
 ---
-title: 密码学基础 - 单钥
+title: 单钥
 date: 2023-04-26 01:59:28
 tags: cryptology
 categories: hack
