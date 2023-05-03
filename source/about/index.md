@@ -4,8 +4,8 @@ date: 2022-08-17 17:53:28
 ---
 
  <center>
-     <h1>熊熊 - 后端开发</h1>
-     <div>
+     <h1 style="width:75%">熊熊 - 后端开发</h1>
+     <div style="width:90%">
          <span>
              18630338418
          </span>
@@ -23,8 +23,6 @@ date: 2022-08-17 17:53:28
          </span>
      </div>
  </center>
-
-
 
  ## <img src="./assets/info-circle-solid.svg" align="left" width="30px"> 个人信息
 
@@ -64,15 +62,11 @@ date: 2022-08-17 17:53:28
 ## <img src="./assets/tools-solid.svg" align="left" width="30px"> 技能清单
 
 - ★★☆ Java
-- ★☆☆ Redis
-- ★☆☆ MySQL
+- ★★☆ C/C++、Python
+- ★★☆ Redis
+- ★★☆ MySQL
 - ★★☆ Linux
-- ★★☆ Markdown
-- ★☆☆ Docker
 - ★☆☆ SpringBoot
-- ★☆☆ RabbitMQ
-- ★☆☆ HTML - CSS - JavaScript
-- ★☆☆ Vue - ElementUI
-- ★★☆ C/C++
-- ★☆☆ Python - Flask
-- ★☆☆ Electron
+- ★☆☆ Docker、RabbitMQ
+- ★☆☆ HTML、JavaScript
+- ★☆☆ Vue、Electron
