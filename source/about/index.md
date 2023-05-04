@@ -73,9 +73,11 @@ date: 2022-08-17 17:53:28
 - ★☆☆ HTML、JavaScript
 - ★☆☆ Vue、Electron
 
+---
+
 # <center>熊熊的仓库清单
 
-<strong id="hello"></strong>这是一份仓库目录，和一些长期维护的网页：[一个笔记](https://northboat.netlify.app/) && [一个PPT](https://northslidev.netlify.app/) && [一个相册](https://northgallery.netlify.app/)
+我的网页：[一个笔记](https://northboat.netlify.app/) && [一个PPT](https://northslidev.netlify.app/) && [一个相册](https://northgallery.netlify.app/)
 
 1. <a href="https://github.com/northBoat/Barber-Shop" target="_blank">基于 C/C++ 的理发店信息管理系统</a>
 
@@ -113,7 +115,7 @@ date: 2022-08-17 17:53:28
 
    使用 Redis 实现一定程度的消息监听和传输，网页作为生产者设置键值，本地 PC 监听消费
 
-10. <a href="https://github.com/northBoat/Online-Judge-System" target="_blank">基于 SpringBoot/Docker 的在线判题平台</a>
+10. <a href="https://github.com/northboat/MyOJ" target="_blank">基于 SpringBoot/Docker 的在线判题平台</a>
 
     全栈开发，前后端分离，前端 Vue，后端 SpringBoot，使用 Docker 进行代码测试（判题），MyBatis 操纵 MySQL，Redis 用作验证码注册以及点赞功能实现
 
@@ -151,18 +153,5 @@ date: 2022-08-17 17:53:28
 
 19. <a href="https://github.com/northboat/ChatGPT-Electron" target="_blank">基于 Electron/Flask 的 ChatGPT 桌面应用</a>
 
-    前端 Electron，后端 Python Flask，引入 ChatGPT API，实现简单交互
+    前端 Electron，后端 Python Flask，引入 ChatGPT API，实现简单交互 
 
-<script>
-	let date = new Date();
-	console.log(date.getHours())
-	if(date.getHours()>=6&&date.getHours()<12){
-		document.getElementById("hello").innerText = "上午好啊！"
-	}else if(date.getHours()>=12&&date.getHours()<14){
-		document.getElementById("hello").innerText = "中午好啊！"
-	}else if(date.getHours()>=14&&date.getHours()<18){
-		document.getElementById("hello").innerText = "下午好啊！"
-	}else{
-		document.getElementById("hello").innerText = "晚上好啊！"
-	}
-</script>    

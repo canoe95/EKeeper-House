@@ -6,7 +6,21 @@ type: playlist
 
 <link rel="stylesheet" type="text/css" href="./aplayer.css">
 
-# <center>我的歌单
+# <center><strong id="hello"></strong>
+
+<script>
+	let date = new Date();
+	console.log(date.getHours())
+	if(date.getHours()>=6&&date.getHours()<12){
+		document.getElementById("hello").innerText = "上午好！来点粤语？"
+	}else if(date.getHours()>=12&&date.getHours()<14){
+		document.getElementById("hello").innerText = "中午好！来点国语？"
+	}else if(date.getHours()>=14&&date.getHours()<18){
+		document.getElementById("hello").innerText = "下午好！来点劲曲？"
+	}else{
+		document.getElementById("hello").innerText = "晚上好！来点纯音乐？"
+	}
+</script>   
 
 ## 粤语
 
