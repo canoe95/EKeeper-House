@@ -556,6 +556,32 @@ categories: common
 | subsequent 随后的 | substance 实体     | substantial 实质的 |
 | substitute 代替   | subtle 微妙的      |                    |
 
+#### Unit22
+
+| Words       |              |               |
+| ----------- | ------------ | ------------- |
+| assess      | assimilate   | assume        |
+| assumption  | contribute   | controversial |
+| controversy | control      | convene       |
+| convention  | converge     | convey        |
+| domain      | domestic     | dominant      |
+| doom        | probe        | procedure     |
+| proceed     | proceeding   | proclaim      |
+| productive  | productivity | profession    |
+| expand      | experience   | expertise     |
+| instinct    | institute    | institution   |
+| insurance   | integral     | integrate     |
+| integrity   |              |               |
+
+| re-      |             |            |
+| -------- | ----------- | ---------- |
+| rescue   | research    | resent     |
+| refresh  | refute      | region     |
+| regular  | regulate    | regulation |
+| replace  | reply       | report     |
+| reporter | reputation  | request    |
+| require  | requirement |            |
+
 
 
 ## 基础词
