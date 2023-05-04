@@ -7,9 +7,9 @@ date: 2023-05-04 01:59:28
 
 ---
 
-<strong id="hello"></strong>，这是一份仓库目录，兼职一个小小的导航页
+<strong id="hello"></strong>，这是一份仓库目录，正如你下面将要看到的一堆
 
-我的[GitHub](https://github.com/northboat)主页，存着我亲手写的垃圾，正如你下面看到的这一堆。这儿有一份从本科开始的[学习笔记](https://northboat.netlify.app/)，又臭又长。还有一个[PPT](https://northslidev.netlify.app/)和一个[相册](https://northgallery.netlify.app/)
+同时兼职一个小小的导航页：[一个笔记](https://northboat.netlify.app/) && [一个PPT](https://northslidev.netlify.app/) && [一个相册](https://northgallery.netlify.app/)
 
 ---
 
