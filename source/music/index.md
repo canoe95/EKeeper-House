@@ -6,7 +6,7 @@ type: playlist
 
 <link rel="stylesheet" type="text/css" href="./aplayer.css">
 
-# <center><strong id="hello"></strong>
+<center><h1 id="hello"></h1></center>
 
 <script>
 	let date = new Date();
