@@ -7,7 +7,7 @@ date: 2023-05-04 01:59:28
 
 ---
 
-<strong id="hello"></strong>，这是一份仓库目录，正如你下面将要看到的一堆
+<strong id="hello"></strong>这是一份仓库目录，正如你下面将要看到的一堆
 
 同时兼职一个小小的导航页：[一个笔记](https://northboat.netlify.app/) && [一个PPT](https://northslidev.netlify.app/) && [一个相册](https://northgallery.netlify.app/)
 
@@ -55,10 +55,10 @@ date: 2023-05-04 01:59:28
 		let date = new Date();
 		console.log(date.getHours())
 　　	if(date.getHours()>=6&&date.getHours()<12){
-	　　　　document.getElementById("hello").innerText = "上午好"
+	　　　　document.getElementById("hello").innerText = "上午好！"
 　　	}else if(date.getHours()>=12&&date.getHours()<18){
-　　　　	document.getElementById("hello").innerText = "下午好"
+　　　　	document.getElementById("hello").innerText = "下午好！"
 		}else{
-　　　　	document.getElementById("hello").innerText = "晚上好"
+　　　　	document.getElementById("hello").innerText = "晚上好！"
 		}
 </script>    
