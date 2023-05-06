@@ -48,15 +48,15 @@ date: 2022-08-17 17:53:28
 
     全栈开发，前后端分离，前端 Vue，后端 SpringBoot，使用 Docker 进行代码测试（判题），MyBatis 操纵 MySQL，Redis 用作验证码注册以及点赞功能实现
 
-11. <a href="https://github.com/northboat/Assembly-Language-Design" target="_blank">汇编程序设计</a>
+11. <a href="https://github.com/northboat/Assembly-Experiment" target="_blank">汇编程序设计实验</a>
 
-    汇编程序设计实验
+    汇编程序设计基础
 
 12. <a href="https://github.com/northboat/EKeeper" target="_blank">部门博客 - Hexo</a>
 
     e 管家的博客，和杨共同完成，git 协作
 
-13. <a href="https://github.com/northBoat/Lexer" target="_blank">词法/语法分析器 - Flex/Bison 实现</a>
+13. <a href="https://github.com/northBoat/Compile-Experiment" target="_blank">词法/语法分析器 - Flex/Bison 实现</a>
 
     编译原理实验
 
