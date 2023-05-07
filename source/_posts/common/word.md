@@ -582,6 +582,29 @@ categories: common
 | reporter | reputation  | request    |
 | require  | requirement |            |
 
+#### Unit23
+
+| Words      |           |             |
+| ---------- | --------- | ----------- |
+| curious    | curiosity | currency    |
+| cumulative | average   | award       |
+| aware      | awkward   | extravagant |
+| extreme    | invisible | invoke      |
+| involve    | ouerturn  | ouershelm   |
+| purchase   | pursue    | pursuit     |
+| puzzle     | reverse   | revise      |
+| revive     | rival     | route       |
+| routine    | surname   | susceptible |
+| suspend    | suspet    | suspicion   |
+| suspicious | sustain   | swarm       |
+| swear      | swell     |             |
+
+| sur-     |         |              |
+| -------- | ------- | ------------ |
+| surname  | surpass | surplus      |
+| surprise | survey  | surveillance |
+| survival | survive |              |
+
 
 
 ## 基础词
