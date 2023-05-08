@@ -1,12 +1,11 @@
 ---
 title: About Me
 date: 2022-08-17 17:53:28
-
 ---
 
-<center><h1>熊熊的仓库清单</h1></center>
+<center><h1>熊熊的仓库</h1></center>
 
-[我的笔记](https://northboat.netlify.app/)
+[我的文档](https://northboat.netlify.app/)
 
 1. <a href="https://github.com/northBoat/Barber-Shop" target="_blank">基于 C/C++ 的理发店信息管理系统</a>
 
