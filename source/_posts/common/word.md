@@ -605,6 +605,29 @@ categories: common
 | surprise | survey  | surveillance |
 | survival | survive |              |
 
+#### Unit24
+
+| Words       |               |             |
+| ----------- | ------------- | ----------- |
+| twist       | trivial       | tumble      |
+| turbulent   | turnover      | typical     |
+| voluntary   | volunteer     | vote        |
+| vulgar      | vulnerable    | author      |
+| authority   | auxiliary     | avail       |
+| available   | critic        | critical    |
+| criticism   | criticize     | crucial     |
+| culprit     | cutivate      | cuture      |
+| dubious     | due           | durable     |
+| duration    | dynamic       | extinct     |
+| extinguish  | invest        | investigate |
+| mutual      | mysterious    | myth        |
+| noble       | normalization | notion      |
+| publication | publicity     | resultant   |
+| resume      | reveal        | revenge     |
+| revenue     | suply         | suppose     |
+| suppress    | supplement    | systematic  |
+| logic       |               |             |
+
 
 
 ## 基础词
