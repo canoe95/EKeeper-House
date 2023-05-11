@@ -628,6 +628,42 @@ categories: common
 | suppress    | supplement    | systematic  |
 | logic       |               |             |
 
+#### Unit25
 
+| Words        |             |              |
+| ------------ | ----------- | ------------ |
+| profitable   | profound    | progressive  |
+| prohibit     | prolong     | prominent    |
+| promising    | prompt      | proof        |
+| trigger      | triumph     | assure       |
+| assurance    | astonish    | atmosphere   |
+| aouncil      | counsel     | dramatic     |
+| exploit      | explore     | intellectual |
+| intelligence | intelligent | intelligible |
+
+| re-            |            |            |
+| -------------- | ---------- | ---------- |
+| reservation    | resist     | resistance |
+| resistant      | resilient  | resort     |
+| resource       | respective | respond    |
+| responsibility |            |            |
+
+| suc-       |            |            |
+| ---------- | ---------- | ---------- |
+| succeed    | success    | successful |
+| succession | successive | successor  |
+
+| su-        |            |         |
+| ---------- | ---------- | ------- |
+| suck       | sue        | suffer  |
+| suffice    | sufficient | suggest |
+| suggestion | suicide    | suit    |
+| suitable   |            |         |
+
+| super-      |          |             |
+| ----------- | -------- | ----------- |
+| super       | superb   | superficail |
+| superfluous | superior | superiority |
+| supervise   |          |             |
 
 ## 基础词
