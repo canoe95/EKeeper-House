@@ -660,10 +660,41 @@ categories: common
 | suggestion | suicide    | suit    |
 | suitable   |            |         |
 
-| super-      |          |             |
+| super-      | 超级     |             |
 | ----------- | -------- | ----------- |
 | super       | superb   | superficail |
 | superfluous | superior | superiority |
 | supervise   |          |             |
+
+#### Unit26
+
+| Words        |           |             |
+| ------------ | --------- | ----------- |
+| polish       | restore   | restrain    |
+| restraint    | restrict  | court       |
+| courtesy     | crisis    | drug        |
+| export       | expose    | exposure    |
+| expression   | extend    | extension   |
+| extensive    | extent    | humanity    |
+| humble       | intend    | intense     |
+| intensity    | intensive | intercourse |
+| interior     | interpret | loss        |
+| lucrative    | nerve     | nervous     |
+| nevertheless |           |             |
+
+| at-       | 为了   |          |
+| --------- | ------ | -------- |
+| attach    | attack | attain   |
+| attempt   | attend | attitude |
+| attribute |        |          |
+
+| pro-        | 提前        |          |
+| ----------- | ----------- | -------- |
+| proximate   | propel      | proper   |
+| property    | proportion  | proposal |
+| propose     | proposition | prospect |
+| prospective | protocol    |          |
+
+
 
 ## 基础词
