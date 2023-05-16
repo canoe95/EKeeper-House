@@ -15,55 +15,55 @@ categories: common
 | -------------- | --------- | -------------- |
 | separate       | serial    | series         |
 | serious        | tolerance | accuracy       |
-| cherish 珍爱   | choice    | voice          |
+| cherish   | choice    | voice          |
 | bonus          | verbal    | noun           |
-| verdict 判决    | verify    | verse 诗         |
+| verdict    | verify    | verse         |
 | in addition    | adequate  | administration |
-| admission 接纳 | adapt     | adopt          |
-| adult          | toss      | treaty 约定，条款   |
+| admission | adapt     | adopt          |
+| adult          | toss      | treaty   |
 
 #### Unit2
 
 | Words            |             |                   |
 | ---------------- | ----------- | ----------------- |
 | vice             | vicious     | victim            |
-| clicked 合拍的   | cling       | closet            |
-| personnel        | formal 正式的     | format 格式           |
-| formation 构成，编制       | former 先前的     | formidable 可怕的 |
-| formulate 制定       | formulation 制订 | formulize 公式化         |
+| clicked   | cling       | closet            |
+| personnel        | formal     | format           |
+| formation       | former     | formidable |
+| formulate       | formulation | formulize         |
 | fortunate        | fortune     | guideline         |
-| guild 协会       | guile 欺诈  | recognition       |
-| guilt            | guilty      | recruit 招聘          |
+| guild       | guile  | recognition       |
+| guilt            | guilty      | recruit          |
 | senior           | soak        | dry               |
-| soar 高飞，翱翔    | sociable    | social            |
+| soar    | sociable    | social            |
 | society          | socialism   | sociology         |
-| soluble 可溶解的 | solution    | solve             |
-| detach 拆解      | detain 扣留 | sound             |
-| shade            | shadow      | aesthetic 美学的  |
-| affair 事务      | affect 影响 | affection 感情    |
-| affiliate 联盟   | affirm 肯定 | afford            |
-| breach           | branch      | brevity 简洁      |
-| breed 养殖       | bread       | feed              |
-| advisable        | advocate 提倡   |                   |
+| soluble | solution    | solve             |
+| detach      | detain | sound             |
+| shade            | shadow      | aesthetic  |
+| affair      | affect | affection    |
+| affiliate   | affirm | afford            |
+| breach           | branch      | brevity      |
+| breed       | bread       | feed              |
+| advisable        | advocate   |                   |
 
 #### Unit3
 
 | Words             |                   |                      |
 | ----------------- | ----------------- | -------------------- |
-| coincide 相一致   | coincident 碰巧的 | collapse 崩溃        |
+| coincide   | coincident | collapse        |
 | colleague         | college           | collect              |
-| collection        | collective 集体的 | combat 战斗              |
-| combine           | collide 碰撞      | comment              |
-| recommend         | command           | detect 检测          |
-| commerce          | commercial        | commodity 商品       |
-| commission 委员会 | mission           | committee            |
+| collection        | collective | combat              |
+| combine           | collide      | comment              |
+| recommend         | command           | detect          |
+| commerce          | commercial        | commodity       |
+| commission  | mission           | committee            |
 | communicate       | communication     | communism            |
-| community         | socialism         | deteriorate 恶化     |
-| device            | devise 设计       | ponder 考量          |
-| ensure            | entail 需要       | plausible 似是而非的 |
+| community         | socialism         | deteriorate     |
+| device            | devise       | ponder          |
+| ensure            | entail       | plausible |
 | indeed            | mere              | merely               |
-| plea 恳请         | plead 恳求        | please               |
-| policy 政策           | political 政治     | politician           |
+| plea         | plead        | please               |
+| policy           | political    | politician           |
 | polite            | impolite          |                      |
 
 #### Unit4
