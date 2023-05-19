@@ -68,25 +68,25 @@ categories: common
 
 #### Unit4
 
-| Words            |                        |                               |
-| ---------------- | ---------------------- | ----------------------------- |
-| brisk 形容糊糊的 | brief 简明扼要的       | browse 浏览(器)               |
-| aggravate 加重   | aggregate 合计         | aggressive 好斗的，积极有为的 |
-| aim 瞄准，目标   | alarm 警告，使惊恐     | alien 外/国星人               |
-| alienate 疏远    | outside                | outward                       |
-| alternate 轮换的 | alternative 可供选择的 | alter                         |
-| comparable       | comparative 相比之下的 | comparison 比喻               |
-| compel           | compensate             | compile                       |
-| compete          | competition            | competent                     |
-| complain         | complaint              | complement                    |
-| complete         | complex                | complicate                    |
-| complicated      | comply                 | obey                          |
-| refuse           | compliment             | diffuse                       |
-| emphasis         | employ                 | endorse 公开赞同              |
-| employee         | employer               | employment                    |
-| emphasize        | indication             | indicative                    |
-| endeavour 尽力   | indicate               | outrage 愤怒，违法            |
-| outset           | begin                  |                               |
+| Words            |                |            |
+| ---------------- | -------------- | ---------- |
+| brisk 形容糊糊的 | brief          | browse     |
+| aggravate        | aggregate 合计 | aggressive |
+| aim              | alarm          | alien      |
+| alienate         | outside        | outward    |
+| alternate        | alternative    | alter      |
+| comparable       | comparative    | comparison |
+| compel           | compensate     | compile    |
+| compete          | competition    | competent  |
+| complain         | complaint      | complement |
+| complete         | complex        | complicate |
+| complicated      | comply         | obey       |
+| refuse           | compliment     | diffuse    |
+| emphasis         | employ         | endorse    |
+| employee         | employer       | employment |
+| emphasize        | indication     | indicative |
+| endeavour        | indicate       | outrage    |
+| outset           | begin          |            |
 
 | spe-          |            |            |
 | ------------- | ---------- | ---------- |
@@ -96,55 +96,55 @@ categories: common
 
 #### Unit5
 
-| Words                |                                |                       |
-| -------------------- | ------------------------------ | --------------------- |
-| acclaim 喝彩         | accommodate 帮助，容纳，使适应 | accommodation 住宿    |
-| accompany            | accomplish                     | account               |
-| bias 偏见            | bid 命令，祝愿                 | bill  钱币            |
-| charm                | chase                          | demand                |
-| democracy 民主       | demographic 人口统计的         | demonstrate 示范      |
-| democratic 民主的    | billion 十亿                   | donation              |
-| denote 意思是，表示  | donate 捐赠                    | denial 否认           |
-| deny 否认            | emerge                         | emergency             |
-| emergence            | emergent                       | likewise              |
-| deposit 使沉淀；存款 | eminent                        | federal               |
-| federation           | fertile 肥沃的                 | govern                |
-| government           | governor                       | likelihood 多半，样子 |
-| gradual              | graduate                       | grant 授予            |
-| hesitate             | health                         | heal                  |
-| healthy              |                                |                       |
+| Words      |             |               |
+| ---------- | ----------- | ------------- |
+| acclaim    | accommodate | accommodation |
+| accompany  | accomplish  | account       |
+| bias       | bid         | bill          |
+| charm      | chase       | demand        |
+| democracy  | demographic | demonstrate   |
+| democratic | billion     | donation      |
+| denote     | donate      | denial        |
+| deny       | emerge      | emergency     |
+| emergence  | emergent    | likewise      |
+| deposit    | eminent     | federal       |
+| federation | fertile     | govern        |
+| government | governor    | likelihood    |
+| gradual    | graduate    | grant         |
+| hesitate   | health      | heal          |
+| healthy    | giant       |               |
 
-| im-            |                        |                          |
-| -------------- | ---------------------- | ------------------------ |
-| immediate      | immense 广大的，巨大的 | immerse 使浸没，使专心于 |
-| immigrant 移民 | imminent 即将发生的    | immune 可防止的，免疫的  |
+| im-       |          |         |
+| --------- | -------- | ------- |
+| immediate | immense  | immerse |
+| immigrant | imminent | immune  |
 
 #### Unit6
 
-| Words                 |               |                      |
-| --------------------- | ------------- | -------------------- |
-| beam 光束，横梁；微笑 | deprive 剥夺  | designate 表明，指定 |
-| derive 取得           | petition 请愿 | phenomenon 现象      |
-| desirable 称心的      | desire 渴望   | flaw 裂缝，缺点      |
-| flexible 可弯曲的     | fling 扔      | flourish 炫耀；兴旺  |
-| hinder 阻碍           | hint 暗示     | hitherto 迄今为止    |
-| origin                | original      | originate            |
-| pierce 看透，刺穿     | philosophy    | philosopher          |
-| phrase 短语           | physical      | physician            |
-| phase 阶段            | corporate     | corporation          |
-| serve                 | servant       | topic                |
-| set                   | serveral      | shelter              |
-| setback               | setting       | settle               |
-| settlement            | sophisticated | sovereign            |
-| toll                  | tone          | sow                  |
+| Words      |               |             |
+| ---------- | ------------- | ----------- |
+| beam       | deprive       | designate   |
+| derive     | petition      | phenomenon  |
+| desirable  | desire 渴望   | flaw        |
+| flexible   | fling         | flourish    |
+| hinder     | hint          | hitherto    |
+| origin     | original      | originate   |
+| pierce     | philosophy    | philosopher |
+| phrase     | physical      | physician   |
+| phase      | corporate     | corporation |
+| serve      | servant       | topic       |
+| set        | serveral      | shelter     |
+| setback    | setting       | settle      |
+| settlement | sophisticated | sovereign   |
+| toll       | tone          | sow         |
 
-| im-               |                           |                      |
-| ----------------- | ------------------------- | -------------------- |
-| impart 给予，告知 | impact 影响，冲击         | implement 实施，工具 |
-| implication 暗示  | implicit 不言明的，绝对的 | imply 意味着         |
-| import 进口       | importance                | important            |
-| impose 强加于     | improve                   | impulse pulse        |
-| impress           | impression                | impressive           |
+| im-         |            |            |
+| ----------- | ---------- | ---------- |
+| impart      | impact     | implement  |
+| implication | implicit   | imply      |
+| import      | importance | important  |
+| impose      | improve    | impulse    |
+| impress     | impression | impressive |
 
 #### Unit7
 
