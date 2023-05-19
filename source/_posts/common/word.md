@@ -148,27 +148,27 @@ categories: common
 
 #### Unit7
 
-| Words                  |                        |                      |
-| ---------------------- | ---------------------- | -------------------- |
-| choke                  | chop                   | circumstance         |
-| cite                   | claim                  | border               |
-| bore                   | born                   | acquire 获得         |
-| despite 不管           | bother                 | acquisition          |
-| act                    | actual                 | acute 敏锐的，严重的 |
-| action                 | activate               | activity             |
-| despise 蔑视，鄙视     | force                  | enforce              |
-| engage                 | fore                   | foresee              |
-| engagement             | forecast               | forge                |
-| grim                   | grasp                  | gross                |
-| guarantee 保证，保证书 | guard 看守             | include              |
-| incorporate 吸收       | increase increasingly  | inclusive            |
-| incredible 难以置信的  | incur 招致，引起，遭受 | slack 松弛的         |
-| literally              | literary               | literture 字面意义的 |
-| mental 精神的          | mention                | mentor 导师          |
-| otherwise 否则         | sign signature signal  | signify              |
-| matter                 | significance           | significant          |
-| simple                 | simplicity             | simplify             |
-| memo                   | memory 备忘，记忆      | simply 仅仅，只不过  |
+| Words              |                       |              |
+| ------------------ | --------------------- | ------------ |
+| choke              | chop                  | circumstance |
+| cite               | claim                 | border       |
+| bore               | born                  | acquire      |
+| despite            | bother                | acquisition  |
+| act                | actual                | acute        |
+| action             | activate              | activity     |
+| despise 蔑视，鄙视 | force                 | enforce      |
+| engage             | fore                  | foresee      |
+| engagement         | forecast              | forge        |
+| grim               | grasp                 | gross        |
+| guarantee          | guard                 | include      |
+| incorporate        | increase increasingly | inclusive    |
+| incredible         | incur                 | slack        |
+| literally          | literary              | literture    |
+| mental             | mention               | mentor       |
+| otherwise          | sign signature signal | signify      |
+| matter             | significance          | significant  |
+| simple             | simplicity            | simplify     |
+| memo               | memory                | simply       |
 
 ### 第二节
 
