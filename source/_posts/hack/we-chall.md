@@ -1,7 +1,7 @@
 ---
 title: We Chall
 date: 2022-6-30
-tags: handson
+tags: practice
 categories: hack
 ---
 
