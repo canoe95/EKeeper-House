@@ -61,13 +61,11 @@ date: 2022-08-17 17:53:28
 
 - ★★☆ Java
 - ★★☆ C/C++、Python
-- ★★☆ Redis
 - ★★☆ MySQL
 - ★★☆ Linux
-- ★☆☆ SpringBoot
-- ★☆☆ Docker、RabbitMQ
-- ★☆☆ HTML、JavaScript
-- ★☆☆ Vue、Electron
+- ★☆☆ SpringBoot、MyBatis
+- ★☆☆ Docker、RabbitMQ、Redis
+- ★☆☆ HTML、JS、Vue、Electron
 
 <center><h1>熊熊的仓库</h1></center>
 
