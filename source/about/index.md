@@ -4,7 +4,7 @@ date: 2022-08-17 17:53:28
 ---
 
  <center>
-    <h1>熊熊的简历</h1>
+    <h1>Northboat</h1>
 	<div>
         <img src="./assets/phone-solid.svg" style="width:17px; display:inline-block"></img>
         <span>18630338418</span>
@@ -19,6 +19,7 @@ date: 2022-08-17 17:53:28
         <span><a href="https://northboat.netlify.app/">Blog</a></span>
  	</div>
  </center>
+
 
 
 
