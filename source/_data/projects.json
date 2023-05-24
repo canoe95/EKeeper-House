@@ -2,11 +2,11 @@
     {
        "name":"MyOJ",
        "url":"https://github.com/northboat/MyOJ",
-       "desc":"一个供校内学生使用的在线判题平台"
+       "desc":"一个供校内学生使用的 C/C++ 和 Java 在线判题平台"
     },
     {
        "name":"Aides",
        "url":"https://github.com/northboat/Aides",
-       "desc":"一个可以随时访问的本地私人 AI 助手，通过服务器消息队列传输命令和反馈，本地集成 ChatGLM 的问答服务"
+       "desc":"一个可以随时访问的本地 ChatGLM 助手和 Shell，通过 RabbitMQ 和 Redis 实现消息传输"
     }
 ]

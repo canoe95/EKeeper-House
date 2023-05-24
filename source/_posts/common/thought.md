@@ -1,5 +1,5 @@
 ---
-title: My Chinese is good
+title: 瞎几把写
 date: 2020-8-12
 tags: living
 categories: common
