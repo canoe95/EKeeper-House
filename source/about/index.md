@@ -84,7 +84,7 @@ date: 2022-08-17 17:53:28
 | 9    | <a href="https://github.com/northBoat/Remote-Controller-2" target="_blank">基于 SpringBoot/Redis 的远程控制程序</a> | 使用 Redis 实现一定程度的消息监听和传输，网页作为生产者设置键值，本地 PC 监听消费 |
 | 10   | <a href="https://github.com/northboat/MyOJ" target="_blank">基于 SpringBoot/Docker 的在线判题平台</a> | 全栈开发，前后端分离，前端 Vue，后端 SpringBoot，使用 Docker 进行代码测试（判题），MyBatis 操纵 MySQL，Redis 用作验证码注册以及点赞功能实现 |
 | 11   | <a href="https://github.com/northboat/Assembly-Experiment" target="_blank">汇编程序设计实验</a> | 汇编程序设计基础                                             |
-| 12   | <a href="https://github.com/northboat/EKeeper" target="_blank">部门博客 - Hexo</a> | e 管家的博客，和杨共同完成，git 操作上碰到一些操蛋的问题     |
+| 12   | <a href="https://github.com/NEUQEKeeper/Ekeeper2.0" target="_blank">部门博客 - Hexo</a> | e 管家的博客，多人合作完成，git 操作实践                     |
 | 13   | <a href="https://github.com/northBoat/Compile-Experiment" target="_blank">词法/语法分析器 - Flex/Bison 实现</a> | 编译原理实验                                                 |
 | 14   | <a href="https://github.com/northBoat/OS-Experiment" target="_blank">操作系统算法模拟 - C++ 实现</a> | 操作系统实验                                                 |
 | 15   | <a href="https://github.com/northBoat/IC-Experiment" target="_blank">Verilog 集成电路设计及接口实验</a> | 计组实验、课设及接口实验                                     |
