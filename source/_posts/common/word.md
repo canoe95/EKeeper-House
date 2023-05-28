@@ -284,7 +284,7 @@ categories: common
 | legislation 立法       | imitation 效仿          | schedule               |
 | levy 征收              | level 平衡              | lever 杠杆             |
 | manipulate 恶意操纵    | mandate 授权，任期      | manfest 显示，显然的   |
-| massive 大西王         | mass                    | massacre               |
+| massive 大量的         | mass                    | massacre 大西王        |
 | offend 冒犯，侵犯      | passion                 | quote                  |
 | offender 阿伟罗        | passive                 | cite                   |
 | parallel 平行的        | offset 修正，偏差       | offspring 生产，出生   |
@@ -360,7 +360,7 @@ categories: common
 | console 安慰            | frustrate 挫折        | constant            |
 | consist                 | associate             | monotonous          |
 | consistent 组成         | association 联想      | various             |
-| constituent             | constitute            | constiution 构成    |
+| constituent             | constitute            | constitution 构成   |
 | fruitful 硕果累累的     | constrain 约束        | construct 构建      |
 | distinct                | distinction           | distinguish 不同    |
 | fund                    | evidence              | strike 打击         |
@@ -381,7 +381,7 @@ categories: common
 
 | Words                       |                        |                               |
 | --------------------------- | ---------------------- | ----------------------------- |
-| apart 分离地                | startle 恐吓，惊吓     | starive 饿                    |
+| apart 分离地                | startle 恐吓，惊吓     | starve 饿死                   |
 | stand                       | standard               | standpoint                    |
 | state 状态，州              | statement 陈述         | statesman 政治家              |
 | statistics 统计数据，统计学 | statue 雕像            | status 地位，身份，状况       |
@@ -524,6 +524,8 @@ categories: common
 | budget 预算            | possess                 | pose 姿势             |
 | amateur 业余的         | possession 拥有         | position 位置         |
 | dilute 稀释，冲淡      |                         |                       |
+
+### 第四节
 
 #### Unit21
 
