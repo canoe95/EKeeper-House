@@ -697,6 +697,13 @@ categories: common
 | propose     | proposition | prospect |
 | prospective | protocol    |          |
 
+## 阅读词
 
+| 英一 10-13           |                     |                     |
+| -------------------- | ------------------- | ------------------- |
+| flourish             | enormous            | tackle 处理         |
+| eradicate 根除       | sacred 神圣的       | crude 粗糙的        |
+| discernible 可辨认的 | distinctly 显然     | oppession 压迫      |
+| vanish 消失          | implicit explicit   | demoralization 低落 |
+| synthetic 人造的     | justify 证明...合理 | construction        |
 
-## 基础词
