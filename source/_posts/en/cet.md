@@ -1,8 +1,7 @@
 ---
 title: 六级词根根
 date: 2022-11-09 15:11:28
-tags: english
-categories: common
+categories: english
 ---
 
 ## 前缀

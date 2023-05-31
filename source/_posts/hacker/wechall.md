@@ -1,8 +1,7 @@
 ---
 title: We Chall
 date: 2022-6-30
-tags: practice
-categories: hack
+categories: hacker
 ---
 
 [WeChall](https://www.wechall.net/)，写着玩的

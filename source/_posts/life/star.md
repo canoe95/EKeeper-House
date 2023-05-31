@@ -1,8 +1,7 @@
 ---
 title: "if stared == learned: print('hahaha')"
 date: 2021-5-3
-tags: living
-categories: common
+categories: living
 ---
 
 ## 2020

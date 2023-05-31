@@ -1,8 +1,7 @@
 ---
 title: 瞎几把写
 date: 2020-8-12
-tags: living
-categories: common
+categories: living
 ---
 
 ## 随笔
