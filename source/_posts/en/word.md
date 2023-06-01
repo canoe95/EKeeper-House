@@ -508,7 +508,7 @@ categories: english
 | spoil 破坏，宠溺       | spy 间谍，监视          | spur 刺激，马刺       |
 | stable                 | refer                   | militant 好战的       |
 | stability 稳定         | reference 涉及          | military 军队         |
-| subject                | subjective              | objective 主观        |
+| subject                | subjective 主观         | objective 客观        |
 | sponsor 赞助者，支持   | redeem 补救，挽回       | epoch 时代            |
 | indignant              | indispenable 必不可少的 | individual 个体的     |
 | indignantion 愤怒      | episode 片段            | conference 会议       |

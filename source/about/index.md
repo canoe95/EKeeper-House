@@ -19,10 +19,6 @@ date: 2022-08-17 17:53:28
         <span><a href="https://northboat.netlify.app/">Blog</a></span>
  	</div>
  </center>
-
-
-
-
  ## <img src="./assets/info-circle-solid.svg" align="left" width="30px"> &nbsp;个人信息
 
 - 2001年生，男，汉族，湖南人
