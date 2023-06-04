@@ -546,10 +546,9 @@ categories: english
 
 | con-                |          |                 |
 | ------------------- | -------- | --------------- |
-| contempt            | content  | content         |
+| contempt            | content  | contrary 相反的 |
 | contest             | context  | contract        |
 | contemporary 时代的 | contrast | contradict 反驳 |
-| contrary 相反的     |          |                 |
 
 | sub-              |                    |                    |
 | ----------------- | ------------------ | ------------------ |
