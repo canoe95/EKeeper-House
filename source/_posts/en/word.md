@@ -590,12 +590,12 @@ categories: english
 | cumulative | average   | award       |
 | aware      | awkward   | extravagant |
 | extreme    | invisible | invoke      |
-| involve    | ouerturn  | ouershelm   |
+| involve    | overturn  | overwhelm   |
 | purchase   | pursue    | pursuit     |
 | puzzle     | reverse   | revise      |
 | revive     | rival     | route       |
 | routine    | surname   | susceptible |
-| suspend    | suspet    | suspicion   |
+| suspend    | suspect   | suspicion   |
 | suspicious | sustain   | swarm       |
 | swear      | swell     |             |
 
