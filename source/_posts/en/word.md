@@ -662,7 +662,7 @@ categories: english
 
 | super-      | 超级     |             |
 | ----------- | -------- | ----------- |
-| super       | superb   | superficail |
+| super       | superb   | superficial |
 | superfluous | superior | superiority |
 | supervise   |          |             |
 
