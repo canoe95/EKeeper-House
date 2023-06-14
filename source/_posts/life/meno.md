@@ -1,7 +1,7 @@
 ---
 title: 备忘
 date: 2023-6-9
-categories: living
+categories: live
 ---
 
 ## 数学

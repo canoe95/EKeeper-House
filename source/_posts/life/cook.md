@@ -1,7 +1,7 @@
 ---
 title: 食咗咩啊 😋
 date: 2022-07-29 01:59:28
-categories: living
+categories: live
 ---
 
 ## 面
