@@ -16,9 +16,10 @@ date: 2022-08-17 17:53:28
         <span><a href="https://github.com/northboat">GitHub</a></span>
         ·
      	<img src="./assets/rss-solid.svg" style="width:17px; display:inline-block">
-        <span><a href="https://northboat.netlify.app/">Blog</a></span>
+        <span><a href="https://northboat.github.io/">Blog</a></span>
  	</div>
  </center>
+
  ## <img src="./assets/info-circle-solid.svg" align="left" width="30px"> &nbsp;个人信息
 
 - 2001年生，男，汉族，湖南人
@@ -76,7 +77,7 @@ date: 2022-08-17 17:53:28
 
 | --   | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 0    | <a href="https://northboat.netlify.app">基于 VuePress 的静态博客</a> | 我的文档                                                     |
+| 0    | <a href="https://northboat.github.io">基于 VuePress 的静态博客</a> | 我的文档                                                     |
 | 1    | <a href="https://github.com/northBoat/Barber-Shop" target="_blank">基于 C/C++ 的理发店信息管理系统</a> | C++ 程序设计课设，一个原始的黑框框程序，数组指针实现         |
 | 2    | <a href="https://github.com/northBoat/Fencing-Matchman" target="_blank">基于 C++/Easy-X 的双人击剑小游戏</a> | 2084 考核项目，C++ GUI 图形库 Easy-X 做的双人小游戏          |
 | 3    | <a href="https://github.com/northBoat/NEUQHelper" target="_blank">基于 JSP/JDBC 的微型贴吧</a> | Web 基础，原始的 C3P0 操作 MySQL，JSP 实现前后端数据交互，很简陋的 HTML 页面，Java 课设 |
