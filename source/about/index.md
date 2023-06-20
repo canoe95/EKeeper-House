@@ -71,7 +71,7 @@ date: 2022-08-17 17:53:28
 
 ## <img src="./assets/comment.svg" align="left" width="30px">&nbsp;自我评价
 
-- 对代码有热情，对漏洞有激情，吃苦耐劳，心态平稳，学习能力强，抗压能力强
+- 对代码有热情，思维活跃，心态平稳，学习能力强，抗压能力强
 
 ## <img src="./assets/repo.svg" align="left" width="30px"> &nbsp;我的仓库
 
