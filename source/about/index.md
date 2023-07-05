@@ -72,28 +72,3 @@ date: 2022-08-17 17:53:28
 ## <img src="./assets/comment.svg" align="left" width="30px">&nbsp;自我评价
 
 - 对代码有热情，思维活跃，心态平稳，学习能力强，抗压能力强
-
-## <img src="./assets/repo.svg" align="left" width="30px"> &nbsp;我的仓库
-
-| --   | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 0    | <a href="https://northboat.github.io">基于 VuePress 的静态博客</a> | 我的文档                                                     |
-| 1    | <a href="https://github.com/northBoat/Barber-Shop" target="_blank">基于 C/C++ 的理发店信息管理系统</a> | C++ 程序设计课设，一个原始的黑框框程序，数组指针实现         |
-| 2    | <a href="https://github.com/northBoat/Fencing-Matchman" target="_blank">基于 C++/Easy-X 的双人击剑小游戏</a> | 2084 考核项目，C++ GUI 图形库 Easy-X 做的双人小游戏          |
-| 3    | <a href="https://github.com/northBoat/NEUQHelper" target="_blank">基于 JSP/JDBC 的微型贴吧</a> | Web 基础，原始的 C3P0 操作 MySQL，JSP 实现前后端数据交互，很简陋的 HTML 页面，Java 课设 |
-| 4    | <a href="https://github.com/northBoat/Remote-Controller-1" target="_blank">基于 JSP/JavaSocket 的远程关机程序</a> | 基于 JavaSockets 实现极有限的消息传输，通过网页向服务器发送 Sockets 套接字，通知监听服务器的本地 PC 执行关机命令 |
-| 5    | <a href="https://github.com/northBoat/MyLisp" target="_blank">基于 C 的微型 Lisp 编译器</a> | 《Build Your Own Lisp》                                      |
-| 6    | <a href="https://github.com/northBoat/FrontEnd-Toys" target="_blank">基于 HTML/CSS/JS 的小玩具</a> | 一些纯前端小游戏或有趣的小页面                               |
-| 7    | <a href="https://github.com/northBoat/Performance-Analysis-System" target="_blank">基于 SpringBoot 的成绩管理系统</a> | SpringBoot 入门，没有外接数据库，Thymeleaf 实现前后端数据交互，数据结构课设 |
-| 8    | <a href="https://github.com/northBoat/PostOffice" target="_blank">基于 SpringBoot/MyBatis 的邮件收发系统</a> | JavaX-Mail 实现邮件发送，JUC 编程控制邮件发送时间            |
-| 9    | <a href="https://github.com/northBoat/Remote-Controller-2" target="_blank">基于 SpringBoot/Redis 的远程控制程序</a> | 使用 Redis 实现一定程度的消息监听和传输，网页作为生产者设置键值，本地 PC 监听消费 |
-| 10   | <a href="https://github.com/northboat/MyOJ" target="_blank">基于 SpringBoot/Docker 的在线判题平台</a> | 全栈开发，前后端分离，前端 Vue，后端 SpringBoot，使用 Docker 进行代码测试（判题），MyBatis 操纵 MySQL，Redis 用作验证码注册以及点赞功能实现 |
-| 11   | <a href="https://github.com/northboat/Assembly-Experiment" target="_blank">汇编程序设计实验</a> | 汇编程序设计基础                                             |
-| 12   | <a href="https://github.com/NEUQEKeeper/Ekeeper2.0" target="_blank">部门博客 - Hexo</a> | e 管家的博客，多人合作完成，git 操作实践                     |
-| 13   | <a href="https://github.com/northBoat/Compile-Experiment" target="_blank">词法/语法分析器 - Flex/Bison 实现</a> | 编译原理实验                                                 |
-| 14   | <a href="https://github.com/northBoat/OS-Experiment" target="_blank">操作系统算法模拟 - C++ 实现</a> | 操作系统实验                                                 |
-| 15   | <a href="https://github.com/northBoat/IC-Experiment" target="_blank">Verilog 集成电路设计及接口实验</a> | 计组实验、课设及接口实验                                     |
-| 16   | <a href="https://github.com/northBoat/Bear-ChatRoom" target="_blank">基于 SpringBoot/WebSockets 的聊天室</a> | Websockets 实现一个在线的网页聊天室，Thymeleaf 交互          |
-| 17   | <a href="https://github.com/northboat/Aides" target="_blank">基于 SpringBoot/RabbitMQ 的远程 AI 助手</a> | 用户通过网页向本地 PC 机消息传输（网页端实现消息传输功能），本地机集成 ChatGLM 对用户问答进行返回，同时提供一个交互式的 Shell 命令框（本地端实现消息处理功能） |
-| 18   | <a href="https://github.com/northboat/Linux-Experiment" target="_blank">Linux 基础及内核分析</a> | Linux 实验                                                   |
-| 19   | <a href="https://github.com/northboat/ChatGPT-Electron" target="_blank">基于 Electron/Flask 的 ChatGPT 桌面应用</a> | 前端 Electron，后端 Python Flask，引入 ChatGPT API，实现简单交互 |
