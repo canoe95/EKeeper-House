@@ -15,7 +15,6 @@ direction: ltr
 # languages/*.yml
 nav:
   Home: /
-  About: /about/
   Music: /music/
   Archives: /archives/
 
